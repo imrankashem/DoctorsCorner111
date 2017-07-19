@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Islami Bank Medical College Hospita
+ibmcr_bd@yahoo.com
+For College +88-01917089705
+For Hospital +88-01915997646
+
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+     Department of Anatomy\n\n
+
+Prof. Dr. Md. Nazrul Islam
+MBBS, M Phil, M.Sc, D.Med
+Principal
+\n\n
+Dr. Most. Monzuara Khatun
+MBBS, M.Phil
+Asst. Professor
+\n\n
+Dr. Mokhlesur Rahman
+MBBS
+Assistant Professor
+\n\n
+Dr. Shanin Sultana
+MBBS
+Lecturer
+\n\n
+Dr. Sultana Razia
+MBBS
+Lecturer
+\n\n
+Dr. Zannatul Ferdousi
+MBBS
+Lecturer
+\n\n
+Dr. Khabir Uddin Shake
+MBBS
+Lecturer
+\n\n
+Dr. Nirmal Kumar Sarkar
+MBBS
+Lecturer
+\n\n
+Dr. Rownaq Ferdous
+MBBS
+Lecturer
+\n\n
+Department of Physiology\n\n
+
+Dr. Md. Manzurur Rahman Shah Chowdury
+MBBS, M.Phil
+Assistant Professor  Head
+\n\n
+
+Dr. Abul Kalam Azad
+MBBS, M.Phil
+Assistant Professor
+\n\n
+
+Mst. Mahmuda Begam
+M A in Physiology
+Sr. Lecturer
+\n\n
+
+Dr. Lutfunnessa Sultana
+MBBS
+Lecturer
+\n\n
+
+Dr. Abdul Ahad
+MBBS
+Lecturer
+\n\n
+     Department of Biochemistry
+
+\n\n
+
+Prof. Dr. Md. Obaidullah
+MBBS, M.Phil
+Professor &amp; Head\n\n
+
+Dr. Mehajabin Tusquin Khan
+MBBS
+Lecturer
+\n\n
+
+Dr. Zafrina Zannat Shamim
+MBBS
+Lecturer
+\n\n
+
+Dr. Mahmuda Mubashewra
+MBBS
+Lecturer
+\n\n
+
+Dr. Afsana Parvin
+MBBS
+Lecturer
+\n\n
+
+
+
+
+
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </ScrollView>

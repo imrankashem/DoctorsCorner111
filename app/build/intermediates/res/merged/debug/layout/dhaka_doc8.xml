@@ -1,0 +1,164 @@
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dhaka Medical College
+02 55 165088
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. Fazlul Hoque
+Qualification : MBBS, FCPS, FRCP ( Edinburgh ),
+FRCP ( Glasgow ),FACP ( USA ), FCPS ( Pak )
+Designation : Professor, Ex - Head, Medicine Department,
+Dhaka Medical Collage Hospital
+Expertise : Medicine
+Organization: Ex - Principal,
+Dhaka Medical College  Hospital
+Chamber: Northern International Medical College  Hospital
+Location: House # 84, Road # 8/A ( New ), Dhanmondi, Dhaka - 1209, Bangladesh
+Phone: +880-2-8156914, 8156839, 9133505, 9111381,
+Cell: +880 1674058435, +880 1715153935 ( Chamber )\n\n
+Professor Dr. Md. Fazlul Hoque
+Qualification : MBBS, FCPS, FRCP ( Edin ), FRCP ( Glasgow ), FACP ( USA ), FCPS ( Pak. )
+Designation : Former Head, Department of Medicine, DMC
+Expertise : Medicine
+Organization: Retired from Dhaka Medical College  Hospital
+Chamber: Northern International Medical College  Hospital
+Location: House # 84, Road # 8/A ( New ), Dhanmondi, Dhaka - 1209
+Phone: +880-2-8156914, 8156839, 9133505, 9111381 ( Chamber )\n\n
+
+Professor Dr. H A M Nazmul Ahsan
+Qualification : MBBS, FCPS, FRCP (Glasgow) FRCP (Edin), FACP (USA)
+Designation : Professor of Medicine
+Expertise : Medicine
+Organization: Dhaka Medical College  Hospital
+Chamber: Popular Diagnostic Centre Ltd
+Location: House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone: +880-2-9669480, 9661491-3\n\n
+Professor Dr. Khan Abul Kalam Azad
+Qualification : MBBS (DMC) FCPS (Medicine)
+Designation : Professor of Medicine
+Expertise : Medicine
+Organization: Dhaka Medical College  Hospital
+Chamber: Popular Diagnostic Centre Ltd
+Location: House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone: +880-2-9669480, 9661491-3, 01553341060, 01553341061\n\n
+Professor Dr. Khan Abul Kalam Azad
+Qualification : MBBS (DMC) FCPS (Medicine)
+Designation : Professor of Medicine
+Expertise : Medicine
+Organization: Dhaka Medical College  Hospital
+Chamber: Popular Diagnostic Centre Ltd
+Location: House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone: +880-2-9669480, 9661491-3, 01553341060, 01553341061\n\n
+Professor Dr. Q. Tarikul Islam
+Qualification : MBBS, FCPS, FACP (USA), FRCP
+Designation : Professor of Medicine
+Expertise : Medicine
+Organization: Dhaka Medical College  Hospital
+Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Location: House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone: +880-2-9669480, 9661491-3\n\n
+ Professor Dr. Mohammad Azizul kahar
+
+MBBS, MRCP ( UK ), FCPS
+Designation : Professor
+Expertise : Internal Medicine
+Organization: Dhaka Medical College  Hospital
+Chamber: Anwer Khan Modern Hospital Ltd.
+Location: House # 17, Road # 8, Dhanmondi, Dhaka-1205.
+Phone: +880-2-9661213, 9670295, 9667985, Ext - 431\n\n
+Dr. Muhammad Jahir Uddin
+Qualification : MBBS, FCPS ( Medicine ), MD ( Internal Medicine ), MACP ( USA )
+Designation : Associate Professor
+Expertise : Medicine
+Organization: Dhaka Medical College  Hospital
+Chamber: Ibn Sina Diagnostic  Imaging Center
+Location: House # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209, Bangladesh
+Phone: +880-2-9128835-7, 9126625-6, Cell: +880 1717351631, +880 1913568759 ( Chamber ) \n\n
+Dr. Md. Billal Alam
+Qualification : MBBS, FCPS, MACP, FACP(USA)
+Designation : Associate Professor
+Expertise : Medicine
+Organization: Dhaka Medical College Hospital
+Chamber: Popular Diagnostic Centre Ltd. - Shyamoli Branch
+Location: Hous# (22/7)29, Bir Uttam A.N.M Nuruzzaman Sorak, (Babor road)
+Block# b, Mohammadpur, Dhaka-1207, Bangladesh
+Phone: +880-2- 9111911( Chamber )\n\n
+Dr. Md. Golam Kibria Khan
+Qualification : MBBS (Dhaka), FCPS (Medicine),
+MACP (USA),FACP (USA), Rheumatology Fellow (USA)
+Designation : Associate Professor
+Expertise : Medicine
+Organization: Dhaka Medical College Hospital
+Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Location: House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone: +880-2-9669480, 9661491-3 ( Chamber )\n\n
+Dr. Md. Titu Miah
+Qualification : MBBS, FCPS (Medicine)
+Designation : Assistant Professor
+Expertise : Medicine
+Organization: Dhaka Medical College Hospital
+Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Location: House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone: +880-2-9669480, 9661491-3 ( Chamber )\n\n
+Dr. Sudip Ranjan Dev
+Qualification : FCPS ( Medicine )
+Designation : Resident Physician
+Expertise : Medicine
+Organization: Dhaka Medical College  Hospital
+Chamber: Liver Foundation of Bangladesh
+Location: 150, Green Road, Pathapath ( 3rd floor ) , Dhak a- 1215, Bangladesh
+Phone: +880-2-9146537, 01732999922 \n\n
+Dr. A, B, Siddiq
+Qualification : MBBS, MD(Internal Medicine)
+Designation : Specialist
+Expertise : Internal Medicine
+Organization: Dhaka Medical College  Hospital
+Chamber: Saic Digital Diagnostic Lab
+Location: 14, Sweden Plaza , Main Road, Mirpur- 1, Dhaka
+Phone: + 880-2-9015122-3
+\n\n
+
+
+
+
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+          />
+        </RelativeLayout>
+    </ScrollView>

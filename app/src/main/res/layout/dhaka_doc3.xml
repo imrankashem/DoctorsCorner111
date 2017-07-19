@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Aichi Hospital Ltd.
+Hospital Complex, Plot- 35 37, Sector-08, Abdullahpur, Uttara
+Dhaka-1230
+Land Phone: (+88) 028920165, 028916290
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+            Dr. Moazzem Hossain
+MBBS (Dhaka), PhD (Japan), STPS (England)
+Child Specialist  Laparoscopic Surgeon
+Associate Professor
+East West Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+            Professor Dr. M S Alam
+MBBS, DCH, MD (Pediatric)
+Fellow FIMC, CMC, Madras, India
+Child Specialist
+Professor Head, Department of Child Health
+Shahabuddin Medical College  Hospital
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Jamshed Alam
+  MBBS, BCS (Health)
+FCPS (Child Health), MD (Child Health)
+Neonat, Child Health  Child Cardiology Specialist
+Consultant, Sadar Hospital, Narsingdi
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr.Khaliquzzaman
+MBBS.DCH(Ireland)
+Child Specialist
+Consultant, Aichi Hospital Ltd.
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi5"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Prof. Dr. Md. Shelim Bhuiyan
+MBBS (Dhaka), FCPS (Surgery)
+Higher Training in Surgery (England)
+Retired Professor of Surgery
+Dhaka Medical College Hospital
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi6"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Moazzem Hossain
+MBBS (Dhaka), PhD (Japan), STPS (England)
+Child Specialist Laparoscopic Surgeon
+Associate Professor
+East West Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi7"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Sultana Nasrin Ferdous
+MBBS, MS (General Surgery)
+General  Breast Surgeon
+Associate Professor
+East West Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi8"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Taufiqul Haque
+MBBS, FCPS (Surgery), MRCS (England)
+General  Laparoscopic Surgeon
+Assistant Professor of Surgery
+Moulana Bhasani Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi9"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Md. Ruhul Quddus
+MBBS, FCPS (Surgery), MS (Uro) Thesis Part
+Consultant Surgery
+General  Laparoscopic Surgeon
+National Institute of Kidney Diseases  Urology
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi10"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Md. Humayun Kabir Khan
+MBBS (Dhaka), MS (Paed)
+Neonate, Child  Adolescent Specialist Surgeon
+Consultant, Aichi Hospital Ltd.
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi11"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+ Dr. Md. Ashrafuzzaman
+MBBS, BCS (Health), FPRSB (Japan), FISBI (USA)
+Specialist in Burn, Plastic Reconstructive Surgery
+Resident Surgeon, Dept. of Burn  Plastic Surgery
+Dhaka Medical College Hospital
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi12"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. A K M Sarwarul Alam
+MBBS, BCS (Health), PGT ,(Ortho  Uro)
+Fellow (Plastic ,Surgery Burn) Japan
+Registrar, Dept. of Burn, Plastic , Reconstructive Surgery
+Dhaka Medical College Hospital
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi13"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Dipal Krishna Adhikary
+MBBS, MD (Cardiology)
+Medicine  Heart Specialist
+Associate Professor
+Kumudini Woman’s Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi14"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Ehteshamul Haque Shaheen
+MBBS, Dip. Card, MD (Cardiology)
+Cardiology - Medicine Specialist
+Associate Professor
+Z H Sikder Women’s Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi15"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Taslima Hoq Moonmoon
+MBBS, FCPS
+Assistant Professor
+Dept. of Physical Medicine  Rehabilitation
+Shaheed Suhrawardy Medical College  Hospital
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi16"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Humayun Kabir
+MBBS, FCPS (Medicine)
+BCS (Health)
+Medicine Diabetes Specialist
+Dhaka Medical College Hospital
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi17"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Anawarul Anam Kibria
+MBBS, MS (Thoraic Surgery)
+Asst. Professor, Dept. of Thoraic Surgery
+National Institute of the Chest  Hospital
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi18"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Fowaz Hussain (Shuvo)
+MBBS (DMC), MD (Hepatology)
+Interventional Endoscopist, Specialized in Liver Diseases
+Assistant Professor, Dept. of Hepatology
+Mymensingh Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi19"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Tawfiq Aziz
+MBBS (DU), MSc Gastroenterology (UK)
+MRCP Part 1 (UK)
+Asst. Professor of Medicine
+East-West Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi20"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Prof. Dr. Major (Retd.) Ziauddin Haider
+MBBS, Grading Course ENT (AFMI)
+MCPS (ENT), DLO (DU), FRSH (London)
+Nose, Ear, Throat, Head  Neck Specialist Surgeon
+Tairunnesa Medical College  Hospital
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi21"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Md. Mofizuddin
+MBBS, MCPS, DLO (DMC)
+Nose, Ear, Throat, Head Neck Specialist Surgeon
+Associate Professor  Head, Department of ENT
+Nightingale Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi22"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. Anwarul Islam Choudhury
+MBBS, MS (Ortho), FICS (USA)
+Professor  Ex-Chairman
+Ortho-Surgery
+Bangabandhu Sheikh Mujib Medical University
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi23"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Md. Matiur Rahman
+MBBS, BCS, MS (Orthopedic Surgery  Traumatology)
+Orthopedic  Spine Surgeon
+NITOR (Pangu Hospital)
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi24"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Dr. Md. Matiur Rahman
+MBBS, BCS, MS (Orthopedic Surgery  Traumatology)
+Orthopedic  Spine Surgeon
+NITOR (Pangu Hospital)
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi25"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+A T M Mowladad Chowdhury
+MBBS, FCPS (Surgery), MRCS (Edin)
+MRCPS (Glasgo), MS (Urology)
+Urology, Andrologist, Transplant  Laparoscopic Surgeon
+Associate Professor, Department of Urology
+BIRDEM Hospital  Ibrahimm Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi26"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Md. Abdus Salam
+MBBS (DMC), MS (Urology)
+Fellow, WHO (Indonesia)
+Consultant Urologist
+Bangabandhu Sheikh Mujib Medical University
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi27"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Md. Shafiqul Islam
+MBBS, MS (Neurosurgery), PhD (Neurosurgery, Japan)
+Fellowship Training in Neurointervention  Stroke (Japan, India)
+Assistant Professor, Dept. of Neurosurgery
+Sir Salimullah Medical College  Hospital
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi28"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Masud Anwar
+MBBS (DU), MSC (Clinical Neurology, London)
+Consultant
+Brain, Pain, Paralysis, Medicine  Neuromedicine Specialist
+Neuro- ICU (In charge)
+Z H Sikder Woman’s Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi29"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Mohammad Tariqul Alam (Sumon)
+MBBS, MCPS (PSYCH), FCPS (Final Part)
+Drug Addiction  Mental Disease Specialist
+Assistant Professor cum RP
+National Institute of Mental Health, Dhaka
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/docchi31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi30"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Prof. Dr. Moinuddin
+MBBS, FCPS (PSYCH)
+Professor of Psychiatry Department
+Moulana Bhasani Medical College
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+
+    </RelativeLayout>
+
+</ScrollView>

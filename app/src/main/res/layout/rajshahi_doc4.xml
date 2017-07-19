@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Popular Diagnostic Centre Ltd. Rajshahi
+
+Chowdhury Tower, B-474, Chowdhury Lane,
+Luxmipur, Rajshahi-6000
+Tel :0721-812117,812118
+Web: populardiagnostic.com
+Fax :0721-812119
+Location &amp; Doctor List
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />      <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+        android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+
+PROF.DR. HASINA AKHTER
+Speciality : OBSTETRICS AND GYNECOLOGY\n\n
+
+
+ASSOC. PROF. DR. SHAHELA JESMIN SHILPEE
+Speciality : OBSTETRICS AND GYNECOLOGY\n\n
+
+
+DR. RAKHI DEBI
+Speciality : OBSTETRICS AND GYNECOLOGY\n\n
+
+
+ASSOC. PROF. DR. MD. RAIS UDDIN
+Speciality : CARDIOLOGIST\n\n
+
+
+PROF. DR. MOAZZEM HOSSAIN
+Speciality : SKIN AND SEX DISEASE SPECIALIST\n\n
+
+
+DR. MD. GOLAM KAZEM ALI AHMED
+Speciality : SKIN AND SEX DISEASE SPECIALIST\n\n
+
+
+PROF. DR. A.K.M MONOARUL ISLAM
+Speciality : NEPHROLOGIST\n\n
+
+
+ASSOC. PROF. DR. MD. KHALILUR RAHMAN
+Speciality : MEDICINE\n\n
+
+
+ASSOC. PROF. DR. MD. MAHBUBUR RAHMAN KHAN
+Speciality : MEDICINE\n\n
+
+
+ASSOC. PROF. DR. MOHAMMAD HASAN TARIK
+Speciality : MEDICINE\n\n
+
+
+ASST. PROF. DR. MD. NURE-ALAM SIDDIQUI
+Speciality : MEDICINE\n\n
+
+
+ASST. PROF. DR. MD. ZAHIRUL HAQUE
+Speciality : MEDICINE\n\n
+
+
+ASST. PROF. DR. BOLAI CHANDRA SARKER
+Speciality : MEDICINE\n\n
+
+
+ASST. PROF. DR. PROBIR MOHAN BASAK
+Speciality : MEDICINE\n\n
+
+
+ASSOC. PROF. DR. MD. KAFIL UDDIN
+Speciality : NEUROLOGY\n\n
+
+
+ASSOC. PROF. DR. M. AHMED ALI
+Speciality : NEUROLOGY\n\n
+
+
+ASST. PROF. DR. MUNZUR ALAHI
+Speciality : NEUROLOGY\n\n
+
+
+ASST. PROF. DR. MD. PARVEZ AMIN
+Speciality : NEUROLOGY\n\n
+
+
+ASSOC. PROF. DR. SHEIKH MD. EKRAMULLAH
+Speciality : BRAIN AND SPINE SPECIALIST\n\n
+
+
+DR. MD. A.F.M MOMTAZUL HAQUE
+Speciality : NEURO SURGEON\n\n
+
+
+ASSOC. PROF. DR. MD. SANAUL HAQUE
+Speciality : PADIATRICT\n\n
+
+
+ASSOC. PROF. DR. MD. BELAL UDDIN
+Speciality : PADIATRICT\n\n
+
+
+ASSOC. PROF. DR. MD. NOWSHAD ALI
+Speciality : PADIATRICT\n\n
+
+
+ASST. PROF. DR. MOHD. HARUN-OR-RASHID
+Speciality : GASTROENTEROLOGY\n\n
+
+
+DR. MD. KHALEQUZZAMAN SARKER
+Speciality : GASTROENTEROLOGY\n\n
+
+
+ASST. PROF. DR. DEBASHISH ROY
+Speciality : ORTHOPAEDICS SPECIALIST\n\n
+
+
+ASST. PROF. SUBRATA KUMAR PRAMANIK
+Speciality : ORTHOPAEDICS SPECIALIST\n\n
+
+
+DR. MD. SHAFIQUL ISLAM
+Speciality : ORTHOPAEDICS SPECIALIST\n\n
+
+
+ASST. PROF. DR. SAMIR MAJUMDER
+Speciality : RESPIRATORY MEDICINE\n\n
+
+
+ASST. PROF. DR. RAZAUL ISLAM
+Speciality : RESPIRATORY MEDICINE\n\n
+
+
+ASSOC. PROF. DR. D.A RASHID
+Speciality : ENDOCRINOLOGY\n\n
+
+
+DR. MD. MOTIUR RAHMAN
+Speciality : ENDOCRINOLOGY\n\n
+
+
+ASSOC. PROF. DR. M. A. MATIN
+Speciality : ENT SPECIALIST\n\n
+
+
+ASST. PROF. DR. SUBRATA GHOSH
+Speciality : ENT SPECIALIST\n\n
+
+
+PROF. DR. ABUL KASHEM SARKER
+Speciality : UROLOGY SPECIALIST\n\n
+
+
+ASSOC. PROF. DR. SUZON AL HASAN
+Speciality : PHYSICAL MEDICINE AND REHABILITATION\n\n
+
+
+DR. M. MURSHED ZAMAN MIAH
+Speciality : HAEMATOLOGIST\n\n
+
+"
+
+
+            android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+    </ScrollView>

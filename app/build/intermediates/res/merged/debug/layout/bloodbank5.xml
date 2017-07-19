@@ -1,0 +1,53 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Comilla  Blood Bank"
+            android:id="@+id/docchi0"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:textAllCaps="true"
+            android:textSize="23sp"
+            android:gravity="center"/>
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_below="@id/docchi0"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :DonateBloodBd.com
+Address :
+Contact No. :	01756963308 অথবা 01748306027
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+    </RelativeLayout>
+</ScrollView>

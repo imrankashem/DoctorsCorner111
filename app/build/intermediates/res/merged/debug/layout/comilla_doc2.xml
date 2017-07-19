@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+ CD Path &amp; Hospital (Pvt.) Ltd.
+Shishu Mangal Rd, Badurtala, Comilla-3500
+Phone No : 68082, 76527
+Mobile No : +8801711-795791, +8801721-503971
+CT Scan centre : +8801788-720673
+ICU, CCU and Dialysis centres : +8801971-795791
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+ Dr. Abu Ayub Hamid
+MBBS
+General Practitioner (Medicine &amp;amp; Surgery)
+Room No: 301, Appointment Number: 01726-335529
+Consulting Hour: 9:00 AM to 2:00 PM\n\n
+ Professor Dr. Md. Shahab Uddin
+MBBS (Dhaka), FCPS, FACP (USA), FRCP (Edin, UK), FRCP (Glasgow, UK)
+Internal Medicine
+Room No: 312, Appointment Number: 01711-173718
+Consulting Hour: 7:00 AM to 8:00 AM, 3:00 PM to 8:00 PM, Friday 9:00 AM to 2:00 PM\n\n
+
+Professor Dr. Triptish Chandra Ghose
+MBBS, PhD, FACC, FESC, FRCR (Edin)
+Medicine &amp; Heart Specialist
+Professor, Cardiology &amp; Vice principal
+Mainamati Medical College, Comilla
+Room No: 305, Appointment Number: 01711-908745
+Consulting Hour: 2:00 PM to 7:00 PM (Wednesday &amp; Friday close)\n\n
+
+Professor Dr. M. Sajjad Husain
+MBBS, MS,(orth), FICS
+Professor (Rtd) Dept. of Orthopedic Surgery
+National Institute of Traumatology &amp; Orthopedic Rehabilitation (Nitor)
+Room No: 311, Appointments Number: 01711-173718
+Consulting Hour: 9:00 AM to 3:00 PM (Every Friday)\n\n
+
+Dr. Md. Nazmul Hassan Akhand
+MBBS, DVD (Dhaka)
+Skin, Sex, Allergy specialist
+Consultant (Skin &amp; Sex)
+Room No: 314, Appointment Number: 01760-692346
+Consulting Hour: 2:00 PM to 3:00 PM, 5:00 PM to 8:00 PM, Friday 5:00 PM to 8:00 PM (Saturday closed)\n\n
+
+Dr. Mahbubul Islam
+MBBS, DTCD, FCCP (America), M.Sc (Japan)
+Chest Medicine Specialist
+Room No: 302, Appointment Number: 01726-335529
+Consulting Hour: Thursday 4:00 PM to 9:00 PM, Friday 9:00 AM to 1:00 PM, 3:00 PM to 5:00 PM\n\n
+
+Dr. Md. Harun or Rashid
+MBBS (DMC), M, Phil (Psychiatry), BSMMU
+Fellow, World Health Organization (India)
+BCS (Health),  Psychiatry
+Associate Professor, Comilla Medical College &amp; Hospital
+Room No: 303, Appointment Number: 01760-692346
+Consulting Hour: Every day 3:00 PM to 8:00 PM, Friday 10:00 AM to 1:00 PM, 4:00 PM to 6:00 PM\n\n
+
+Dr. Dipankar Lodh
+MBBS, (DMC), BCS (Health), MCPS, DLO, FCPS (ENT)
+Associate Professor (ENT)
+Room No: 304, Appointment Number: 01748-312796
+Consulting Hour: Monday, Thursday, Friday 2:00 PM to 3:00 PM, 7:00 PM to 9:00 PM Friday 9:00 AM to 1:00 PM\n\n
+
+Dr. Afjalunnesa Chowdhury
+MBBS, FCPS (Gynecology), DGO, MCPS (Gynecology)
+Room No: 307, Appointment Number: 01718-338114
+Consulting Hour: Thursday-Friday\n\n
+
+Dr. A.S.M. Mostaque Ahmed
+MBBS, DCH (D.U), FRSH (London)
+Child (Pediatrics) Specialist
+Senior Consultant (Child), General Hospital
+Room No: 306, Appointment Number: 01714-009636
+Consulting Hour: 7:00 AM to AM, 3PM to PM (Friday closed)\n\n
+
+Dr. Jahangir Hossain Bhuiyan
+MBBS (DMC)), BCS (Health), DMART (DU) TTRT (China)
+Cancer Specialist
+Associate Professor &amp; Head of Department
+Radiotherapy &amp; Cancer Ward
+Comilla Medical College &amp; Hospital.
+Room No: 310, Appointment Number: 01711-953170
+Consulting Hour: 4:00 PM to 8:00 PM Every day, Friday 11:00 AM to 12:00 PM\n\n
+
+Dr. Anowarul Aziz Majumder (Ali Noor)
+MBBS
+General Physician
+Room No: 309, Appointment Number: 01712-180665
+Consulting Hour: 9:00 AM to 2:00 PM\n\n
+
+Dr. A.S.M. Ziaddin Sikder
+MBBS (Dhaka) DO (D.U)
+Eye Specialist &amp; Surgeon
+Consultant, Rotary Eye Hospital
+Room No: 308, Appointment Number: 01554-322732
+Consulting Hour: 2:00 PM to 8:00 PM\n\n
+
+Dr. Md. Rejaul Karim (Jamil)
+MD, FCPGS, Phd
+Skin, Sex &amp; Allergy, Physiotherapy &amp; Drug Abuse specialist
+Fellow of Physiotherapy, STD, Andrology &amp; Cosmetology
+MDVA (Mosco), MEDA (USSR),
+Room No: 311, Appointment Number: 01712-525287
+Consulting Hour: Everyday 9:00 AM to 8:00 PM\n\n
+
+Dr. Md. Mahfuzur Rahman
+MBBS, FCPS (Physical Medicine)
+Paralysis &amp; Arthritis Specialist
+Associate Professor  &amp; Head of the Department 
+Physical Medicine 
+Room No: 304, Appointment Number: 01763-861005
+Consulting Hour: Saturday 3.30 PM to 7.30 PM\n\n
+
+Dr. Imran Hamid
+MBBS (DU), PGT (Medicine)
+General Practitioner
+Community Medicine Department
+Room No: 301, Appointment Number: 01726-335529
+Consulting Hour: 4:00 PM to 8:00 PM\n\n
+
+Dr. Md. Nasir Uddin (Kazal)
+MBBS, FCPS (Surgery), MS (Urology)
+Advance Urology Training (Singapore)
+Consultant Urology, General Laparoscopic Surgeon
+Kidney, Urinary septum &amp; Prostate,
+Room No: 308, Appointment Number: 01776-364140
+Consulting Hour: Friday 9:00 AM to 3:00 PM\n\n
+
+Dr. Sukumar Chakraborty
+MBBS, MS (Child Surgery) BSMMU, Dhaka
+Child, General &amp; Laparoscopic Surgeon
+Room No: 302, Appointment Number: 01726-335529
+Consulting Hour: 3:00 PM to 8:00 PM\n\n
+
+Dr. Shantana Rani Paul
+MBBS (Dhaka), BCS (Health), MCPS (Gaynee &amp; OBS), M S (Gaynee &amp; OBS)
+Gaynee &amp; Female disease Specialist and Surgeon
+Room No: 313, Appointment Number: 01763-861005
+Consulting Hour: 3:00 PM to 8:00 PM (Tuesday &amp; Friday closed)\n\n
+
+
+Professor Dr. Mosleh Uddin Ahmed
+MBBS(DU)MTM, (DU), MBSU, FRCP(Glasgow)
+Consultant Sonologist &amp; Immunohematologist
+General Practitioner
+Room No: 202, Appointment Number: 
+Consulting Hour: 3:00 PM to 5:00 PM\n\n
+
+Dr. M. Saidur Rahman Miah
+MBBS, DM, MICLMP, IAEA Fellow (Malaysia &amp; Singapore)
+Associate Professor &amp; Director
+Atomic &amp; Ultrasound Centre
+Comilla Medical College Campus, Comilla
+Room No: 202, Appointment Number: 
+Consulting Hour: 2:00 PM to 9:00 PM (Sunday, Monday, Tuesday, Wednesday, Thursday)\n\n
+
+Dr. Fazlu Miah Bhuiyan
+MBBS, DNM, MICMP 
+Fellow International Atomic Energy Agency
+Thyroid Specialist
+Room No: 201, Appointment Number: 
+Consulting Hour: Saturday to Wednesday 3:00 PM to 8:00 PM (Thursday &amp; Friday Closed)\n\n
+
+Dr. Mallika Biswas
+MBBS, FPJCS (USG)
+Consultant Sonologist
+Room No: 202, Appointment Number: 
+Consulting Hour: 11:00 AM to 3:00 PM (Everyday), Friday closed\n\n
+
+Dr. Muslehuddin Jr.
+MBBS, MPH, DMUD
+Associate professor, Eastern medical college
+Consultant Sonologist  
+Room No: 202, Appointment Number: 
+Consulting Hour: 08.30 AM to 9.30 PM (Everyday)\n\n
+
+Dr. Ashim Kumar Rakshit
+MBBS
+Executive Director (Pathology)
+Room No: 201, Appointment Number: 
+Consulting Hour:\n\n
+
+Dr. Md. Rezaul Alam
+MBBS
+General Practitioner 
+Room No: 203, Appointment Number: 
+Consulting Hour:\n\n
+
+Dr. Md. Kalim Ullah
+MBBS, DLO (DU)
+ENT Specialist &amp; Surgeon
+Room No: 409 , Appointment Number: 01711-333158
+Consulting Hour: Mon-Thursday 5:00 PM to 7:00 PM\n\n
+
+Dr. Bablu Kumar Paul
+MBBS, BCS (Health), MD (Kidney, BSMMU/PG Hospital)
+Medicine &amp; Kidney Specialist
+Comilla Medical College &amp; Hospital
+Room No: 405, Appointment Number: 01776-364140
+Consulting Hour: 7:00 AM to 8:00 AM, .3:00 PM to 8:00 PM (Friday closed)\n\n
+
+Dr. Md. Mizanur Rahman
+MBBS, BCS (Health), DTCD
+Asma &amp; Chest Medicine Specialist
+General Hospital, Comilla
+Room No: 405, Appointment Number: 01776-364140
+Consulting Hour: 7:00 AM to 8:00 AM, 2:00 PM to 8:00 PM (Friday closed)\n\n
+
+Dr. Hafizur Rahman
+MBBS (DMC), BCS (Health), FCPS (Medicine), MD (Cardiology)
+Medicine &amp; Heart Specialist
+Room No: 405, Appoinment Number: 01776-364140
+Consulting Hour: Wednesday to Saturday, 3:00 PM to 8:00 PM\n\n
+
+Dr. Farjana Naz
+BDS (Dhaka), CPR (DMC)
+Oral &amp; Dental Surgeon
+Room No: 408, Appointment Number: 01776-364140
+Consulting Hour: 10:00 AM to 12:00 PM, 3.30 PM to 8:00 PM\n\n
+
+Dr. Humayun Kabir
+MBBS (Dhaka), D- Ortho
+Orthopedic Surgeon and  Specialist
+Room No: 410, Appointment Number: 01776-364140
+Consulting Hour: Saturday, Sunday, Tuesday &amp; Wednesday .3:00 PM to 7.00 PM\n\n
+
+Dr. Sharif Uddin Ahmed
+MBBS, DMC, FCPS (Internal Medicine), MD (Neoro-Medicine)
+Medicine, Nerve &amp; Brain specialist
+Room No: 409, Appointment Number: 01776-364140
+Consulting Hour: Thursday 3:00 PM to 8:00 PM\n\n
+
+Dr. Hasina Akter
+MBBS (Dhaka), FCPS (Gaynee &amp; OBS)
+Female disease &amp; Gynecology specialist &amp; Surgeon
+Room No: 407, Appointment Number: 01776-364140
+Consulting Hour: 3:00 PM to 8:00 PM\n\n
+
+Dr. A.K. Ahmedullah
+MBBS, BCS (Health), MD (Medicine), MD (Rheumatology)
+Rheumatology &amp; Medicine Specialist 
+Room No: 403, Appointment Number: 01776-364140
+Consulting Hour: 3:00 PM to 8:00 PM (Friday closed)\n\n
+
+Dr. Mohammed Shah Jamal
+MBBS, FCPS (Medicine), MD (Gestro)
+Medicine, Diabetes, Gastroenterology Specialist
+Room No: 409, Appointment Number: 01776-364140
+Consulting Hour: Sunday &amp; Wednesday 2:00 PM to 6:00 PM\n\n
+
+Dr. Jubaiyer Ahmed
+FCPS (Surgery)
+Consultant (Surgery), General &amp; Laparoscopic Surgeon
+Room No: 406, Appointment Number: 01776-364140
+Consulting Hour: 4:00 PM to 6:00 PM\n\n
+
+Dr. A.N.M. Ilias (Naiem)
+MBBS (Dhaka), FCPS, Nero surgery
+Brain, Spine &amp; Stereotechtic Neorosurgeon
+Room No: 403, Appointment Number: 01776-364140
+Consulting Hour: Monday 3:00 PM to 7:00 PM, Thursday 3:00 PM to 7:00 PM\n\n
+
+Dr. Md. Ahsanul Kabir
+MBBS, D-card (National Heart Institute, Dhaka), CCD (Birdem)
+Junior Consultant (Cardiology) 
+Heart, Medicine &amp; Diabetic Specialist
+Room No: 405, Appointment Number: 01776-364140
+Consulting Hour: 3:00 PM to 7:00 PM\n\n
+
+Fatema Akter Moni
+PTCRT (Dhaka CRP)
+Special Training in Speech &amp; Language therapy
+Physiotherapist
+Room No: 404, Appointment Number: 01776-364140
+Consulting Hour: 9:00 AM to 8:00 PM\n\n
+
+Dr. Md. Helalur Rahman
+MBBS, BCS (Health), FCPS (Medicine)
+Medicine, Heart, Chest, Diabetic, Nero Medicine Specialist
+Room No: 401, Appointment Number: 01776-364140
+Consulting Hour: Everyday 2.30 PM to 9:00 PM\n\n
+
+Dr.Abdul Lotif Mollah
+MBBS,DMRD, MD (Cardiology)
+Heart, Rheumatic Fever, Hypertension &amp; Medicine Specialist
+Senior Consultant, Cardiology
+Comilla Medical College &amp; Hospital
+Room No: Third floor, Appoinment Number: 01776364140
+Consulting Hour: 3 PM to 8 PM (Monday &amp; Friday Closed)\n\n
+
+Dr. Md. Kalim Ullah
+MBBS, DLO (DU), Associate Professor (ENT)
+ENT Specialist &amp; Surgeon
+Room No: 409, Appointment Number: 01711-333158
+Consulting Hour: Mon-Thursday 5:00 PM to 7:00 PM\n\n
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+         />
+
+    </RelativeLayout>
+    </ScrollView>

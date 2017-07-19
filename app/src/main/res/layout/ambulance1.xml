@@ -1,0 +1,295 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="chittagong Ambulance"
+            android:id="@+id/docchi0"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:textSize="23sp"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/docchi"
+            android:layout_below="@id/docchi0"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :	 Alif Ambulance Service
+Address :	47, Panchlaish R/A,
+Chittagong
+Contact No. 031-657574, 01819380000, 01819325060
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_below="@id/docchi"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Dead Body Carrier
+Address : Chittagong
+Contact No. :	031-650000
+Email:
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Fire Service Ambulance
+Address :	 Chittagong
+Contact No. :	:031-716326-7
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :	 General Hospital
+Address :Chittagong
+Contact No. :	:031-619584
+Email:
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :	 Holy Crescent Hospital
+Address :	Chittagong
+Contact No. :	031-620025
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Media Amb Service
+Address :Chittagong
+Contact No. : 031-650000
+Email:
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Modern Ambulance Service
+Address :	 20, K.B. Fazlul Quader Road,  Chittagong
+Contact No. :031-639730, 0154633214, 01716074497
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :	 Poil Hospital
+Address :	Chittagong
+Contact No. :	:031-502024, 505021-9
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Railway Hospital
+Address :	 Chittagong
+Contact No. :	031-502220
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Upasham Hospital
+Address :	 Chittagong
+Contact No. :	031-637243
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+</ScrollView>

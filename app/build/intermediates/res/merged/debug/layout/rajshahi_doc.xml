@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+ Islami Bank Hospital Rajshahi Ltd.
+Laxmipur more, Rajshahi
+Mobile: 01711-340582
+Telephone:0721-774975
+
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Islami Bank Hospital Rajshahi Doctor List
+HomeRajshahiIslami Bank Hospital
+Islami Bank Hospital Rajshahi Doctor List
+0 Syed Manirul Islam\n\n
+
+Islami Bank Hospital Rajshahi Ltd. Laxmipur more, Rajshahi Mobile: 01711-340582 Telephone:0721-774975 Dr. Md. Munzur Alahi M...
+Cancer Doctor of Rajshahi
+Neurology Doctor of Rajshahi
+Child Doctor List Rajshahi\n\n
+
+
+Islami Bank Hospital Rajshahi Ltd.
+Laxmipur more, Rajshahi
+Mobile: 01711-340582
+Telephone:0721-774975\n\n
+
+
+Dr. Md. Munzur Alahi
+MBBS, M.D(Neuromedicine)
+Neuromedecine
+Rajshahi Medical College
+Chamber:- Islami Bank Hospital Rajshahi Ltd.\n\n
+
+
+
+Dr. M A Khalek
+MBBS, MCPS(Medicine), D Card, MD(Cardiology)
+Heart
+Rajshahi Medical College
+Chamber:- Islami Bank Hospital Rajshahi Ltd.\n\n
+
+
+Dr. Nurul Islam Chowdhury
+MBBS, MD(Nephrology)
+Kidney
+Rajshahi Medical College
+Chamber:- Islami Bank Hospital Rajshahi Ltd.\n\n
+
+
+Dr S M Ahsan Shahid
+MBBS, FCPS(Surgery),M.S (Children surgery) PHD FELO (Hyposepadius surgery)
+Surgery
+Rajshahi Medical College
+Chamber:- Islami Bank Hospital\n\n
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+    </ScrollView>

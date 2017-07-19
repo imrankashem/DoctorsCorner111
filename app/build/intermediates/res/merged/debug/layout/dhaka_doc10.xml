@@ -1,0 +1,226 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Islamia Eye Hospital , M A Ispahani Institute of Opthalmology (Contact Info and Doctors List)
+Address : Sher-e-Bangla Nagar, Farmgate, Dhaka - 1215, Bangladesh
+Phone : +880 2 8112856, 9119315
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Departmen of : Anaesthesia\n\n\n\n
+Dr. Md. Abdul Maleque
+MBBS, DA, MCPS (Anaesthesia)
+Consultant Head, Anesthesia Department\n\n
+
+Dr. Shahida Banu\n\n
+
+Dr. Syed Azahar Ali\n\n
+
+Departmen of : Cataract\n\n\n\n
+Dr. Amiruzzaman
+MBBS, MS (Opthalmology)
+Sr. Consultant  Head, Cornea and Anterior Segment\n\n
+
+Dr. Md. Shafi Khan
+MBBS,FCPS (Ophthalmology)
+Sr. Consultant, Cornea and Anterior Segment\n\n
+
+Dr. Abdus Salam
+MBBS, DO
+Consultant, Cornea and Anterior Segment\n\n
+
+Dr. Ahmed Azhir Bin Zia
+MBBS, DO
+Consultant, Comprehensive Ophthalmology\n\n
+
+Prof. ASM Kamal Uddin\n\n
+
+Dr. Chandana Sultana
+MD (Russia), DO, FCPS
+Consultant, Cornea and Anterior Segment\n\n
+
+Dr. M A Majid Khan
+MBBS, DO, MCPS
+Sr. Director, Medical Affairs
+Sr. Consultant\n\n
+
+Dr. Mahmood Mujtaba
+MBBS, FCPS
+Consultant, Cornea and Anterior Segment\n\n
+
+Dr. Mostafiuzur Rahman
+MBBS, DO
+Director, Medical Services
+Sr. Consultant  Head, Retina Department\n\n
+
+Dr. M A Muntakim Shahid
+MBBS, DO, FCPS
+Consultant, Corna and Anterior Segment\n\n
+
+Department of : Glaucoma\n\n\n\n
+Dr. Zafrul Hassan
+MBBS, FCPS
+Consultant , Glaucoma\n\n
+
+Dr. Syed Jahangir Kabir
+MBBS, DO, FCPS
+Consultant, Glaucoma Ophthalmology\n\n
+
+Department of : Neuro-ophthalmology\n\n\n\n
+Dr. Nazmun Nahar
+MBBS, DO, FICO, FCPS
+Deputy Director, Education Department
+Sr. Consultant, neuro-Ophthalmology\n\n
+
+Dr. Md. Sibgatullah
+MBBS, DCO, FCPS, ICO
+Sr. Consultant, Neuro-Ophthalmology\n\n
+
+Department of : Oculoplasty\n\n\n\n
+Dr. Nazmul Haque Robi
+MBBS, DO, MCPS
+Sr. Consultant  Head, Department of Oculoplasty\n\n
+
+Dr. Sadia Sultana
+MBBS, FCPS
+Consultant, Oculoplasty\n\n
+
+Dr. Riffat Rashid
+MBBS, MS
+Consultant, Oculoplasty\n\n
+
+
+Department of : Paediatric Ophthalmology and Strabismus\n\n\n\n
+Dr. Mastura Khatun
+MBBS, DCO
+Sr. Consultant  Head, Paediatric Ophthalmology
+In- Charge, Low Vision Clinic\n\n
+
+Dr. Md. Mostafa Hossain
+MBBS, DO, MS
+Sr. Consultant, Paediatric Ophthalmology\n\n
+
+Dr. Md. Nazmul Haque Kallol
+DO, MCPS, MHE
+Consultant, Paediatric Ophthalmology\n\n
+
+Dr. Quazi Sazzad Iftekhar
+MBBS, DO
+Consultant, paediatric Ophthalmology\n\n
+
+
+Department of : Pathology and Microbiology\n\n\n\n
+Dr. Akter Jahan Sayara\n\n
+
+Department of : Private Outpatients\n\n\n\n
+Dr. M A Majid Khan
+MBBS, DO, MCPS
+Sr. Director, Medical Affairs
+Sr. Consultant\n\n
+
+Dr. Zafrul Hassan
+MBBS, FCPS
+Consultant Head, Glaucoma\n\n
+
+Dr. Nazmun Nahar
+MBBS, DO, FICO, FCPS
+Deputy Director, Education Department
+Sr. Consultant, neuro-Ophthalmology\n\n
+
+Dr. Md. Sibgatullah
+MBBS, DCO, FCPS, ICO
+Sr. Consultant, Neuro-Ophthalmology\n\n
+
+Dr. Ahmed Azhir Bin Zia
+MBBS, DO
+Consultant, Comprehensive Ophthalmology\n\n
+
+Dr. M A Muntakim Shahid
+MBBS, DO, FCPS
+Consultant, Corna and Anterior Segment\n\n
+
+Department of : Retina and Vitreous\n\n\n\n
+Dr. Mostafiuzur Rahman
+MBBS, DO
+Director, Medical Services
+Sr. Consultant  Head, Retina Department\n\n
+
+Dr. Nazmun Nahar
+MBBS, DO, FCPS, ICO, FRCS (Glasgow)
+Associate Professor Cum Consultant
+Vitreo - Retina\n\n
+
+Dr. Sanjoy Kumar Das
+MBBS, DO
+Consultant, Vitreo - retina\n\n
+
+Dr, Shafiqur Rahman
+MBBS, DO
+Consultant, Vitreo-retina\n\n
+
+Dr. Md. Mominul Islam
+MBBS, MCPS, DO
+Consultant, Vitreo-retina\n\n
+
+Department of : Trauma  Emergency\n\n\n\n
+Dr. Md. Shafi Khan
+MBBS,FCPS (Ophthalmology)
+Sr. Consultant, Cornea and Anterior Segment\n\n
+
+Dr. Mahmood Mujtaba
+MBBS, FCPS
+Consultant, Cornea and Anterior Segment\n\n
+
+Dr. Chandana Sultana
+MD (Russia), DO, FCPS
+Consultant, Cornea and Anterior Segment\n\n
+
+Dr. Abdus Salam
+MBBS, DO
+Consultant, Cornea and Anterior Segment\n\n
+
+Dr. M A Muntakim Shahid
+MBBS, DO, FCPS
+Consultant, Corna and Anterior Segment\n\n
+
+Dr. Zafrul Hassan
+MBBS, FCPS
+Consultant  Head, Glaucoma
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+          />
+
+    </RelativeLayout>
+    </ScrollView>

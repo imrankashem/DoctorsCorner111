@@ -1,0 +1,250 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A.K.M. Fazlur Rahman
+Qualification :MBBS, MD(Card)
+Expertise :Cardiac Surgeon
+Organization:Bangabandhu Sheikh Mujib Medical University (BSMMU
+Chamber:Anwer Khan Modern Hospital Ltd.
+Location:House - 17, Road - 8, Dhanmondi Dhaka - 1205, Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Abul Hasan Muhammad Bashar
+Qualification :MBBS,Phd
+Expertise :Cardiac Surgeon
+Organization:National Heart Institute &amp; Hospital
+Chamber:Uttara Heart Centre Ltd.
+Location:2/18 , Babor Road, Mohammadpur, Dhaka-1207
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Golam Haider Rasul
+Qualification :FCPS, FRCH (Glasgo)
+Expertise :Cardiac Surgeon
+Organization:United Hospital Limited
+Chamber:United Hospital Limited
+Location:Plot #15,Road #71,Gulshan,Dhaka-1212,Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Jahangir Kabir
+Qualification :MBBS, MS(CTS) MBBS, MS(CTS)
+Expertise :Cardiac Surgeon
+Organization:United Hospital Limited
+Chamber:United Hospital Limited
+Location:Plot #15,Road #71,Gulshan,Dhaka-1212,Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Kazi Abul Azad
+Qualification :MBBS, MS
+Expertise :Cardiac Surgeon
+Organization:National Heart Institute &amp; Hospital
+Chamber:Dhaka General &amp; Orthopadic Hospital
+Location:6/1 , Humayan Road, Block # B, Mohammadpur, Dhaka -1207
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Lutfor Rahman
+Qualification :MBBS, MS (CTS)
+Expertise :Cardiac Surgeon
+Organization:Labaid Cardiac Hospital
+Chamber:Labaid Cardiac Hospital
+Location:House # 1, Road # 4, Dhanmondi, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Moinul Kabir
+Qualification :MBBS ( DMC ), MS ( CV &amp; TS )
+Expertise :Cardiac Surgeon
+Organization:National Institute of Cardiovascular Disease ( NICVD )
+Chamber:Cardio Care
+Location:House # 75, Road # 7/A, Dhanmondi - 1205.
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+    Doctor's Name:Professor Dr. Momenuzzaman
+Qualification :MBBS, D-Card, MD-Card
+Expertise :Cardiac Surgeon
+Organization:United Hospital Limited
+Chamber:United Hospital Limited
+Location:Plot # 15, Road # 71, Gulshan-2, Dhaka-1212, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. Munshi Md. Mujibur Rahman
+Qualification :MBBS, FCPS, MCPS, FICS
+Expertise :Cardiac Surgeon
+Organization:CMH, Dhaka Cantonment
+Chamber:Green Life Hospital Limited
+Location:32, Green Road, Room No - 414, Dhanmondi, Dhaka - 1205, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. Nasir Uddin Ahmed
+Qualification :MBBS, MS ( Cardiovascular - Thorosis ), FICS ( USA ), Fellow WHO
+Expertise :Cardiac Surgeon
+Organization:National Institute Of Cardiovascular Disease ( NICVD )
+Chamber:Rainbow Heart Consultation Center
+Location:House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka - 1209
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Sunil Kumar Sarker
+Qualification :MBBS, MS ( Cardio Vascular &amp; Thoracic Surgery )
+Expertise :Cardiac Surgeon
+Organization:National Heart Institute &amp;Hospital
+Chamber:Trauma Center
+Location:22/8/A, Shamoli, Mirpur Road, Dhaka - 1207
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+</RelativeLayout>
+    </ScrollView>

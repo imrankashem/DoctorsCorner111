@@ -1,0 +1,388 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A.F.M. Saidur Rahman
+Qualification :MBBS, FCPS ( Medicine ), D-Card ( DTCD )
+Expertise :Cardiology
+Organization:Bangladesh Medical College &amp; Hospital
+Chamber:Rainbow Heart Consultation Center
+Location:House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka - 1209
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A.H.M. Waliul Islam
+Qualification :MBBS, PhD. Cardiology (Osaka Univ.), FACC (USA), FSCAI (USA) Fellow Invasive &amp; Interventional Cardiology, NCVC (Japan)
+Expertise :Cardiology
+Organization:Apollo Hospitals Dhaka
+Chamber:AFMC - Armed Forces Medical College
+Location:Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. A.K.M. Mohiuddin Bhuiyan
+Qualification :MBBS, MD ( Cardiology )
+Expertise :Cardiology
+Organization:
+Chamber:Euro-Bangla Heart Hospital Ltd.
+Location:House No # 5/7, Block # D, Lalmatia, Dhaka, Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. A.Q.M. Reza
+Qualification :MBBS, MD (Cardiology), FACC (USA)
+Expertise :Cardiology
+Organization:Apollo Hospitals Dhaka
+Chamber:AFMC - Armed Forces Medical College.
+Location:Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. abdul Kayum Khan
+Qualification :MBBS, D-Card
+Expertise :Cardiology
+Organization:National Heart Foundation, Dhaka
+Chamber:Saic Digital Diagnostic Lab
+Location:14, Sweden Plaza , Main Road, Mirpur- 1, Dhaka
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi5"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. Abdullah Al Jamil
+Qualification :MBBS, FCPS, MD, FCAPSC, Trained in EPS &amp; RFA (AIIMS, India)
+Expertise :Cardiology
+Organization:SQUARE Hospitals Ltd, Dhaka, Bangladesh
+Chamber:SQUARE Hospitals Ltd.
+Location:18/F West Panthapath, Dhaka - 1205,
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi6"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Professor Dr. Abdullah-Al-Safi Majumder
+Qualification :MBBS, D. Card, MD(Card), FACC, FSGC, FRCP Research Fellow, NCVC, (Japan) WHO Fellow in Cardiology, USA
+Expertise :Cardiology
+Organization:National Institute of Cardiovascular Diseases, (NICVD)
+Chamber:Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi7"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Professor Dr. Abduz ZaheProfessor Dr. Abduz Zaher
+Qualification :MBBS, FCPS ( Medicine ), FACC ( USA ) , FRCP
+Expertise :Cardiology
+Organization:Labaid Cardiac Hospital, Dhanmondi, Dhaka
+Chamber:Labaid Hospital Ltd.
+Location:House # 1, Road # 4, Dhanmondi, Dhaka - 1205
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi8"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. Abu Hena Mostofa Kamal
+Qualification :MBBS
+Expertise :Cardiology
+Organization:National Heart Institute &amp; Hospital
+Chamber:Uttara Heart Centre Ltd.
+Location:2/18 Babor Road, Mohammadpur, Dhaka-1207
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi9"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Professor Dr. Abu Zafar
+Qualification :MBBS, MRCP ( UK ), FRCP ( Glasgow )
+Expertise :Cardiology
+Organization:
+Chamber:Ibn Sina Diagnostic &amp; Imaging Center
+Location:House # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209, Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi10"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. Abul Alam
+Qualification :MBBS, CCD ( BIRDEM ), D-Card ( DU ), CCE ( AIMS ), CMU ( BIUR), PGC ( London )
+Expertise :Cardiology
+Organization:National Institute of Cardiovascular Diseases (NICVD)
+Chamber:Cardio Care
+Location:House No # 75, Road No # 7/A, Dhanmondi, Dhaka - 1205
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi11"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. Amal Kumar Choudhury
+Qualification :MBBS, BCS, MD(Cardiology)
+Expertise :Cardiology
+Organization:National Institute of Cardiovascular Disease ( NICVD )
+Chamber:Uttara Heart Centre Ltd.
+Location:2/18 , Babor Road, Mohammadpur, Dhaka-1207
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. Amal Kumar Chowdhury
+Qualification :MBBS, FCPS ( Medicine ), MD( Cardiology )
+Expertise :Cardiology
+Organization:National Institute of Cardiovascular Diseases (NICVD), Dhaka
+Chamber:Comfort Diagnostic Centre &amp; Comfort Nursing Home - Green Road
+Location:167/B, Green Road, Dhanmondi, Dhaka
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi13"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. Amiruzzaman Khan
+Qualification :MBBS, DTM &amp; H(London, D-Card)
+Expertise :Cardiology
+Organization:Shaheed Zaiur Rahman Medical College,Bogra
+Chamber:Uttara Heart Centre Ltd.
+Location:2/18 , Babor Road, Mohammadpur, Dhaka-1207
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi14"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. Dipankar Chandra NagDr. Dipankar Chandra Nag
+Qualification :MBBS, MD
+Expertise :Cardiology
+Organization:Dhaka National Medical College &amp; Hospital
+Chamber:Sumona Medical College Hospital
+Location:3,4,Patuatuly Road, Sadarghat
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,350 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+SQUARE Hospitals Ltd.
+Category: General Hospital
+Address : 18/F Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath,
+Dhaka - 1205, Bangladesh
+Phone   : +880-2-8159457 (10 Numbers), 8142431
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Department Of: General Surgery\n\n\n\n
+Prof. Dr. Sanawar Hossain
+MBBS, MD, FCPS, FICS
+Designation: Director of Medical Services &amp;amp; Consultant\n\n
+
+Dr. Ruhul Hassan Joarder
+FCPS (Surgery), FRCS (G)
+Designation: Consultant\n\n
+
+Dr. Mohammad Yasin Chowdhury
+MBBS, FCPS, MS.
+Designation: Consultant\n\n
+
+Department Of: Neurology\n\n\n\n
+Dr. Md. Ismail Chowdhury
+MBBS, FCPS (Medicine), MD (Neurology)
+Designation: Consultant\n\n
+
+Dr. Md. Sheikh Abdul Kader
+MBBS, MD, FCPS
+Designation: Consultant\n\n
+
+Dr. SK. Mahbub Alam
+MBBS, MD
+
+Designation: Consultant\n\n
+
+Department Of: Oncology \n\n\n\n
+Prof. Syed Md. Akram Hussain
+MBBS, FCPS, FRCP (Glasgow), FRCP (Edinburgh), FACP (USA), MRCR (UK)
+Designation: Consultant\n\n
+
+Dr. Md. Salim Reza
+MBBS, DMRT, FCPS
+
+Designation: Consultant\n\n
+
+Department Of: Internal Medicine &amp; Critical Care\n\n
+Dr. Mirza Nazim Uddin
+MBBS (DMC), MRCP (UK)
+Designation: Deputy Medical Director and Consultant\n\n
+
+Department Of: Internal Medicine\n\n\n\n
+Dr. Jahangir Alam
+MBBS (DMC), MRCP (UK)
+Designation: Consultant\n\n
+
+Dr. Abu Reza Mohammad Nooruzzaman
+MBBS, MRCP (UK)
+Designation: Consultant\n\n
+
+Department Of: Internal Medicine &amp; ICU\n\n\n\n
+Dr. Raihan Rabbani
+MBBS, FCPS (Medicine), MD (USA), Diplomate of American Board of Internal Medicine (Board Certification)
+Designation: Consultant\n\n
+
+Department Of: Internal Medicine &amp; Rheumatology\n\n
+Dr Zubayer Ahmed
+M.B.B.S., M.D (Internal Medicine), Clinical Fellow (Rheumatology and Immunology- Singapore)
+Designation: Consultant \n\n
+
+Department Of: Cardiology (Interventional)\n\n\n\n
+Dr.Towhiduzzaman
+MBBS, MD CARD (NICVD), FIC (Singapore), Fellow- National Heart Centre, Singapore, Fellow- Escort hospital, New Delhi, India, Specialist in Intravascular Ultrasound
+Designation: Consultant\n\n
+
+Department of: Orthopedics\n\n\n\n
+Dr. Mesbah Uddin Ahmed
+MBBS, D. (Ortho), MS (Ortho)
+Designation: Consultant\n\n
+
+Dr. Fazlul Hoque
+MBBS, D. (Ortho), FA (Ortho), FAMA, Trained in Orthopaedic and Spinal Surgery (UK &amp; USA)
+Designation: Consultant\n\n
+
+Department Of: Neuro Surgery\n\n
+Dr. A M Rejaus Satter
+MBBS, FCPS (Surgery), MS (Neuro Surgery)
+Designation: Associate Consultant\n\n
+
+Dr. Dewan Shamsul Asif
+MBBS, FCPS (Neuro Surgery)
+
+Designation: Associate Consultant\n\n
+
+Department Of: Cardiac &amp; Vascular Surgery\n\n
+Dr Apurba Kumar Sarma
+MBBS, MS (General Surgery), MCh (CVTS)
+Designation: Consultant\n\n
+
+Dr. M. Akhter Hossain
+MBBS, MS (Cardiovascular &amp; Thoracic Surgery), WHO Fellow
+
+Designation: Consultant\n\n
+
+Department Of: Obs &amp; Gynae\n\n\n\n
+Prof.Dr. Sultana Razia Begum
+MBBS, FCPS (Gyn), GICS
+Designation: Consultant\n\n
+
+Dr. Nargis Fatema
+MBBS, FCPS, MS(obs and gynae)
+Designation: Consultant\n\n
+
+Dr. Khaleda Yeasmin Mirza
+MBBS, DGO (Ireland), Arab Board, KSA
+Designation: Consultant\n\n
+
+Dr. Kashefa Nazneen
+MBBS, FCPS
+Designation: Consultant\n\n
+
+Dr. Nasima Shaheen
+MBBS, DGO, MCPS, FCPS
+Designation: Associate Consultant\n\n
+
+Dr Rehnuma Jahan
+MBBS, MS
+Designation: Consultant\n\n
+
+Department Of: Gastroenterology\n\n\n\n
+Prof. Dr. Md. Samsul Arfin
+MBBS, FCPS (Medicine)
+Designation: Consultant\n\n
+
+Dr. Mohammed Motahar Hossain
+MBBCH, FCPS (Medicine)
+
+Designation: Consultant\n\n
+
+Dr. Md. Delwar Hossain
+MBBS, FCPS (Medicine), FCPS (Gastroenterology)
+
+Designation: Consultant\n\n
+
+
+Department Of: Radiology\n\n\n\n
+Dr. Mohammad Zakir Hussain
+MBBS, Ph.D, Fellow AIE (Japan)
+Designation: Consultant\n\n
+
+Dr. ATM Samdani
+MBBS, MD
+Designation: Consultant\n\n
+
+Dr. Shagufta Afreen Azhar
+MBBS, FCPS
+Designation: Consultant\n\n
+
+Department Of: Psychiatry\n\n\n\n
+Prof. Md. Waziul Alam Chowdhury
+MBBS, MACP (USA), FCPS (Pay)
+Designation: Consultant\n\n
+
+Mrs. Sharmin Haque
+M.Sc &amp; M.Phil in clinical psychology
+
+Designation: Clinical Psychologist\n\n
+
+Department Of: IVF (Square Fertility Centre)\n\n
+Dr. Suresh Kattera
+PhD
+Designation: Embryologist\n\n
+
+Dr. Shaila Siraj
+MBBS
+Designation: Embryologist\n\n
+
+Department Of: Nephrology\n\n\n\n
+Dr. Mosaddeque Ahmed
+MBBS, USMLE, MRCP (UK)
+Designation: Consultant\n\n
+
+Dr. MA. Wahab Khan
+MBBS, MD (Nephrology)
+Designation: Consultant\n\n
+
+Prof. Dr. Muhammad Masum Kamal Khan
+MBBS, FCPS (Medicine), MD (Nephrology)
+
+Designation: Consultant\n\n
+
+Department Of: Endocrinology\n\n\n\n
+Dr. Kazi Ali Hassan
+MBBS, M. Phil (EM), MRCP (UK)
+Designation: Consultant\n\n
+
+Department: Ophthalmology\n\n\n\n
+Dr. Shah Alam
+MBBS, FCPS
+Designation: Consultant\n\n
+
+Dr. Sharmina Alauddin
+MBBS, DO, FCPS, Fellowship 
+Designation: Consultan\n\n
+
+Lt. Col. Dr. Md. Sajedur Rahman
+MBBS, DO, MD, FIRL, Fellow Ratina &amp; Laser (German)
+Designation: Consultant\n\n
+
+Department Of: Anesthesiology\n\n\n\n
+Prof. Dr. Md. Ahsanul Habib
+MBBS, FCPS
+Designation: Consultant- Cardiac Anesthesiology\n\n
+
+Prof. Wahiuddin Mahmood
+MBBS, DA, FCPS
+Designation: Consultant\n\n
+
+Dr. Shah Muhammad Ali
+MBBS, FCPS
+Designation: Consultant\n\n
+
+Dr. Tahmina Banu
+MBBS, DA, MD
+Designation: Consultant\n\n
+
+Dr Ranadhir Kumar Kundu
+MBBS, MD
+
+Designation: Consultant, Anesthesiology\n\n
+
+Department Of: Pediatrics\n\n\n\n
+Dr. Aftab Yousuf Raj
+MBBS, MD (Pediatrics), MD (Neonatology), Fellow Newborn Medicine (Canada)
+Designation: Consultant Pediatrics &amp; Neonatology (NICU)\n\n
+
+Major (Retd) Dr. Taslima Ferdous
+MBBS, FCPS
+Designation: Associate Consultant\n\n
+
+Dr. Major (Retd) Zeena Salwa
+MBBS, DCH, FCPS (Paed) Trained in Paediatric Neurology (India)
+Designation: Associate Consultant\n\n
+
+Department Of: Pediatric Surgery\n\n\n\n
+Prof. Dr. Md. Kabirul Islam
+MBBS, MS (Ped. Surgery), FICS (USA) Trained on Pediatric Urology (UK) &amp; Pediatric Laparoscopic Surgery (India)
+Designation: Consultant\n\n
+
+Department Of: Dermatology\n\n\n\n
+Prof. Md. Samiul Haque
+MBBS, DDSc (UK), MSc- Dermatology (UK)
+Designation: Consultant\n\n
+
+Dr. Syeda Ishrat Jahan
+MBBS, DDV (singapore), MSc in Clinical Dermatology (London), MSSVD (London)
+Designation: Consultant\n\n
+
+Department Of: ENT and Head &amp; neck Surgery
+Dr.M.H. Shaheel Mahmood
+MBBS, FCPS, MS
+Designation: Consultant\n\n
+
+Prof. (Dr.) Md. Monwar Hossain
+MBBS, FCPS (ENT)
+Designation: Consultant\n\n
+
+Department Of: Respiratory Medicine\n\n\n\n
+Dr. Fazle Rabbi Mohammed
+MBBS, MD (Respiratory Medicine)
+Designation: Associate Consultant\n\n
+
+Department Of: Urology\n\n\n\n
+Prof. (Dr.) Ninan Chacko
+MBBS, MS, MCh (Urology), FRCS (Urology)
+Designation: Consultant\n\n
+
+Department Of: Dental Care\n\n\n\n
+Dr. Sufia Nasrin Rita
+BDS. FCPS (Orthodontics)
+Designation: Associate Consultant - Dental Surgery and Orthodontics\n\n
+
+Dr. S. M. Anwar Sadat
+BDS. MCPS (Dental Surgery), FCPS, MS (Oral &amp; Maxillofacial Surgery), Advanced Training in Oral Cancer &amp; Reconstruction Surgery (SriLanka), Dental Implant (America), Facial Deformity and Aesthetic Surgery (Bangkok)
+
+Designation: Consultant - Dental &amp; Maxillofacial Surgery\n\n
+
+Department Of: Clinical Haematology\n\n\n\n
+Prof. Brig. Gen. Faruk Ahmed (Retd.)
+MBBS, MCPS (Clinical Pathology), FCPS (Hematology)
+Designation: Consultant\n\n
+
+Department Of: ICU\n\n\n\n
+Dr. Mirza Nazim Uddin
+MBBS, MRCP (UK)
+Designation: Consultant\n\n
+
+Department Of: Chest\n\n\n\n
+Dr. Mohammad Murtaza Khair
+MBBS, MCPS (Medicine), MD (Chest)
+Designation: Consultant\n\n
+
+Department Of: Physical Medicine\n\n\n\n
+Dr. M. A. Rashid
+MBBS, FCPS (specialist Pain, Paralysis &amp; Rheumatic Disease)
+Designation: Consultant\n\n
+
+Dr. Subbian Esakkimuthu Asary
+MBBS, MD (PMR)
+Designation: Consultant\n\n
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+          />
+
+    </RelativeLayout>
+    </ScrollView>

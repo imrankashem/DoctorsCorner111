@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Jalalabad Ragib-Rabeya Medical College
+Address: Pathantola Rd, Sylhet, Bangladesh
+Phone: +880 821-719090
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Department of Anatomy\n\n
+ Prof. Ayesha Akhter, MBBS, M. Phil, Professor  Head of the department\n\n
+
+Dr. Md. Abdul Quddus, MBBS, M. Phil, Assoc. Prof\n\n
+
+Dr. Jesmin Sultana, MBBS, M. Phil, Assoc. Prof.\n\n
+
+
+Dr. Mst. Effat Jahan, MBBS, M. Phil, Asst. Prof.\n\n
+
+Dr. Md. Kamruzzaman Shuaib, MBBS, M. Phil, Asst. Prof. \n\n
+
+Dr. Khandaker Mohammad Mazharul Islam, MBBS, Curator\n\n
+
+Dr. Abida Amin Choudhury, MBBS, Lecturer\n\n
+
+Dr. Rifath Nawrin Ovi, MBBS, Lecturer\n\n
+
+Dr. Dr. Nasrin Sultana, MBBS, Lecturer\n\n
+
+Dr. Fahmida Jabeen, MBBS, Lecturer\n\n
+
+Dr. K. M. Ferdous Kader, MBBS, Lecturer\n\n
+
+Dr. Taslima Akter, MBBS, Lecturer\n\n
+
+Dr. Sadia Afrin Rimi, MBBS, Lecturer\n\n
+
+Dr. Tahmina Jahan Liza, MBBS, Lecturer\n\n
+
+Dr. Arup Ratan Chowdhury, MBBS, Lecturer\n\n
+
+Dr. Fannana Haque, MBBS, Lecturer\n\n
+
+Dr. Sabiha Tasnim, MBBS, Lecturer\n\n
+
+Dr. Tasnim Chowdhury, MBBS, Lecturer\n\n
+
+Department of Physiology \n\n
+ Prof. Rezina Mustarin, MBBS, M. Phil, Professor  Head of the dept.\n\n
+
+Dr. Wajeunnesa, MBBS, M. Phil, Assoc. Prof.\n\n
+
+Dr. Shausheen Islam, MBBS, M. Phil, Assoc. Prof.\n\n
+
+Dr. Tawhida Haque, MBBS, Sr. Lecturer\n\n
+
+Dr. Md. Abdul Mohsin Khan, MBBS, Lecturer\n\n
+
+Dr. Bipasha Nandi Jui, MBBS, Lecturer\n\n
+
+Dr. Nirupoma Dey, MBBS, Lecturer\n\n
+
+Dr. Meenakshi Das, MBBS, Lecturer\n\n
+
+Dr. Mehjabin Sumaira Lokman, MBBS, Lecturer\n\n
+
+Dr. Farhana Hussain Sadia, MBBS, Lecturer\n\n
+
+Dr. Samiha Rahman Chandra, MBBS, Lecturer\n\n
+
+Dr. Mili Datta, MBBS, Lecturer\n\n
+
+Dr. Rehnuma Tarannum Tama, MBBS, Lecturer\n\n
+
+Dr. Minakshi Biswas, MBBS, Lecturer\n\n
+Departmen of General Surgery\n\n
+
+ Prof. A. K. M. Daud, MBBS, FCPS, FRCS (Edin), FRCS (Glasg), FRCS (Eng), FRCSI, Professor Head of dept.\n\n
+
+Dr. Parveen Aktar, MBBS, FCPS, Assoc. Prof.\n\n
+
+Dr. Nurul Quayum Mohammad Musallin, MBBS, FCPS, Assoc. Prof.\n\n
+
+Dr. Monoranjan Sarkar, MBBS, Asst. Prof.\n\n
+
+Dr. Apurba Kishore Paul, MBBS, Registrar\n\n
+
+Dr. Mostafizur Rahman, MBBS, Registrar\n\n
+
+Dr. Abdul Mukaddem Mashud, MBBS, Asst. Registrar\n\n
+
+Dr. Amirul Islam Chowdhury, MBBS, Asst. Registrar\n\n
+
+Dr. Debabrato Roy, MBBS, IMO\n\n
+
+Dr. Redeta Roy Tuli, MBBS, IMO\n\n
+
+Dr. Abdul Quader, MBBS, IMO\n\n
+
+Dr. Tapos Singha, MBBS, IMO\n\n
+
+Dr. Md. Tanvir Alam Chowhdury, MBBS, IMO\n\n
+
+Dr. Sutapa Dhar, MBBS, IMO\n\n
+
+Dr. Mahmudul Hasan, MBBS, IMO\n\n
+
+Dr. Tahmina Ferdous Tarin, MBBS, IMO\n\n
+
+Dr. Ahmed Al Amin, MBBS, IMO\n\n
+
+Dr. Md. Nazmus Sakib, MBBS, IMO\n\n
+
+Dr. Md. Habibur Rahman, MBBS, IMO\n\n
+
+Dr. Tripty Sutradhar, MBBS, IMO\n\n
+
+Dr. Rezaus Samad Ruhel, MBBS, IMO\n\n
+
+Dr. Paritush Kumar Shil, MBBS, IMO\n\n
+ Departmen of Gynae and Obs\n\n
+  Prof. Md. Abdus Sabur, MBBS, FCPS, Professor Head of the dept.\n\n
+
+Prof. Nadira Begum, MBBS, FCPS, Professor\n\n
+
+Dr. Jamila Khatun Chowdhury, MBBS, DGO, MS, Assoc. Prof.\n\n
+
+Dr. Namita Rani Sinha, MBBS, FCPS, Assoc. Prof.\n\n
+
+Dr. Barnali Sinha, MBBS, FCPS, Assoc. Prof.\n\n
+
+Dr. Rumana Islam, MBBS, FCPS, Assoc. Prof.\n\n
+
+Dr. Shahina Akther, MBBS, DGO, FCPS, Asst. Prof.\n\n
+
+Dr. Ummey Khayer Khadizatul Humaira, MBBS, DGO, Jr. Consultant\n\n
+
+Dr. Nasrin Akther, MBBS, Registrar\n\n
+
+Dr. Tahmina Sharmin, MBBS, Registrar\n\n
+
+Dr. Farzana Akhter Nipa, MBBS, Asst. Registrar\n\n
+
+Dr. Mostakima Begum, MBBS, Asst. Registrar\n\n
+
+Dr. Nujhat Sharmin Urmi, MBBS, Asst. Registrar\n\n
+
+Dr. Nila Ahmed, MBBS, MO\n\n
+
+Dr. Farida Khanom, MBBS, MO\n\n
+
+Dr. Rebeka Sultana Mishu, MBBS, IMO\n\n
+
+Dr. Rukshana Khan, MBBS, IMO\n\n
+
+Dr. Bubli Ahmed, MBBS, IMO\n\n
+
+Dr. Samira Khanom, MBBS, IMO\n\n
+
+Dr. Mowmita Zaman Khan, MBBS, IMO\n\n
+
+Dr. Soncita Biswas, MBBS, IMO\n\n
+
+Dr. Zinat Fahmida, MBBS, IMO\n\n
+
+Dr. Ummey Zayada Shumy Khan, MBBS, IMO\n\n
+
+Dr. Anshua Das Trisha, MBBS, IMO\n\n
+
+Dr. Tasnuva Iqbal Bhiuyan, MBBS, IMO\n\n
+
+Dr. Halima Sadia, MBBS, IMO\n\n
+
+Dr. Himangshu Das Soumya, MBBS, IMO\n\n
+
+Dr. Muhsena Tahura, MBBS, IMO\n\n
+
+Dr. Snigdha Talukder, MBBS, IMO\n\n
+
+Dr. Afifa Akter, MBBS, IMO\n\n
+
+Dr. Tahmina Begum Poly, MBBS, IMO\n\n
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+    </ScrollView>

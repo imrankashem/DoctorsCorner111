@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+ Chittagong International Dental College and Hospital
+Chand Mia Rd, Chittagong
+www.cidch.edu.bd/n
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Abu Sayeed Ibne  Harun
+BDS, MS (Conservative)
+Asst. Prof.  Head.
+Oral and Maxillofacial Surgery	Naim46@yahoo.com\n
+
+Dr. Faisal Sirajee
+BDS (DU), MS
+Asst. Prof.
+ Esthetic Dentistry  Endodontics	Dentalcarepoint_endo@yahoo.com\n
+
+Dr. Mohammad Shakhauwat  Tabrej
+BDS (CMC)
+Lecturer.
+ Conservative dentistry and Radiology\n
+Dr. AQM Mohi Uddin Masum
+BDS (CMC), PGT (DDC)
+Dental Surgeon
+masum.mohiuddin@gmail.com\n
+
+Dr. Asif Subhan
+BDS (RMC), PGT (DDC)
+Lecturer.
+Esthetic Dentistry  Endodontics	asif17rmc@hotmail.com\n
+
+Dr. Mohammad Ali Hossain
+BDS, FCPS
+Asst. Prof.   Head.
+Orthodontic Surgery, Correction of Facial Asymmetry 	hossyne@hotmail.com\n
+
+
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+</ScrollView>

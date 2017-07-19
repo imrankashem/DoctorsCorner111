@@ -1,0 +1,139 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. Abul Hasnat Joarder
+Qualification :MBBS, FCPS
+Expertise :ENT - Ear, Nose &amp; Throat
+Organization:BSMMU
+Chamber:Anwer Khan Modern Hospital Ltd.
+Location:House # 17, Road # 8, Dhaka - 1205
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Arun Dodhu Patole
+Qualification :MBBS, MS, DORL (Mumbai), Fellow A.I.N.OT (Italy)
+Expertise :ENT - Ear, Nose &amp; Throat
+Organization:Apollo Hospitals Dhaka
+Chamber:Apollo Hospitals Dhaka
+Location:Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Hossain Imam Al Hadi
+Qualification :MBBS, FCPS, FRCS (Glasgow), Fellowship Training (UK)
+Expertise :ENT - Ear, Nose &amp; Throat
+Organization:Apollo Hospitals Dhaka
+Chamber:AFMC - Armed Forces Medical College
+Location:Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. M A Rouf Sardar
+Qualification :
+Expertise :ENT - Ear, Nose &amp; Throat
+Organization:Bangladesh Medical College &amp; Hospital
+Chamber:Samorita Hospital Ltd.
+Location:44/16, Panthapath, Dhaka - 1215, Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+
+            android:layout_below="@id/docchi4"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Mahmudul Hasan
+Qualification :MBBS, FCPS ( ENT )
+Expertise :ENT - Ear, Nose &amp; Throat
+Organization:Shaheed Suhrawardy Medical College (SHSMC)
+Chamber:Aysha Memorial Specialised Hospital
+Location:74 G/ 75,Peacock Square, New Airport Road,Mohakhali, Dhaka -1215, Bangladesh.
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+    </ScrollView>

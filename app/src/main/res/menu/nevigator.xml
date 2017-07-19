@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group  android:checkableBehavior="single">
+  <item
+      android:id="@+id/Dhhaka"
+      android:title="Dhaka"
+      android:icon="@mipmap/icc"
+    >
+
+  </item>
+    <item
+        android:id="@+id/CHittagong"
+        android:title="Chittagong"
+        android:icon="@mipmap/icc">
+
+    </item>
+    <item
+        android:id="@+id/Sylett"
+        android:title="Sylet"
+        android:icon="@mipmap/icc">
+
+    </item>
+    <item
+        android:id="@+id/Rajshahi"
+        android:title="Rajshahi"
+        android:icon="@mipmap/icc">
+
+    </item>
+  <item
+      android:id="@+id/Comilla"
+      android:title="Comilla"
+      android:icon="@mipmap/icc">
+
+  </item>
+  <item
+      android:id="@+id/Kulna"
+      android:title="Kulna"
+      android:icon="@mipmap/icc">
+
+  </item>
+</group>
+ <item android:title="sub item">
+   <menu>
+    <item
+     android:title="Health Tips"
+        android:id="@+id/htips"
+        android:icon="@mipmap/health"
+        ></item>
+      <item
+          android:title="Medicine Cabinet"
+          android:id="@+id/cabinet"
+          android:icon="@mipmap/medicine"
+          >
+
+      </item>
+      <item
+          android:title="Top Ranked Hospitals"
+          android:id="@+id/TRhospitals"
+          android:icon="@mipmap/hospitals"
+          >
+
+      </item>
+      <item
+
+          android:title="Top Ranked Doctors"
+          android:id="@+id/TRdoctors"
+          android:icon="@mipmap/doctors"
+          >
+
+      </item>
+      <item
+          android:title="Blood Bank "
+          android:id="@+id/blood"
+          android:icon="@mipmap/blood">
+      </item>
+     <item
+         android:title="First Aid"
+         android:id="@+id/firstaid"
+         android:icon="@mipmap/firstaid">
+
+     </item>
+      <item
+          android:title="Ambulance"
+          android:id="@+id/ambulance"
+          android:icon="@mipmap/ambulance">
+
+
+
+      </item>
+   </menu>
+ </item>
+
+
+</menu>

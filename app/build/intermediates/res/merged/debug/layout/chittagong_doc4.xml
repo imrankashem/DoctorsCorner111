@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"   >
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Name of Organization : Popular Diagnostic Center
+Address : 20/B K.B Fazlul Kader Road, Panchlaish, Chittagong
+Category : Diagnostic Center
+Contact : Phone : 031-655401"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:layout_below="@id/docchi"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="ASST. PROF. DR. MD. SHAWKAT HOSSAIN
+Speciality : PHYSICAL MEDICINE AND REHABILITATION"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="DR. NURUL AKTER CHOWDHURY
+Speciality : RESPIRATORY MEDICINE"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="ASST. PROF. DR. TAHERA BEGUM
+Speciality : OBSTETRICS AND GYNAECOLOGY"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="ASSOCIATE PROF. DR. BINOY PAUL
+Speciality :
+GASTROENTEROLOGY"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" ASSOCIATE PROF. DR. ANISUL ISLAM KHAN
+Speciality : NEURO SURGEON"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" DR. AYESHA BEGUM
+Speciality : CONSULTANT PAEDIATRICS"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" ASST. PROF. DR. ABDULLAH ABU SAYED
+Speciality : MEDICINE"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" ASST. PROF. DR. SAIFUL HOQUE
+Speciality : GENERAL SURGEON"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="DR. A.K.M. HARUN UR RASHID
+Speciality : ORTHOPAEDICS SPECIALIST"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="ASST. PROF. DR. MAFRUHA KHAN PORAG
+Speciality : OBSTETRICS AND GYNAECOLOGY"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" ASSOCIATE PROF. DR. QUAZI MD. MANWARUL KARIM BABOR
+Speciality : UROLOGY SPECIALIST"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi12"
+            android:layout_below="@id/docchi11"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="  ASSOCIATE PROF. DR. NASIR UDDIN MAHMUD
+Speciality : PADIATRICT"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi13"
+            android:layout_below="@id/docchi12"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="  ASSO. PROF. DR. ABDUR RAZZAK
+Speciality : CARDIOLOGIST"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi14"
+            android:layout_below="@id/docchi13"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="ASSO. PROF. DR. SAIFUDDIN SIDDIQUI SUZA
+Speciality : UROLOGY SPECIALIST"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi15"
+            android:layout_below="@id/docchi14"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" ASST. PROF. DR. S.M. ALI HAIDER
+Speciality : GASTROENTEROLOGY"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi16"
+            android:layout_below="@id/docchi15"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="  ASSO. PROF. DR. ABDUR RAZZAK
+Speciality : CARDIOLOGIST"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi17"
+            android:layout_below="@id/docchi16"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" ASST. PROF. DR. FAHMIDA RASHID SWATHI
+Speciality : OBSTETRICS AND GYNAECOLOGY"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi18"
+            android:layout_below="@id/docchi17"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+                android:text=" DR. NAZ SHOHANI SULTANA
+Speciality : OBSTETRICS AND GYNAECOLOGY"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi19"
+            android:layout_below="@id/docchi18"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="  ASST. PROF. DR. ATIQUL ISLAM CHOWDHURY
+Speciality : MEDICINE"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+    </ScrollView>

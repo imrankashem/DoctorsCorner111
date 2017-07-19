@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Comilla Medical College
+Address: Dr Akhtar Hameed Khan Rd, Comilla 3500, Bangladesh
+Hours: Open today · Open 24 hours
+Phone: +880 816-5562"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Anatomy \n\n\n\n
+01 	Dr. Md. Dalil Uddin 	Asstt. Prof. 	  	01731-800525, 01733-343402\n\n
+02 	Dr. Mohammad Kamal Uddin 	Lecturer 	  	01711-312358 	 \n\n
+03 	Dr. Afroza-E-Alam 	Lecturer 	  	  	01717-855788 	 \n\n
+04 	Dr. Taskina Ahmed Chowdhury 	Lecturer 	  	  	01828-762333 \n\n
+06 	Dr. Amrita Kumar Deb Nath 	Lecturer 	  	  	01711-195992 	 \n\n
+07 	Dr. Biplab Kumar Barman 	Lecturer 	  	  	01731-578070 	 \n\n
+Physiology 	 \n\n
+01 	Prof. Jasmine Are Haque 	Professor 	  	01819-174646, 01733-343432 	 \n\n
+02 	Dr. Najnin Akhter 	Lecturer 	  	  	01717-479878 	\n\n
+03 	Dr. Simul Mazumder 	Lecturer 	  	  	01716-357620 \n\n
+Biochemistry 	 \n\n
+01 	Prof. Dr. Md. Abdus Samad 	 Professor 	  	01714-200835, 01733-343404 	 \n\n
+02 	Dr. Koherin Bashar 	Asstt. Prof 	  	01718-050112 	\n\n
+03 	Dr. Rakibul Hasan Chowdhury 	Lecturer 	  	  	01785-704570 	 \n\n
+04 	Dr. Tamanna Jarin 	Lecturer 	  	  	01712-308401 	\n\n
+05 	Dr. Tahmina Chowdhury 	Lecturer 	  	  	01913-822702 \n\n
+06 	Dr. Saumitra Das 	Biochemist 	  	  	01718-244608 \n\n
+Pathology 	 \n\n
+01 	  	  	  	 01733-343405
+02 	Dr. Tasnim Israt 	Asstt. Prof. 	  	  	01716-593088 	\n\n
+03 	Dr. Md. Khurshid Alam 	Jr. Consultant 	  	  	01711-422321 	\n\n
+04 	Dr. Jayanto Kumar Saha 	Lecturer 	  	  	01818-371604 	\n\n
+05 	Dr. Kowser Hossain Chowdhury 	Lecturer 	  	  	01711-139124\n\n
+06 	Dr. Joyanti Rani Debnath 	Lecturer 	  	  	01718-251888 \n\n
+07 	Dr. Abu Mohammad Saem 	Lecturer 	  	  	01712-186304 \n\n
+08 	Dr. S.M Khusbul Jannat 	Pathologist 	  	  	01715-593160 	\n\n
+09 	Dr. Md. Ashikur Rahman 	Pathologist 	  	  	01711-122133 	\n\n
+10 	Dr. Nazma Akther 	Curator 	  	  	01711-970845 	 \n\n
+Microbiology 	 \n\n
+
+02 	Dr. Kanti Priyo Das 	Asstt. Prof. 	  	  	01711-231170 \n\n
+03 	Dr. Mohammad Arifur Rahman(OSD) 	Asstt. Prof. 	  	  	01812-380222 \n\n
+04 	Dr. Roksana Akter 	Lecturer 	  	  	01911238479 	\n\n
+05 	Dr. Pinki Saha 	Lecturer 	  	  	01715-709500 	\n\n
+06 	Dr. Md. Helalul Haq 	Lecturer 	  	  	01818-398878 \n\n
+Community Medicine 	 \n\n
+01 	Dr. Zubaida Ahmed 	Asstt. Prof. 	  	01712-031006, 01733-343407 	\n\n
+02 	Dr. Md. Nurul Islam 	Asstt. Prof. 	  	  	01819-158116 	\n\n
+03 	Dr. Murshif Morium 	Lecturer 	  	  	01705-565034 	 \n\n
+04 	Dr. Hasan Mohammed Kawsar 	Lecturer 	  	  	01713-637870 	\n\n
+05 	Dr. Md. Saiful Islam Bhuyan 	Lecturer 	  	  	01748760707 \n\n
+06 	Dr. Amit Sinha 	Lecturer 	  	  	01711-447910\n\n
+Pharmacology 	 \n\n
+01 	Dr. Naznin Jahan Hafsa 	Asstt. Professor 	  	01711-459288, 01733-343408 	 \n\n
+02 	Dr. Juthika Parvin 	Lecturer 	  	01712175298 	\n\n
+03 	Dr. Md. Sheikh Hasibur Reza 	Lecturer 	  	01716-477179 \n\n
+04 	Dr. Mohsena Aktar 	Lecturer 	  	  	01711447252 \n\n
+Forensic Medicine 	\n\n
+01 	Dr. Kamoda Prosad Saha 	Asso. Prof. 	  	01715-012961, 01733-343409 \n\n
+02 	Dr. Mohammad Omar Faruk 	Lecturer 	  	  	01917-256745 \n\n
+03 	Dr. Sharmin Sultana 	Lecturer 	  	  	01726-042409 \n\n
+Medicine \n\n
+01 	Prof. Dr. Md. Mahabubul Islam Mazumder 	 Professor 	  	01713-459545, 01733-343410 	 \n\n
+02 	Prof. Dr. Md. Abdul Latif 	 Professor 	  	  	01712-216130 	\n\n
+03 	Prof. Dr. Tarek Ahmed 	Professor 	  	  	01711-110923 	\n\n
+04 	Dr. Md. Rezaul Karim 	 Assoc. Prof. 	  	  	01711-796301 	\n\n
+05 	Dr. Md. Delwar Hossain 	 Assoc. Prof. 	  	  	01715-707707 	\n\n
+06 	Dr. Mohammad Ali 	Sr. Consultant 	  	  	01731-113340 	\n\n
+07 	Dr.  Md. Belalul Islam 	 Asstt. Prof. 	  	  	01711-147405 	\n\n
+08 	Dr. Chinmoy Kumar Saha 	Asstt. Prof 	  	  	01715-282624 \n\n
+09 	Dr. Md. Hafizur Rahman 	Asstt. Prof 	  	  	01911015656 \n\n
+10 	Dr. Mohammad Ahsanul Hoque 	Asstt. Prof 	  	  	01711-738721 \n\n
+11 	Dr. Abul Kalam Mohammad Sajedur Rahman 	Asstt. Prof 	  	  	01711-042373 \n\n
+12 	Dr.Helalur Rahman (OSD) 	Asstt.Prof. 	  	  	01711-386232 	\n\n
+13 	Dr. Mohammad Kamal Hossain Patwary (OSD) 	Asstt. Prof. 	  	  	01817-056074 	\n\n
+14 	Dr. Saleh Ahmed (OSD) 	Asstt. Prof. 	  	  	01715-013369 	\n\n
+15 	Dr. Forhad Abedin 	R.P 	  	  	01716-741473 	\n\n
+16 	Dr. Anupom Paul 	Registrar 	  	  	01819-112154 \n\n
+17 	Dr. Muhammad Asif Iqbal 	Registrar 	  	  	01717-060806 	\n\n
+18 	Dr. Muhammad Mazbah Uddin 	Registrar 	  	  	01819-933441 \n\n
+19 	Dr. Kazi Md. Robiul Alam 	Registrar 	  	  	01712-254742 	 \n\n
+20 	Najmun Naher 	Registrar 	  	  	01718-174350 	 \n\n
+Neurology 	 \n\n
+01. 	Dr. Md. Nazmul Hasan Chowdhury 	 Assoc.Prof. 	  	01711-310494, 01733-343411 \n\n
+02. 	Dr. Panchanon Dash 	Asstt. Prof 	  	01718-331275 	\n\n
+Neuro Surgery 	 \n\n
+01 	Dr. Md. Mashiur Rahman Majumder 	Asstt. Prof. 	  	01715-003459 	\n\n
+02. 	Dr. Khaled Ahmedur Rahman(OSD) 	Asstt. Prof. 	  	01716-946688 	\n\n
+Hepatology 	 \n\n
+01. 	Dr. Md. Izazul Haque 	 Assoc.Prof. 	  	01711-308005, 01733-343412 	 \n\n
+02. 	Dr. Md. Dalil Uddin 	Asstt. Prof 	  	01552-632371 	\n\n
+Respiratory Medicine 	 \n\n
+01. 	Dr. Md. Abu Hasanat 	Asstt. Prof. 	  	01711-372557, 01733-343413 	 \n\n
+Gastroenterology 	 \n\n
+01 	Dr. Md. Shah Jamal 	Asstt. Prof. 	  	01711133462, 01733-343414 	 \n\n
+02. 	Dr. Mohammad Jakir Hossain(OSD) 	Asstt. Prof. 	  	01711-825557 	\n\n
+03. 	Dr. Juli Chowdhury 	Registrar 	  	01815-950633 	\n\n
+Physical Medicine \n\n
+01 	Dr. Md. Zahidul Haque 	Assoc.  Prof. 	  	01819-315097, 01733-343415 	\n\n
+02 	Dr. Md. Monirul Islam 	Registrar 	  	01816-824968 	\n\n
+Surgery 	\n\n
+01 	  	  	  	01733-343416 	\n\n
+02 	Dr. Md. Jahangir Hossain Bhuiyan 	 Assoc. Prof. 	  	  	01711-137553 	\n\n
+03 	Dr. G. M. Morshed 	Sr. Consultant 	  	  	0711 348 623 	\n\n
+04 	Dr. A. M. M Yeahia 	 Asstt. Prof. 	  	  	01711 303168 \n\n
+05 	Dr. Zobaer Ahamed 	Asstt. Prof. 	  	  	01712-531142 	\n\n
+06 	Dr. Suzit Kumer Saha 	Jr. Consultant 	  	  	01711-447863 	\n\n
+07 	Dr. Md. Abdul Awal 	R.S 	  	  	01712-566590 	\n\n
+08 	Dr. Md. Safayet Ullah 	R.S (Casulty) 	  	  	01711-311554 \n\n
+09 	Dr. ANM Jane Alam 	Registrar 	  	  	01716-444130 \n\n
+Urology 	 \n\n
+01 	  	  	  	01733-343417 	 \n\n
+02 	Dr. Md. Nasir Uddin 	Asstt. Prof. 	  	  	01711-116639 	\n\n
+03 	Dr. Md. Masum Hasan(OSD) 	Asstt. Prof. 	  	  	01819-285902 	\n\n
+ENT
+01. 	Prof. Dr. Ratan Kumar Das Chowdhury 	 Professor 	  	01718-861521, 01733-343418\n\n
+02. 	Dr. Md. Rafiqul Islam Sarker 	 Assoc. Prof. 	  	  	01711-385898 \n\n
+03. 	Dr. Md. Golam Mustafa 	 Asstt. Prof. 	  	  	01819-251987 \n\n
+04. 	Dr. Md. Shazibur Rashid (OSD) 	Asstt. Prof. 	  	  	    01711-371744 \n\n
+06. 	Dr. A.H.M Delwar (OSD) 	Asstt. Prof. 	  	  	01711-246978 \n\n
+07. 	Dr. Md. Arif Murshed Khan 	Jr. Consultant 	  	  	01711-382480 \n\n
+08. 	Dr. Md. Mostafizur Rahman 	R.S 	  	  	01716-921635 	\n\n
+09 	Dr. Md. Shafiqur Rahman 	Registrar 	  	  	01716-120930 	\n\n
+Gynae &amp; Obs 	\n\n
+01 	Prof. Dr. Karuna Rani Karmaker 	Professor 	  	01733-343419, 01711-750448 \n\n
+02 	Dr. Fatema Rahman(OSD) 	Assoc. Prof. 	  	  	01711-336673 	\n\n
+03 	Dr. Md. Shakhawat Ullah 	Assoc. Prof. 	  	  	01711-227725 	\n\n
+04 	Dr. Kazi Shamsul Alam(OSD) 	Assoc. Prof. 	  	  	01711-100605 	\n\n
+06 	Dr. Nurun Nahar 	Sr. Consultant 	  	  	01711 749 092 \n\n
+07 	Dr. Raihana Sultana Begum 	Sr.Consultant 	  	  	01716-932236 	\n\n
+08 	Dr. Shahela Nazneen 	Asstt. Prof. 	  	  	01711 176 810 	\n\n
+09 	Dr. Sartaj Begum 	Asstt. Prof. 	  	  	01712-015696 	\n\n
+10 	Dr. Shirin Akther 	Asstt. Prof. 	  	  	01753-134898 	\n\n
+11 	Dr. Afroza Khan 	Asstt. Prof. 	  	  	01711-709262 	\n\n
+12 	Dr. Nur Jahan Begum 	Asstt. Prof. 	  	  	01711-307400 	\n\n
+13 	Dr. Provat Kumar Bala (OSD) 	Asstt. Prof. 	  	  	01711-183363 \n\n
+14 	Dr. Lipi Pal 	R.S 	  	  	01716-661428 	\n\n
+15 	Dr. Romena Begum 	Registrar 	  	  	01675-655091 	 \n\n
+16 	Dr. Shirin Sultana 	Registrar 	  	  	– 	 \n\n
+Paediatrics 	 \n\n
+01 	Dr. K. A Mannan 	 Professor 	  	  	01715-736467 	 \n\n
+02 	Dr. M Akhtar Hossain (OSD) 	Assoc. Prof. 	  	  	01711-964076 	\n\n
+03 	Dr. Md. Abul Bashar 	Sr. Consultant 	  	  	01711-353493 	\n\n
+04 	Dr. Golam Mohiuddin (Dipu) 	Asstt. Prof. 	  	01711-720952,01733-343434 	 \n\n
+05 	Dr. A.K.M Harunur Rashid (OSD) 	Asstt. Prof. 	  	01720-072752 	\n\n
+  	Dr. Md. Mahbubur Rahman 	RP 	  	01726-781579 	\n\n
+06 	Dr. Md. Golam Mostofa 	Registrar 	  	  	01767-353048 	 \n\n
+Paediatrics Nephrology 	 \n\n
+01 	Dr. Md. Azizul Hossain 	 Assoc. Prof. 	  	01711-111299, 01733-343420 	 \n\n
+02 	Dr. Kiriti Proshad Deb 	Asstt. Prof. 	  	01711-355807 	 \n\n
+Paediatrics Surgery 	 \n\n
+01 	Dr. Sukumar Chakraborty 	Assoc. Prof. 	  	01731-800525, 01733-343421 	 \n\n
+02 	Dr. Md. Jamal Saleh Uddin(OSD) 	Assoc. Prof. 	  	01721-610862 	\n\n
+03 	Dr. Md. Szjedul Haque 	Asstt. Prof. 	  	01711-812771 	 \n\n
+Nephrology 	 \n\n
+01 	Dr. Bablu Kumar Paul 	Asstt. Prof. 	  	  	01915-579839 	\n\n
+Ophthalmology/Eye 	 \n\n
+01 	Prof.Dr. Md. Abdul Awal Mia 	Professor 	  	01711-702169, 01733-343422 	 \n\n
+02 	Prof. Dr. Md. Nazmus Saadat 	Professor 	Against the Post (BT) 	01711-079340 \n\n
+  	Dr. Md. Mizanur Rahman 	Assoc. Prof 	  	01924-931885 	\n\n
+03 	Dr. Zahir Uddin Ahmad 	Sr. Consultant 	  	01711-374567 \n\n
+04 	Dr. Md. Zahangir Alam Chowdhury 	 Asstt. Prof. 	  	  	01711-319374 \n\n
+05 	Dr. Md. Mohshiur Rahman Chowdhury (OSD) 	Asstt. Prof. 	  	  	01716-671991 \n\n
+06 	Dr. Jahangir Alam 	R.S 	  	  	01711-114376 	 \n\n
+Orthopaedic Surgery 	 \n\n
+02 	Dr. Khaled Mahmud 	Assoc.Prof. 	  	  	01711-354395 	\n\n
+03 	Dr. Md. Abdur Rashid Chokder 	Assoc.Prof. 	  	  	01711-373086 \n\n
+04 	Dr. Md. Abdul Hoque 	Asstt. Prof. 	  	  	01711-798081 	\n\n
+05 	Dr. Liton Kumar roy 	Asstt. Prof. 	  	  	01720-969999 	 \n\n
+06 	Dr. Md. Kamal Uddin 	Sr. Consultant 	  	  	01711-027262 	 \n\n
+07 	Dr. Md. Moniruzzaman 	Registrar 	  	  	01717-518554 	 \n\n
+Cardiology 	 \n\n
+01 	Dr. Md. Mizanur Rahman 	 Assoc.Prof. 	01819-386534 	01713-230207, 01733-343424 	\n\n
+02 	Dr. Abdul Latif Molla 	Sr. Consultant 	  	01711-046504 	 \n\n
+03 	Dr. Sk. Marufuzzaman 	 Asstt. Prof. 	  	  	01711-943715\n\n
+
+
+04 	Dr. Md. Hasan Iqbal Majumder 	Reigistrar 	  	  	01716873968 \n\n
+Radiology 	 \n\n
+01 	Prof. Dr. Enamul Hoque 	Professor 	  	01752-314470, 01733-343425 	 \n\n
+02 	Dr. Md. Mustafa Kamal Azad 	  Assoc.Prof. 	  	01715-147121 \n\n
+03 	Dr. Noor Mohammad 	Sr. Consultent 	  	  	01711-158381 	 \n\n
+04 	Dr. Syed Mohammad Sajjad Jalal(OSD) 	Asstt. Prof. 	  	  	01716-401412 	\n\n
+  Radiotherapy 	 \n\n
+01. 	Dr. Jahangir Hossain Bhuiyan 	 Assoc.Prof. 	  	01711-953170, 01733-343426 	\n\n
+02. 	Dr. Md. Khorshed Alam 	Asstt. Prof. 	  	01725-405218 	 \n\n
+Dermatology (Skin &amp; VD) 	 \n\n
+01 	Dr. Md. Shah Alam 	Assoc.Prof 	  	01819-389998,01733-343427 	 \n\n
+02 	Dr. Saha Bijoy Kumar 	Asstt. Prof. 	  	  	01711-380289 	\n\n
+03 	Dr. Md. Jainal Abedin Chowdhury (OSD) 	Asstt. Prof. 	  	  	01819-489367 \n\n
+04 	Dr. Gazi Md. Matiur Rahman(OSD) 	Asstt. Prof. 	  	  	01711-448109 	 \n\n
+05 	Dr. Abu Jafar Md. Shahidul Hoq (OSD) 	Asstt.Prof. 	  	  	01711-170615 	\n\n
+Anaesthesiology 	 \n\n
+01 	Prof. Dr. Md. Mahsinuzzaman Chowdhury 	  Professor 	  	01711-795702, 01733-343428\n\n
+02 	Dr. Md. Abul Basar 	  Assoc. Prof. 	  	  	01711 749 496 	 \n\n
+03 	Dr. Mohammad Tofayel Ahmed (OSD) 	Assoc. Prof. 	  	  	01711-351244 	 \n\n
+04 	Dr. Md. Atower Rahman 	Asstt.Prof. 	  	  	01711-797418 	 \n\n
+05 	Dr. M.A Muhit 	Jr. Consultant 	  	  	01819-446059 	 \n\n
+Psychiatry 	 \n\n
+01. 	Prof.Dr. Md. Nizam Uddin 	Professor 	  	01711-153778, 01733-343429 	 \n\n
+02. 	 Dr. Md. Harun Ar Rashid(OSD) 	 Assoc.Prof. 	  	  	01711-140191 	\n\n
+03. 	Dr. Md. Shahedul Islam 	 Asstt. Prof. 	  	  	01712-261296 	 \n\n
+Blood Transfusion 	 \n\n
+01 	Dr. Mijanur Rahman 	Assoc.Prof. 	  	01716-518915, 01733-343400 	 \n\n
+02 	  	  	  	  	  	 \n\n
+Dentistry 	 \n\n
+01 	Rokeya Zaman 	 Asstt. Prof. 	  	01718-559555,01733-343430 	 \n\n
+02 	Dr. Md. Rahim Ullah Chowdhury 	 Asstt. Prof. 	  	  	01819-284537 	 \n\n
+03 	Dr. Md. Badrul Alam 	Asstt. Prof. 	  	  	01715-135872 	 \n\n
+Burn Plastic Surgery 	 \n\n
+01. 	Dr. Mirza Mohd Tayeabul Islam 	Asstt. Prof. 	  	01717-435212, 01733-343431 \n\n
+02. 	Dr. Kazi Imran Ahmed(OSD) 	Asstt. Prof. 	  	  	01714-410606 	\n\n
+03. 	Dr. Md. Monirul Islam 	Asstt.Prof. 	  	  	01913-141509 	 \n\n
+Office Admin 	 \n\n
+01. 	Md. Khorshed Alam Bhuiyan 	Secretary 	  	01733-343436, 01818-618278 	 \n\n
+02. 	Md. Omar Faruk 	H.A (In-charge) 	Tnt72033 	01733-343437, 01819-157344 	 \n\n
+03. 	Md. Abu Musa Molla 	Stenographer (P.A) 	  	01921-636123, 01733-343438 \n\n
+04. 	Md. Moshaidul Alam 	UDA 	  	01733-343439, 01818-265595 	 \n\n
+05. 	Md. Aminul Haque Bhuiyan 	Steno-Typist 	  	01733-343440, 01915-837682 	\n\n
+06. 	Md. Nurul Amin 	Store Keeper 	  	01733-343441, 01819-183053 	 \n\n
+07. 	Md. Forhad Hossain 	Store Keeper 	  	01733-343442, 01813233540 \n\n
+08. 	Md. Zakir Hossain 	O.A (in-charge Store keeper) 	  	01733-343443, 01711-342964 	\n\n
+09. 	Md. Anwarul Azim 	O.A 	  	01733-343444, 01711-372945 	 \n\n
+10. 	Mst. Shamima Khanomp 	O.A 	  	01733-343445, 01944-774342 \n\n
+11. 	Md.Zakir Hossain Shohag 	O.A 	  	01733-343446, 01818-228578\n\n
+12. 	Md. Shaiful Islam 	O.A 	  	01733-343447, 01819-664060 	 \n\n
+13. 	Md. Jashim Uddin 	O.A (in-charge) 	  	01733-343449, 01715-897294\n\n
+14. 	Debdash Sikder 	Artist (in-charge Librarian) 	  	01733-343448, 01714-501765 \n\n
+15. 	Md. Khalequzzaman Babu 	Ep-Operator 	  	01733-343435, 01191-193737 	 \n\n
+16. 	Security Post No. 	  	  	01733-343433 	\n\n
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+    </ScrollView>

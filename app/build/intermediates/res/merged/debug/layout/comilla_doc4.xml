@@ -1,0 +1,204 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Eastern Medical College, Comilla
+Kabila. Dhaka-Chittagong Highway
+Comilla, Bangladesh
+Cell: +880-1730014800, +880-1717031411.
+Fax: +880-81-76320
+e-mail: emccomilla@yahoo.com
+web: www.emccomilla.com
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Department of Anatomy\n\n
+Prof. Dr. Md. Abdur Rashid
+MBBS, M.Phil. (Anatomy) 	Professor &amp; Head\n\n
+	Prof. Dr. A.B.M. Omar Faruque
+MBBS, M.Phil. (Anatomy) 	Professor (CC)\n\n
+	Dr. Abdullah Al Foysal
+MBBS, M.Phil. (Anatomy) 	Assistant Professor\n\n
+
+	Dr. Mizanur Rahman
+MBBS 	Lecturer\n\n
+	Dr. Ibrahim Molla
+MBBS 	Lecturer\n\n
+	Dr. Ruhul Amin
+MBBS 	Lecturer\n\n
+	Dr. Ashraful Alam
+MBBS 	Lecturer\n\n
+	Dr. AKM Hedayetul Islam
+MBBS 	Lecturer\n\n
+	Dr. Ariful Haque
+MBBS 	Lecturer\n\n
+	Dr. Arman Hossain
+MBBS 	Lecturer\n\n
+	Dr. Md. Yousuf Mia
+MBBS   Lecturer\n\n
+
+Department of Physiology\n\n
+Prof. Dr. Abida Ahmed
+MBBS, M.Phil. (Physiology), MMEd 	Professor\n\n
+	Prof. Dr. Dipok Kumar Sunyal
+MBBS, M.Phil. (Physiology) 	Professor\n\n
+	Dr. Mita Bhowmik
+MBBS, M.Phil. (Physiology) 	Assistant Professor\n\n
+	Dr. Sushmita Sinha
+MBBS, M.Phil. (Physiology) 	Assistant Professor\n\n
+	Dr. Zannatul Rakhe
+MBBS 	Lecturer\n\n
+	Dr. Roksana Akter
+MBBS 	Lecturer\n\n
+	Dr. Sabrina Alam Suchi
+MBBS 	Lecturer\n\n
+	Dr. Tahmina Sultana
+MBBS 	Lecturer\n\n
+	Dr. Niger Sultana
+MBBS 	Lecturer\n\n
+	Dr. Nadia Haq
+MBBS 	Lecturer\n\n
+	Dr. Zannatul Mehzabin
+MBBS 	Lecturer \n\n
+
+Department of Biochemistry\n\n
+Dr. Minati Banerjee
+MBBS, M.Phil. (Biochemistry) 	Associate Professor &amp; Head\n\n
+	Dr. Fatma M. Khan
+MBBS, M.Phil. (Biochemistry) 	Associate Professor\n\n
+	Dr. Nadia Ferdous
+MBBS, M.Phil. (Biochemistry) 	Assistant Professor\n\n
+	Dr. Khondakar Alwan Nahid
+MBBS, M.Phil. (Biochemistry) 	Assistant Professor\n\n
+	Dr. Samia Afrin Monalisa
+MBBS 	Lecturer\n\n
+	Dr. Sumaiya Hossain Rimi
+MBBS 	Lecturer\n\n
+	Dr. Md. Sabbir Hossain
+MBBS 	Lecturer\n\n
+	Dr. Sanjida Sajarin
+MBBS 	Lecturer\n\n
+	Dr. Jannatul Mawa
+MBBS 	Lecturer\n\n
+	Dr. Shaheda Akter
+MBBS 	Lecturer\n\n
+	Dr. Sabrina Islam Mazumder
+MBBS 	Lecturer\n\n
+
+Department of Community Medicine \n\n
+Prof. Dr. Md. Muzibur Rahman
+MBBS, MPH 	Professor &amp; Head\n\n
+	Dr. Musleh Uddin Ahmed
+MBBS, MPH 	Associate Professor\n\n
+	Dr. Rehana Sultana
+MBBS, MPH 	Associate Professor\n\n
+	Dr. Airin Salim
+MBBS, MPH 	Assistant Professor\n\n
+	Dr. Farzana Rahman
+MBBS 	Lecturer\n\n
+	Dr. Biplob Roy
+MBBS 	Lecturer\n\n
+	Dr. Mainuddin Hossain
+MBBS 	Lecturer\n\n
+	Dr. Fatema Akter Lima
+MBBS 	Lecturer\n\n
+Department of Forensic Medicine\n\n
+Prof. Dr. Md. Shah Alam
+MBBS, DTCD, MCPS (Forensic Medicine), MMEd 	Professor &amp; Head\n\n
+	Prof. Dr. Areful Hoque
+MBBS, Fellow (Forensic Medicine) 	Professor\n\n
+	Dr. Abdul Jalil
+MBBS 	Assistant Professor\n\n
+	Dr. Toil Chakraborty
+MBBS 	Lecturer\n\n
+	Dr. Mukter Hosen Bhuiyan
+MBBS 	Lecturer\n\n
+	Dr. Saima Kabir Chowdhury
+MBBS 	Lecturer \n\n
+Department of Pharmacology &amp; Therapeutics\n\n
+Dr. Md. Zakirul Islam
+MBBS, M.Phil. (Pharmacology) 	Associate Professor &amp; Head\n\n
+
+	Dr. Md. Faizur Rahman
+MBBS, M.Phil. (Pharmacology) 	Associate Professor\n\n
+	Dr. Munira Afrin
+MBBS, M.Phil. (Pharmacology) 	Associate Professor\n\n
+	Dr. Kamrunnahar Bhuiyan
+MBBS 	Lecturer\n\n
+	Dr. Saiful Islam
+MBBS 	Lecturer\n\n
+	Dr. Sabina Akter
+MBBS 	Lecturer\n\n
+	Dr. Kamrun Nahar Liza
+MBBS 	Lecturer\n\n
+	Dr. Sabrina Mahjabeen Halim
+MBBS 	Lecturer \n\n
+Department of Surgery\n\n
+
+Prof. Dr. Md. Ataur Rahman
+MBBS, MS (Surgery) 	Professor  &amp; Head\n\n
+	Prof. Dr. Golam Samdani
+MD, MS, Ph.D (Surgery), FACS, FICS 	Professor\n\n
+	Prof. Dr. K. M. Ashraf Ali
+MBBS, FCPS (Surgery), FICS 	Professor\n\n
+	Dr. Alamgir Hossain Bhuiyan
+MBBS 	Registrar\n\n
+	Dr. Md. Mizanur Rahman Bhuiyan
+MBBS 	RS\n\n
+	Dr. Al Amin
+MBBS 	Assistant Registrar\n\n
+	Dr. H. M. Hasan Imam
+MBBS 	Assistant Registrar\n\n
+Department of Medicine\n\n
+Prof. Dr. Md. Azizul Haque
+MBBS, FCPS (Medicine)  	Professor &amp; Head\n\n
+	Prof. Dr. Md. Shahab Uddin
+MBBS, FCPS (Medicine), FRCP 	Professor\n\n
+	Dr. Md. Arif Akbar Saibal
+MBBS, FCPS (Medicine) 	Associate Professor\n\n
+	Dr. Md. Monjur-A-Khoda Modasser Hossain
+MBBS, D. Card. 	Assistant Professor\n\n
+	Dr. Ripon Chandra Mazumder
+MBBS 	Registrar\n\n
+	Dr. Anik Islam
+MBBS 	Assistant Registrar\n\n
+	Dr. Morshad Alam
+MBBS 	Assistant Registrar \n\n
+
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+      />
+
+    </RelativeLayout>
+    </ScrollView>

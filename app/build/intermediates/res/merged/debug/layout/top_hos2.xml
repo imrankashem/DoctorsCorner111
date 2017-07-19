@@ -1,0 +1,221 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Labaid Specialized Hospital
+Address:
+House- 06, Road-04, Dhanmondi
+Dhaka-1205, Bangladesh
+Phone: 	+88 02 9676356
++88 02 58610793-8
+Fax: 	+88 02 9615497
+Email: 	info@labaidgroup.com
+Mobile: 	+88 0171-333-333-7
+(24-hour Open)
+Customer Care: 	+88 0176 666 21 11
+Website: 	www.labaidhospital.com
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+ Prof. (Dr.) M. A. Samad
+MBBS, MD (Nephro) FCPS (Medicine), FRCP (Glasgow, UK) Trained in Nephrology (USA, Japan, Singapore &amp; India)
+Nephrology\n\n
+ Prof. (Dr.) Asia Khanam
+MBBS, MD(Nephrology)
+Nephrology\n\n
+Brig. Gen. (Prof.) Nurunnahar Fatema
+MBBS, FCPS (Paed), FRCP (Edin), FACC (USA), FACAI (USA)
+Interventional Cardiology\n\n
+Brig.Gen. (Rtd) Prof.Dr.Md.Abdul Alim
+MBBS (Dhaka), FCPS (Medicine), FACP (USA), FRCP (Glasgow), Senior Fellowship (Singapore)
+Medicine\n\n
+Col. (Dr.) Nurun Nahar Fatema
+MBBS, FCPS(Pedi), FRCP(Edin), FACC(USA), FSCAI(USA)
+Cardiology\n\n
+Col. Prof. Md. Nurul Azim (retd)
+MBBS, MD, FCPS, FRCP, FACP, PSYD, PHD
+Psychiatry\n\n
+Colonel (Prof). Md. Nurul Azim (Retd)
+MBBS, MD, FCPS, FRCP (Glasg) FACP, PsyD, PhD
+Psychiatry\n\n
+Dr (Prof. ) Maj Gen Muhammad Rabiul Hossain
+MBBS,MCPS,FCPS,FRCP(Edin)
+Gastroenterology\n\n
+DR ABU SALIM
+MBBS,D,CARD,MD(CARDIOLOGY),FESC
+Cardiology\n\n
+Dr Anharur Rahman
+MBBS(D.U) Asst. Registrar
+Emergency\n\n
+Dr Asmat Ahmed
+MBBS, MD (USA)
+Medicine\n\n
+Dr Dilara Makhbul
+MBBS
+Nutrition &amp; Dietetics\n\n
+Dr kamrunnaher
+MBBS
+Nutrition &amp; Dietetics\n\n
+DR KANIZ FATEMA
+MBBS, FCPS, CMU(DU)
+Gynecology &amp; Obstetrics\n\n
+Dr Md Anwarul Hoque Faraji
+MBBS, BCS, MD (Nephrology)
+Medicine and Kindey Specialist\n\n
+Dr Salma Pervin
+MBBS
+Nutrition &amp; Dietetics\n\n
+Dr Shahidur Rahman
+MBBS, FCPS
+Family physician and medical co-ordinator\n\n
+DR SYED ANWARUZZAMAN
+MBBS,MS(Ortho),AO Fellow(GERMANY)
+Orthopedic\n\n
+Dr. Riaz Uddin
+MBBS, DDV, MCPS, FCPS
+Skin &amp; VD\n\n
+Dr. (Lt. Col) Mir Azim Uddin
+MBBS, DCP, MCPS, FCPS (Hematology)
+Hematology\n\n
+Dr. A F M Kamal Uddin
+MBBS, DTCD, MD (Radiation Oncology), UICC Fellow, NCC, Singapore IEA Fellow, UPMC, USA
+Oncology\n\n
+Dr. A P M Sohrabuzzaman
+MBBS, MD (Card), FCPS (Med)
+Interventional Cardiology\n\n
+Dr. A. F. M. Kamal Uddin
+MBBS, DTCD, MD (Radiation Oncology)
+Oncology\n\n
+No Photo
+Dr. A.C. Saha
+MBBS, D-Ortho, MS (Ortho), Nitor ( Pangu Hospital) Trained in AO (Spine) Advance, Training of AO (Trauma)
+Orthopedic Surgeon\n\n
+DR. A.H.M REZAUL HAQUE
+MBBS, MS (Ortho)
+Orthopedic\n\n
+Dr. A.K.M Shamsul Kabir
+MBBS (DMC), FCPS (Medicine), MD (Hepatology)
+Gastroenterology, Liver and Internal Medicine Specialist\n\n
+Dr. A.K.M. Rejaul Haque
+MBBS, BCS (Health), MD (Skin and VD)
+Skin &amp; VD\n\n
+Dr. A.K.M. Shaheen Ahmed
+FCPS (Medicine), MCPS (Medicine), MBBS Associate Prof., Medicine BIRDEM &amp; Ibrahim Medical College
+Medicine Specialist and Diabet\n\n
+Dr. Abdul Wadud Chowdhury
+FCPS(Medi), MD(Card)
+Interventional Cardiology\n\n
+DR. ABDULLAH AL MAHMOOD
+MBBS (DHAKA), MD (HEPATOLOGY)
+Hepatology\n\n
+Dr. Abdullah Shahriar
+MBBS, MD (Paed)
+Paediatric Cardiology\n\n
+Dr. ABM Shafiullah
+MBBS,MD(GASTRO)
+Gastroenterology\n\n
+Dr. Adnan Yusuf Choudhury
+MBBS, MCPS (Medicine), MD (Chest)
+Internal medicine and chest dieseas\n\n
+Dr. Afroza Sultana
+MBBS, DGO, FICS (Obs and Gyane)
+Gynecology &amp; Obstetrics\n\n
+Dr. Afzalunnessa Chowdhury
+MBBS, DGO, MCPS, FCPS (Gyn &amp; Obs)
+Gynecology &amp; Obstetrics\n\n
+Dr. Ahmed Hossain Chowdhury (Harun)
+MBBS, BCS (Health), MD (Neurology)
+Neurology\n\n
+Dr. Amjad Hossain
+MBBS, MS (Ortho) AO Fellow (Germany) Arthroplasty &amp; Trauma Surgeon
+Orthopedic &amp; Trauma\n\n
+Dr. Anowar Yusuf
+BDS. MS. PhD (Japan)
+Dental Surgeon\n\n
+Dr. Arun Kumar Sharma
+MBBS, MCPS (Med)), MD (Card), FACC (USA)
+Interventional Cardiology\n\n
+Dr. Atia Saeed
+MBBS, FCPS (Med), MD (Gastro)
+Gastroenterology\n\n
+Dr. Bazlul Goni Bhuiyaan
+MBBS, MS(CVTS)
+Vascular Surgery\n\n
+Dr. Begum Hosne Ara
+FCPS(Gyne), MS(Gyne)
+Gynecology &amp; Obstetrics\n\n
+DR. BIJON SAHA
+MBBS, PGT (Surgery) D.Ortho (PG Hospital)
+Orthopedic\n\n
+Dr. Bimal Chandra Shil
+MBBS, FCPS(Med), MD(Gastro), Member- ISG(India)
+Gastroenterology\n\n
+DR. DIPAN CHOWDHURY
+MBBS, MD.CCD
+Medicine Specialist and Cardiologist\n\n
+    Prof. Major (Retd.) Dr. M Motahar Hossain
+MBBS, DLO, FICH(USA)
+ENT ( Ear,Nose &amp;Throat)\n\n
+Prof. Major(Ret) Dr. Laila Arjumand Banu
+MBBS, DGO, FCPS(Obs. &amp; Gynee), FICS
+Gynecology  Obstetrics\n\n
+Prof. Dr. Zulfiqur Rahman Khan
+MBBS, FCPS (Surgery), FRCA (UK), FICS (USA)
+General &amp; Pancreatic Surgery\n\n
+Prof. Sheikh Nesaruddin Ahmed
+MBBS, DTM &amp; H, MRCP (Edin), FRCP (Edin), FCPS, FACP (USA)
+Medicine\n\n
+Prof. Sheikh Nesaruddin Ahmed
+MBBS, DTM &amp; H, MRCP (Edin), FRCP (Edin), FCPS, FACP (USA)
+Medicine\n\n
+Prof. Dr. Md. Ali Hossain
+MBBS, FCPS(Medi), MD(Chest)
+Pulmonology\n\n
+Prof. Dr. M Khademul Islam
+MBBS, FCPS, Dip.Med (UK), FRCS (Glasgow), FICS, FACS, Chief Surgeon (Labaid Specialized Hospital)
+General Surgery\n\n
+Prof. (Dr.) Md. Monzur Rahman (Galib)
+MBBS, FCPS (Med), WHO Fellow (India)
+Medicine\n\n
+
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        </RelativeLayout>
+    </ScrollView>

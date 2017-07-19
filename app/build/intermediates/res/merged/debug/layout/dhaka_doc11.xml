@@ -1,0 +1,1095 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Popular Diagnostic Centre Ltd. (Dhanmondi)
+02-9669480
+02-9661491
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Doctor's Name	
+:	
+Dr. A H M Rowshon
+
+Qualification	:	MBBS, FCPS (Med.), MD(Gastro), Commonwealth Fellow-gastro (UK)
+Designation 	:	Professor, Department of Gastroenterlogy
+Expertise 	:	Liver  Gastroenterology
+Organization	:	Shaheed Suhrawardy Medical College  Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063
+email	:	
+\n	\n
+		
+Doctor's Name	:	Dr. A K M Motiur Rahman Bhuiyan
+Qualification	:	MBBS, MPH, MD
+Designation 	:	Assistant Professor, Medicine Department
+Expertise 	:	Medicine  Rheumatology
+Organization	:	Bangabandhu Sheikh Mujib Medical University (BSMMU)
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880 2 9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	\n
+		
+Doctor's Name	:	Dr. A N M Zia-Ur- Rahman
+Qualification	:	MBBS, FCPS. FICS Trained in Gastroenterology (Japan)
+Designation 	:	Principal &amp;amp; Professor of Surgery
+Expertise 	:	General Surgeon
+Organization	:	Popular Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. A.K.M. Rafique Uddin
+Qualification	:	MBBS, MD ( USA ), FCPS ( Medicine ), FACP ( USA )
+Designation 	:	Professor &amp; Head, Departnment of Medicine
+Expertise 	:	Medicine
+Organization	:	Enam Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. A.N.M. Harunur Rashid ( Uzzal )
+Qualification	:	MBBS, MS ( Ortho )
+Designation 	:	Assistant Professor
+Expertise 	:	Orthopaedic Surgeon
+Organization	:	Sir Salimullah Medical College &amp; Mitford Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Abdullah-Al-Safi Majumder
+Qualification	:	MBBS, D. Card, MD(Card), FACC, FSGC, FRCP Research Fellow, NCVC, (Japan) WHO Fellow in Cardiology, USA
+Designation 	:	Professor of Cardiology
+Expertise 	:	Cardiology
+Organization	:	National Institute of Cardiovascular Diseases, (NICVD)
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. AKM Anwarul Islam
+Qualification	:	MBBS, FCPS, FRCS, FICS Clinical Fellow in Urology (WHO)
+Designation 	:	Professor, Department of Urology
+Expertise 	:	Urology - Renal Transplantation Surgeon
+Organization	:	Bangabandhu Sheikh Mujib Medical University ( BSMMU )
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Biplob Kumar Roy
+Qualification	:	MBBS, MPH, MCPS ( Medicine ), MD ( Neurology )
+Designation 	:	Assistant Professor
+Expertise 	:	Neuromedicine
+Organization	:	Sylhet M A G Osmani Medical College
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Farhat Hossain
+Qualification	:	MBBS, FCPS (Gynae) Fellow-Gynae Oncology (TATA Memorial Hospital, India)
+Designation 	:	Professor, Gyne. Oncology Specialist
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Popular Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, 9662741, Cell: +880 1553341060 -1, +880 1553341063 
+Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Faruque Ahmed
+Qualification	:	MBBS, FCPS ( Med. ), MD ( Gastro. )
+Designation 	:	Professor &amp; Head, Dept. of Gastroenterology
+Expertise 	:	Gastroenterology
+Organization	:	Dhaka Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Farzana Sohael
+Qualification	:	MBBS, FCPS (Gynae &amp; Obs)
+Designation 	:	Assistant Professor, Gyne. &amp; Obs.
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Dhaka Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Ferdousi Begum
+Qualification	:	BBS, DGO, FCPS
+Designation 	:	Specialist, Gyne. &amp; Obs.
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Holy Family Red Cresent Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. G M Reza
+Qualification	:	MBBS, MCPS (Surgery), D(Ortho), MS (Ortho), AAOS (USA)
+Designation 	:	Consultant, Orhtopaedic &amp; Trauma Surgery
+Expertise 	:	Orthopaedic Surgeon
+Organization	:	National Institute of Traumatology, Orthopaedics and Rehabilitation (NITOR)
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. ( Capt. Rtd. ) H.S Ferdous
+Qualification	:	MBBS, DEM (DU), FRMH (Australia), MACE (USA) Ph.D Fellow(DU), Ex-Visiting Associate RMH (Australia)
+Designation 	:	Consultant
+Expertise 	:	Diabetes &amp; Endocrine
+Organization	:	BIRDEM &amp; Ibrahim Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Hafizur Rahman
+Qualification	:	FRCOG
+Designation 	:	Consultant
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Popular Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, 9662741, Cell: +880 1553341060-1, +880 1553341063 Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Prof. Dr. Harun-Ur-Rashid
+Qualification	:	MBBS, PHD, FCPS, FRCP
+Designation 	:	Former Professor &amp; Chairman
+Expertise 	:	Kidney ( Nephrology )
+Organization	:	Kidney Foundation
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	Popular consultation -2, 4th Floor, Road No # 2, Dhanmondi R/A, Dhaka - 1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Iqbal Ahmed
+Qualification	:	MBBS, CCD ( Birdem )
+Designation 	:	Specialist
+Expertise 	:	Diabetes
+Organization	:	Popular Hospital, Dhanmondi
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Jalal Ahmed
+Qualification	:	MBBS, FCPS, FICS
+Designation 	:	Professor, Department of Cataract, Phaco &amp; Anterior Segment Surgeon
+Expertise 	:	Eye Surgeon - Contact Lens &amp; Phaco
+Organization	:	National Institute of Ophthalmology &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Raod # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. K.C Ganguly
+Qualification	:	MBBS, DTCD, MD, FCPS, MCPS ( USA )
+Designation 	:	Assistant Professor
+Expertise 	:	Chest, Asthma &amp; Medicine
+Organization	:	National Institute of Diseases of the Chest and Hospital (NIDCH)
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 5, Road # 2, Dhanmondi, Dhaka
+Phone	:	+880-2-9662741  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Kanak Kanti Barua
+Qualification	:	MBBS, FCPS (Surgery), MS (Neuro Surgery) Ph.D, FICS
+Designation 	:	Professor, Department of Neuro Surgery
+Expertise 	:	Neurosurgeon
+Organization	:	Bangabandhu Sheikh Mujib Medical University ( BSMMU )
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1209
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Kaniz Fatema
+Qualification	:	MBBS, DGO ( DU )
+Designation 	:	Executive Senior Consultant
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Shaheed Suhrawardy Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Kazi A. Karim
+Qualification	:	MBBS (Dhk), DDV (Vien), MSSVD (London)
+Designation 	:	Professor
+Expertise 	:	Skin &amp; VD ( Dermatology )
+Organization	:	East West Medical College
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. KBM Hadiuzzaman
+Qualification	:	MBBS, MD ( Nephrology )
+Designation 	:	Assistant Professor
+Expertise 	:	Kidney ( Nephrology )
+Organization	:	Bangabandhu Sheikh Mujib Medical University ( BSMMU )
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Khandaker Qamrul Islam
+Qualification	:	MBBS, D.Card (DU), Md (Cardioloty), FACC (USA)
+Designation 	:	Associate Professor
+Expertise 	:	Cardiology
+Organization	:	National Institute of Cardiovascular Diseases, (NICVD)
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Kohinoor Begum
+Qualification	:	MBBS, FCPS
+Designation 	:	Professor, Department of Gynecology
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Bangladesh Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669489, 9661491-3, 9662741, Cell: +880 1553341060-1, +880 1553341063 Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. M A Azhar
+Qualification	:	MBBS, FCPS, FACP, FRCP (Edin)
+Designation 	:	Principal &amp; Head, Department of Medicine
+Expertise 	:	Medicine
+Organization	:	Sir Salimullah Medical College &amp; Mitford Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. M Mujibul Hoque
+Qualification	:	MBBS, FCPS, FRCP, DDV ( DU ), DDV ( Austria )
+Designation 	:	Ex - Professor &amp; Head, DMCH
+Expertise 	:	Skin &amp; VD ( Dermatology )
+Organization	:	Popular Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. M. A. Azhar
+Qualification	:	MBBS, FCPS, FACP, FRCP (Edinburgh)
+Designation 	:	Principal &amp; Head, Department of Medicine
+Expertise 	:	Medicine
+Organization	:	Sir Salimullah Medical College &amp; Mitford Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 11/A, Road # 2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3, 01553341060, 01553341061 ( Chamber ) +880 2 9319935 ( O )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. M. A. Jaigirdar
+Qualification	:	MBBS, DCH, MRCP (UK)
+Designation 	:	Professor
+Expertise 	:	Child - Pediatric
+Organization	:	Bangladesh Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. M. A. Razzak
+Qualification	:	MBBS, DA ( DU ), MASA ( USA )
+Designation 	:	Specialist
+Expertise 	:	Pain Specialist
+Organization	:	Popular Diagnostic Center
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. M. A. Sayem
+Qualification	:	MBBS, DLP ( Diabetology ) - BIRDEM, C.C
+Designation 	:	Specialist
+Expertise 	:	Diabetes
+Organization	:	Popular Hospital, Dhanmondi
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. M. Muhibur Rahman
+Qualification	:	MBBS (DMC), FCPS (Medicine), MRCP (UK), Ph.D Nephrology (London)
+Designation 	:	Professor, Department of Nephrology
+Expertise 	:	Kidney ( Nephrology )
+Organization	:	Dhaka Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.
+Phone	:	+880-2-9669480, 9661551-9. +880-2-8315331  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. M. Nazrul Islam
+Qualification	:	MBBS, FCPS, FRCP, FACC, FESC
+Designation 	:	Professor of Interventional Cardioloy
+Expertise 	:	Cardiology
+Organization	:	Bangabandhu Sheikh Mujib Medical University, Dhaka
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. M. T. Rahman
+Qualification	:	MBBS, FCPS, Trained in France &amp; Japan
+Designation 	:	Former Professor, Gastrointestinal Liver &amp; Pancereatic Diseases
+Expertise 	:	Liver &amp; Gastroenterology
+Organization	:	Popular Diagnostic Center Ltd.
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Marina Khanam
+Qualification	:	
+Designation 	:	Ex - Professor Of DMCH
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Popular Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, 9662741, Cell: +880 1553341060 -1, +880 1553341063 Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Abu Jafor
+Qualification	:	MBBS (Dhaka), MCPS (Surgery) FCPS (Surgery), MS (Ped. Surgery)
+Designation 	:	Associate Professor. Head, Department of Pediatric Surgery
+Expertise 	:	Pediatric Surgeon
+Organization	:	Sir Salimullah Medical College &amp; Mitford Hospital, Dhaka
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Abu Jafor
+Qualification	:	MBBS (Dhaka), MCPS (Surgery) FCPS (Surgery), MS (Paed. Surgery)
+Designation 	:	Associate Professor &amp; Head, Paediatric Surgery Department
+Expertise 	:	Pediatric Surgeon
+Organization	:	Sir Salimullah Medical College &amp; Mitford Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Abu Siddique
+Qualification	:	MBBS, FPGCS ( Medicine ) , PhD ( Cardiology )
+Designation 	:	Professor
+Expertise 	:	Cardiology
+Organization	:	Bangabandhu Sheikh Mujib Medical University
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Anisur Rahman
+Qualification	:	MBBS, FCPS, Trained in Therapeutic Endoscopy (Japan)
+Designation 	:	Professor &amp; Senior Consultant, Department of Gastrointestinal Liver and Pancreatic Disorder
+Expertise 	:	Gastroenterology
+Organization	:	BIRDEM (Diabetes) Hospital &amp; Ibrahim Medical College
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Anwarul Haque
+Qualification	:	MBBS, MS ( Ortho )
+Designation 	:	Associate Professor, Department of Orthopadeci Surgery
+Expertise 	:	Orthopaedic Surgeon
+Organization	:	East West Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. ( Major Retd. ) Md. Ashraful Islam
+Qualification	:	MBBS, FCPS, FICS (USA) Fellow in Otology Harvard Medical School, USA
+Designation 	:	Professor &amp; Head
+Expertise 	:	ENT - Head &amp; Neck Surgeon
+Organization	:	Bangladesh Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Raod # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Enamul Karim
+Qualification	:	MBBS, FCPS (Medicine), FACP (USA) WHO Fellow (Diabetics)
+Designation 	:	Professor of Medicine
+Expertise 	:	Medicine
+Organization	:	Dhaka Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Faizul Islam
+Qualification	:	MBBS, ARAB Board ( FCPS ), DCH, RCPS ( Ire.)
+Designation 	:	Consultant
+Expertise 	:	Child - Pediatric
+Organization	:	Popular Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Farid Uddin
+Qualification	:	MBBS, DEM, MD
+Designation 	:	Associate Professor, Endocrine Medicine
+Expertise 	:	Diabetes &amp; Endocrine
+Organization	:	Bangabandhu Sheikh Mujib Medical University ( BSMMU )
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Golam Kibria Khan
+Qualification	:	MBBS (Dhaka), FCPS (Medicine), MACP (USA), FACP (USA), Rheumatology Fellow (USA)
+Designation 	:	Associate Professor
+Expertise 	:	Medicine
+Organization	:	Dhaka Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Habibur Rahman
+Qualification	:	MBBS, FCPS, MSC (Eng), FRCP (Edin)
+Designation 	:	Professor, Department of Nephrology
+Expertise 	:	Medicine &amp; Kidney
+Organization	:	Bangabandhu Sheikh Mujib Medical University
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.
+Phone	:	+880-2-9669480, 9661551-9, +880-2-8315331  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Monimul Hoque
+Qualification	:	MBBS, FCPS
+Designation 	:	Professor of Paediatrics
+Expertise 	:	Child - Pediatric
+Organization	:	Bangladesh Institute of Child Health at Dhaka Shishu ( Child ) Hospital, Sher-e-Bangla Nagar , Dhaka
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Monjurul Alam
+Qualification	:	MBBS, FCPS, MS (ENT), FICS (USA), Microear Surgery (Bangkok, Mumbai, Malaysia) FESS &amp; Plastic Surgery (Delhi, Chennai, Singapore)
+Designation 	:	Associate Professor
+Expertise 	:	ENT - Head &amp; Neck Surgeon
+Organization	:	Bangabandhu Sheikh Mujib Medical University (BSMMU)
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Raod # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Nizamuddin Chowdhury
+Qualification	:	MBBS, MCPS, MD ( Nephrology ), FASN ( USA ), Fellow ISN ( Canada )
+Designation 	:	Principal &amp; Head, Department of Nephrology
+Expertise 	:	Kidney ( Nephrology )
+Organization	:	Dhaka Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Q. Hassan Chowdhury
+Qualification	:	MBBS, DCD, MSc ( Clinical Dermatology - UK ),
+Designation 	:	Consultant
+Expertise 	:	Skin &amp; VD ( Dermatology )
+Organization	:	
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	
+Phone	:	+880-2-9662741  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Rafiqul Alam
+Qualification	:	MBBS, FCPS (Medicine), MD(Chest)
+Designation 	:	Assistant Professor
+Expertise 	:	Chest, Asthma &amp; Medicine
+Organization	:	Bangabandhu Sheikh Mujib Medical University (BSMMU)
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Rashidul Hassan
+Qualification	:	MBBS, MCPS, FCPS, MD(Chest)
+Designation 	:	Professor, Chest Medicine
+Expertise 	:	Chest, Asthma &amp; Medicine
+Organization	:	National Institute of Diseases of the Chest &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Md. Ruhul Amin
+Qualification	:	MBBS, FCPS (Paediatrics), Pediatric Pulmonology ( Fellow - UK)
+Designation 	:	Professor of Paediatrics
+Expertise 	:	Child - Pediatric
+Organization	:	Bangladesh Institute of Child Health at Dhaka Shishu ( Child ) Hospital, Sher-e-Bangla Nagar , Dhaka
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Sadrul Alam
+Qualification	:	MBBS, FCPS, MS ( Ped. )
+Designation 	:	Associate Professor &amp; Head, Dpeartment of Pediatric Surgery
+Expertise 	:	Pediatric Surgeon
+Organization	:	Popular Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Selimuzzaman
+Qualification	:	MBBS, DCH, MD (Paediatrics) (DU)
+Designation 	:	Associate Professor, Neonatal &amp; Child Specialist
+Expertise 	:	Child - Pediatric
+Organization	:	Bangladesh Institute of Child Health at Dhaka Shishu ( Child ) Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Taslim Uddin
+Qualification	:	MBBS, FCPS
+Designation 	:	Associate Professor
+Expertise 	:	Physical Medicine
+Organization	:	Bangabandhu Sheikh Mujib Medical University ( BSMMU )
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Md. Titu Miah
+Qualification	:	MBBS, FCPS (Medicine)
+Designation 	:	Assistant Professor
+Expertise 	:	Medicine
+Organization	:	Dhaka Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Mirza Azizul Hoque
+Qualification	:	MBBS, M.Phil (Endoc), MD (Medicine)
+Designation 	:	Consultant
+Expertise 	:	Diabetes &amp; Endocrine
+Organization	:	Popular Diagnostic Center Ltd.
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Mirza M H Faisal
+Qualification	:	MBBS, FCPS, FRCS (Ed), FICS
+Designation 	:	Senior Consultant &amp; Head, Department of Urology
+Expertise 	:	Urology - Renal Transplantation Surgeon
+Organization	:	BIRDEM Hospital &amp; Ibrahim Medical College
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Mohammad Abdullah
+Qualification	:	MBBS, FCPS, FICS
+Designation 	:	Professor
+Expertise 	:	ENT - Head &amp; Neck Surgeon
+Organization	:	Dhaka Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Raod # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Mohammad Hanif
+Qualification	:	MBBS, FCPS, FRCP ( Edin )
+Designation 	:	Professor &amp; Head, Department of Pediatric
+Expertise 	:	Child - Pediatric
+Organization	:	Dhaka Shihu ( Children ) Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Mohammed Hanif
+Qualification	:	MBBS, FCPS, FRCP (Edinburgh)
+Designation 	:	Head, Department of Pediatrics
+Expertise 	:	Child - Pediatric
+Organization	:	Bangladesh Institute of Child Health at Dhaka Shishu ( Child ) Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Mohammed Yakub Ali
+Qualification	:	MBBS, M.Phil, M.Sc, Ph.D, ( Rheumatology )
+Designation 	:	Director
+Expertise 	:	Laser Surgeon
+Organization	:	Institute of Laser Surgery and Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Raod # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Moin Uddin Ahmed Chowdhury
+Qualification	:	MBBS, MS (Orthopaedics), RCO (USA)
+Designation 	:	Associate Professor
+Expertise 	:	Orthopaedic Surgeon
+Organization	:	Sir Salimullah Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Muzibar Rahman
+Qualification	:	MBBS, FCPS, FICS, FACS, Fellow WHO ( Uro ) Australia, Advanced Trainin in Uro ( UK )
+Designation 	:	Ex. Professor, Depatment of Surgery, DMC
+Expertise 	:	General Surgeon
+Organization	:	
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. N I Bhuiyan
+Qualification	:	MBBS, MS ( Urology )
+Designation 	:	Assistant Professor
+Expertise 	:	Urology - Renal Transplantation Surgeon
+Organization	:	Banladesh Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Narayan Chandra Kundu
+Qualification	:	MBBS, FCPS (Medicine), MD (Neuromedicine) MACP (USA)
+Designation 	:	Associate Professor, Department of Neurology
+Expertise 	:	Neuromedicine
+Organization	:	Sir Salimullah Medical College &amp; Mitford Hospital , Dhaka
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Nazma Nasrin
+Qualification	:	MBBS, FCPS (Gynae &amp; Obs)
+Designation 	:	Assistant Professor, Gyne. &amp; Obs.
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Dhaka Medical College Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Neke Akhter
+Qualification	:	MBBS, FCPS
+Designation 	:	Professor
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Banladesh Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, 9662741, Cell: +880 1553341060 -1, +880 1553341063 Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Nirmalendu Bikash Bhowmik
+Qualification	:	MBBS, MD ( Neorology )
+Designation 	:	Associate Professor, Department of Neurology
+Expertise 	:	Neuromedicine
+Organization	:	BIRDEM (Diabetes) Hospital &amp; Ibrahim Medical College, Dhaka
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Omar Ali
+Qualification	:	MBBS, FCPS, FICS ( USA ), WHO Fellow in Laparoscopic &amp; Endoscopic Surgery ( Thailand )
+Designation 	:	Professo &amp; Head, Depatment of Surgery
+Expertise 	:	General Surgeon
+Organization	:	Uttara Adhunik Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Q. Tarikul Islam
+Qualification	:	MBBS, FCPS, FACP (USA), FRCP
+Designation 	:	Professor of Medicine
+Expertise 	:	Medicine
+Organization	:	Dhaka Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Rehana Begum
+Qualification	:	MBBS, FCPS (Gynae)
+Designation 	:	Professor &amp; Consultant
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Popular Diagnostic Center
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1209
+Phone	:	+880-2-9669480, 9661491-3, 9662741 Cell: +880 1553341060-1, +880 1553341063 Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. S. A. Khan
+Qualification	:	MBBS, FCPS, MS (Urology) Urologist &amp; Transplant Surgeon
+Designation 	:	Director, Popular Medical College &amp; Hospital
+Expertise 	:	Urology - Renal Transplantation Surgeon
+Organization	:	Popular Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. S. F. Nargis
+Qualification	:	MBBS, FCPS, MS
+Designation 	:	Assistant Professor, Gyne. &amp; Obs.
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	Sir Salimullah Medical College &amp; Mitford Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. S.A. Nurul Alam ( Aga )
+Qualification	:	MBBS, Ph.D, Fellow Physicians for Peace ( USA )
+Designation 	:	Consultant &amp; Head, Department of Vasculr Surgery
+Expertise 	:	Vascular Surgeon
+Organization	:	National Institute of Cardiovascular Diseases ( NICVD )
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1209
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. S.M. Shahadat Hossain
+Qualification	:	MBBS
+Designation 	:	Consultant
+Expertise 	:	Lithotripsy
+Organization	:	Popular Diagnostic Center Ltd.
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House#16, Road #2, Dhanmondi , Dhaka
+Phone	:	+880-2-9669480, 9661491-3  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Sarwar Iqbal
+Qualification	:	MBBS, MD ( Nephrology )
+Designation 	:	Associate Professor
+Expertise 	:	Kidney ( Nephrology )
+Organization	:	BIRDEM &amp; Ibrahim Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Saumitra Sarker
+Qualification	:	MBBS, MS ( Neuro Surgery )
+Designation 	:	Assistant Professor
+Expertise 	:	Neurosurgeon
+Organization	:	Mymensingh Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1209
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Sayeba Akhter
+Qualification	:	MBBS, FCPS ( BD ), FCPS ( PAK )
+Designation 	:	Ex - Professor, BSMMU
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1209
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Sehelly Jahan
+Qualification	:	MBBS, MD ( Neorology )
+Designation 	:	Associate Professor, Head of Neurology Department
+Expertise 	:	Neuromedicine
+Organization	:	Bangladesh Medical College &amp; Hospital, Dhaka
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3 ( Chamber )  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. SK. Nurul Alam
+Qualification	:	Ex - Director &amp; Professor
+Designation 	:	MBBS, MS (Ortho), D Ortho Fellow Orthopaedic Surgery (Singapore)
+Expertise 	:	Orthopaedic Surgeon
+Organization	:	Popular Diagnostice Center
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Sk. Sader Hossain
+Qualification	:	MBBS, FCPS, FICS
+Designation 	:	Professor &amp; Head, Department of Neurosurgery
+Expertise 	:	
+Organization	:	Dhaka Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1209
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341063  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Syed Serajul Karim
+Qualification	:	MBBS, FCPS, FICS Thyroid, Breast, Endocrine, Laparoscopic Surgeon
+Designation 	:	Professor, Department of Surgery
+Expertise 	:	General Surgeon
+Organization	:	Bangabandhu Sheikh Mujib Medical University ( BSMMU )
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Professor Dr. Syed Wahidur Rahman
+Qualification	:	MBBS, FCPS (Medicine)
+Designation 	:	Professor &amp; Head, Neuromedicine Department
+Expertise 	:	Neuromedicine
+Organization	:	Suhrawardy Medical College &amp; Hospital, Dhaka
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House-11/A, Road-2, Dhanmondi R/A, Dhaka-1205, Bangladesh
+Phone	:	+880-2-9669480, 9661491-3  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. T I M A Faruq
+Qualification	:	MBBS, FCPS
+Designation 	:	Professo &amp; Head, Depatment of Surgery
+Expertise 	:	General Surgeon
+Organization	:	Dhaka Medical College &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+Phone	:	+880-2-9669480, 9661491-3, Mobile : +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+		
+Doctor's Name	:	Dr. Utpala Mazumder
+Qualification	:	MBBS, FCPS, MS
+Designation 	:	Assistant Professor, Gyne. &amp; Obs.
+Expertise 	:	Gynecology &amp; Obstetrics
+Organization	:	National Institute of Cancer Research &amp; Hospital
+Chamber	:	Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Visiting Hours	:	
+Location	:	House # 16, Road # 2, Dhanmondi R/A, Dhak a- 1205
+Phone	:	+880-2-9669480, 9661491-3, Cell: +880 1553341060-1  Members Only (Mobile no)
+email	:	
+\n	
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+    </RelativeLayout>
+    </ScrollView>

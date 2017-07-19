@@ -1,0 +1,120 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Ibrahim Cardiac Hospital and Research Institute
+Address   : 122 Kazi Nazrul Islam Avenue, Shahbagh, Dhaka-1000, Bangladesh
+Phone      : +880 2 9671141-43, 9671145-47, 9674031
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Department Of : Cardiac Anaesthesiology\n\n
+Prof. Lt. Col. (Retd) Dr. Md. Hamidur Rahman
+MBBS, FCPS
+Head of the Department  Senior Consultant
+email: hamid@ibrahimcardiac.org.bd
+
+
+Department Of : Cardiology\n\n
+Prof. Dr. Mohammad Liaquat Ali
+MBBS, FCPS, MRCP (UK)
+Senior Consultant
+email: drliaquat@ibrahimcardiac.org.bd\n
+
+Prof. Dr. M Maksumul Haq
+MBBS (DMC), FCPS (BD), FACC (USA), FRCP (Edin)
+Head of the Department  Senior Consultant
+email: haq@ibrahimcardiac.org.bd\n
+
+Dr. Mashhud Zia Chowdhury
+MBBS (CU), DTCD (DU), MD in Cardiology (DU)\n
+
+
+Department Of : Cardiac Surgery \n\n
+Prof. Dr. Masoom Siraj
+MBBS, FRCS
+Head of the Department  Senior Consultant
+email: siraj@ibrahimcardiac.org.bd\n
+
+Assoc. Prof. Dr. Md. Mazibur Rahman
+MBBS (RU), MS (NICVD)
+Consultant\n
+
+Prof. Dr. M. H. Millat
+MBBS, FRCS (Edin)
+Senior Consultant
+email: mhmillat@ibrahimcardiac.org.bd\n
+
+
+Department Of : Radiology  Imaging
+Assoc. Prof. Dr. Nawshin Siraj
+MBBS, M. Phil
+Head of the Department  Consultant
+email: nausin@ibrahimcardiac.org.bd\n
+
+
+Department Of : Cardiology\n\n
+Prof. Dr. M. A. Rashid
+MBBS, MPH (HM), DTM, DCARD, F WHO, FACC, FRCP
+Professor of Cardiology  Senior Consultant
+email: drrashid@ibrahimcardiac.org.bd\n
+
+Prof Lt. Col. (Retd) Dr. Md. Rezaul Karim
+MBBS, FCPS, FRCP, FACC
+Senior Consultant
+email: reza@ibrahimcardiac.org.bd\n
+
+Dr. Md. Saidur Rahman Khan
+MBBS, MD, Ph.D
+Consultant, Cardiology\n
+
+
+Department Of : Cardiac Surgery\n\n
+Assoc. Prof. Dr. Md. Sharif Hasan
+MBBS (DU), MS (NICVD)
+Consultant\n
+
+
+Department Of : Cardiac Anaesthesiology \n\n
+Dr. Md. Sirajul Islam
+MBBS (DU), DA (DU), MD (BSMMU)
+Consultant\n
+"
+            tools:mockup_opacity="@android:integer/config_longAnimTime"
+            android:translationZ="@dimen/cardview_compat_inset_shadow"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            />
+
+    </RelativeLayout>
+    </ScrollView>

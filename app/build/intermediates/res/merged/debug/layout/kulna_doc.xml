@@ -1,0 +1,163 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Gazi Medical College
+Address :
+Gazi Medical College Hospital
+A.19-21, Mojid Sarani, Sonadanga
+Khulna 9000, Bangladesh.
++88041-812608
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/docchi1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+01 	Prof. Dr. Monoj Kumar Bose 	Principal (Acting) 	MBBS, MPH(Hospital Mgt),D(Ophthal)\n\n
+
+Department of Anatomy\n\n
+01 	Dr. Dulal Krishna Mondal 	Professor &amp; Head 	MBBS, MPhil\n\n
+02 	Dr. Rajmohon Hira 	Associate Professor 	MBBS, MPhil\n\n
+03 	Dr. Krishna Chandra Kundu 	Assistant Professor 	MBBS, MPhil\n\n
+04 	Dr.Sumaya Farjan 	Assistant Professor 	MBBS, M.Phil\n\n
+05 	Dr. Arabinda Kumar Dey 	Curator 	MBBS\n\n
+06 	Dr. Samia Askary 	Lecturer 	MBBS\n\n
+07 	Dr. Nirapada Mondal 	Lecturer 	MBBS\n\n
+08 	Dr. Urmi Chowdhury 	Lecturer 	MBBS\n\n
+09 	Dr. Archisman Debnath 	Lecturer 	MBBS\n\n
+10 	Dr. Md. Ahsanul Haque 	Lecturer 	MBBS\n\n
+11 	Dr. Fatema Binte Hasib 	Lecturer 	MBBS\n\n
+12 	Dr. Shanjida Shohid 	Lecturer 	MBBS\n\n
+13 	Dr. Md. Maksud E Mowla 	Lecturer 	MBBS\n\n
+14 	Dr. Tanhara Kabir 	Lecturer 	MBBS\n\n
+15 	Dr. Mahmudul Hasan Rony 	Lecturer 	MBBS\n\n
+16 	Dr. Mousumi Saha 	Lecturer 	MBBS\n\n
+17 	Dr. Jannatul Mymona Ali Antora 	Lecturer 	MBBS\n\n
+18 	Dr. Swapon Mozumder 	Lecturer 	MBBS\n\n
+
+Department of Physiology\n\n
+1 	Dr. Dipok Kumar Sunyal 	Professor &amp; Head 	MBBS, MPhil\n\n
+2 	Dr. Nasima Akhtar 	Professor 	MBBS, MPhil, PGD\n\n
+3 	Dr. Showkat Ali 	Assistant Professor 	MBBS, MPhil\n\n
+4 	Dr. Ohida Sultana 	Assistant Professor 	MBBS, MPhil\n\n
+5 	Dr. Harun or Rashid 	Assistant Professor 	MBBS, MPhil\n\n
+6 	Dr. Farzana Hossain 	Lecturer 	MBBS\n\n
+7 	Dr. Suraiya Parvin 	Lecturer 	MBBS\n\n
+8 	Dr. Shirin Sultana 	Lecturer 	MBBS\n\n
+9 	Dr. Sumsad Sultana 	Lecturer 	MBBS\n\n
+10 	Dr. Masuma Rashid Raka 	Lecturer 	MBBS\n\n
+11 	Dr. Shabnam Shoyeb 	Lecturer 	MBBS\n\n
+12 	Dr. Shantana Das 	Lecturer 	MBBS\n\n
+
+Department of Biochemistry
+1 	Dr. Shafiqul Hassan Chowdhury 	Professor &amp; Head 	MBBS, MPhil\n\n
+2 	Dr. Golam Morshed Molla 	Professor 	MBBS, MPhil\n\n
+3 	Dr. Zillur Rahman 	Associate Professor 	MBBS, MPhil\n\n
+4 	Dr. Kamrun Nahar 	Assistant Professor 	MBBS, MPhil\n\n
+5 	Dr. Salina Shaeen Parul 	Assistant Professor 	MBBS, MPhil\n\n
+6 	Dr. S. M. Monirul Islam 	Lecturer 	MBBS\n\n
+7 	Dr.Zayed Bin Kalam 	Lecturer 	MBBS\n\n
+8 	Dr. Mukta Parveen 	Lecturer 	MBBS\n\n
+9 	Dr. Silvia Paroi 	Lecturer 	MBBS\n\n
+10 	Dr. Noshin Tasnim 	Lecturer 	MBBS\n\n
+
+Department of Community Medicine\n\n
+1 	Dr. Easin Ali Gazi 	Professor &amp; Head 	MBBS, MPH\n\n
+2 	Dr. Md. Laskar Shawkatuzzaman 	Professor 	MD, MPH, PhD\n\n
+3 	Dr. Syeda Noorjahan Karim 	Lecturer 	MBBS\n\n
+4 	Dr. Nazia Naznin 	Lecturer 	MBBS\n\n
+5 	Dr. Abdul Hannan 	Lecturer 	MBBS\n\n
+6 	Dr. Syed Didarul Haque 	Lecturer 	MBBS\n\n
+
+Department Of Forensic Medicine\n\n
+1 	Dr. Hari Das Biswas 	Professor &amp; Head 	MBBS, MPhil\n\n
+2 	Dr. Ramendra Nath Biswas 	Assistant Professor 	MBBS\n\n
+3 	Dr. Anil Krishna Biswas 	Lecturer 	MBBS\n\n
+4 	Dr. Emran Ahmed 	Lecturer 	MBBS\n\n
+
+Department of Microbiology\n\n
+1 	Dr. N M Wahidur Rahman 	Associate Professor &amp; Head (CC) 	MBBS, MPhil\n\n
+2 	Dr. Lutfun Nessa 	Lecturer 	MBBS\n\n
+3 	Dr. Abu Md. Mayeen Uddin Al Amin 	Lecturer 	MBBS\n\n
+4 	Dr. Most. Asma Khatun 	Lecturer 	MBBS\n\n
+5 	Dr. Mousumi Mondol 	Lecturer 	MBBS\n\n
+
+Department Of Pharmacology\n\n
+1 	Dr. QBO Fazlul Baqui 	Professor 	MBBS, MPhil\n\n
+2 	Dr. Md. Zakirul Islam 	Associate Professor  Head 	MBBS, MPhil\n\n
+3 	Dr. Suraiya Yasmin 	Lecturer 	MBBS\n\n
+4 	Dr. Md. Ashikuzzaman 	Lecturer 	MBBS\n\n
+5 	Dr. Mustari Rabeya Kumri  	Lecturer 	MBBS\n\n
+5 	Dr. Sumiya Binta Wahid 	Lecturer 	MBBS\n\n
+
+Department of Pathology\n\n
+1 	Dr. Moni Mohon Shaha 	Professor 	MBBS, MD (Path)\n\n
+2 	Dr. Nasim Rayhan 	Associate Professor &amp; Head 	MBBS, PhD (Pathology)\n\n
+3 	Dr. Sukumar Saha 	Associate Professor 	MBBS, MD (Pathology)\n\n
+4 	Dr. Purabi Sarkar 	Lecturer 	MBBS\n\n
+5 	Dr. Lovely Adhikary 	Lecturer 	MBBS\n\n
+6 	Dr. Md. Kamrul Hasan 	Lecturer 	MBBS\n\n
+7 	Dr. Priyanka Adhikary 	Lecturer 	MBBS\n\n
+
+Department of Medicine &amp; Allied\n\n
+1 	Dr. Md. Abu Bakar 	Professor (Med)&amp; Head 	FCPS, FRCP, FACP\n\n
+2 	Dr. Gobinda Chandra Biswas 	Professor (Med) 	FCPS, DTCD, DCard, MACP\n\n
+3 	Dr. Md. Abul Hassan 	Professor (Ped) 	MBBS, MCPS, DCH\n\n
+4 	Dr. M. Haque 	Associate Professor (Med) 	MD, MCPS\n\n
+5 	Dr. S M Kamal 	Associate Professor (Med) 	MBBS, DTCT, FCPS\n\n
+6 	Dr. Barkat Ali 	Assistant Professor (Ped) 	MBBS, DCH\n\n
+7 	Dr. Khan Hilali 	Registrar (Ped) 	MBBS\n\n
+8 	Dr. Nadia Sultana Luna 	Assistant Registrar (Med) 	MBBS, DDV\n\n
+9 	Dr. Bappa Raj Datta 	Assistant Regitrar (Med) 	MBBS, PGT\n\n
+10 	Dr. Upananda Roy 	Assistant Registrar (Med) 	MBBS, PGT\n\n
+11 	Dr. Chandan Kumar Saha 	Assistant Registrar 	MBBS\n\n
+
+Department of Surgery &amp; Allied\n\n
+1 	Dr. A. E. Md. Abdul Wasey 	Professor &amp; Head 	MBBS (DMC), FCPS (Surgery)\n\n
+2 	Dr. Md. Mohashin 	Professor (E.N.T) 	MSC (Otolaryngology)\n\n
+3 	Dr. Monoj Kumar Bose 	Professor (EYE) 	MBBS, MPH, DO\n\n
+4 	Dr. Mojammel Haque 	Associate Professr 	MBBS, FCPS\n\n
+5 	Dr. Banga Kamal Basu 	Associate Professr , Surgery 	MD, CO, PhD\n\n
+6 	Dr. Md. Mamunur Rashid 	Assistant Professor (Anesthesia) 	MBBS, DA\n\n
+7 	Dr. Md. Mehedi 	Assistant Professor (Anesthesia) 	MBBS, DA\n\n
+8 	Dr. Ashfak Ahmed 	Assistant Professor (Ortho) 	MBBS\n\n
+9 	Dr. Liton Dhali 	Assistant Registrar (Surgery) 	MBBS, PGT\n\n
+10 	Dr. Kowshik Sarkar 	Assistant Registrar (Surgery) 	MBBS, PGT\n\n
+
+Department of Obstetrics &amp; Gynecology\n\n
+1 	Dr. Rowshan Ara Begum 	Professor &amp; Head 	MBBS, FCPS\n\n
+2 	Dr. Ismatara Bina 	Assistant Professor 	MD, MCPS, DGO, FCPS\n\n
+3 	Dr. Shamima Jahan Sathi 	Registrar 	MBBS, PGT\n\n
+4 	Dr. Sadia Afroz 	Assistant Registrar 	MBBS, PGT\n\n
+5 	Dr. Sobita Biswas 	Assistant Registrar 	MBBS\n\n
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+            />
+    </RelativeLayout>
+</ScrollView>

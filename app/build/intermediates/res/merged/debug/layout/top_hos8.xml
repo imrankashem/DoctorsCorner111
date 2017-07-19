@@ -1,0 +1,112 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+ Combined Military Hospital (C.M.H.)
+Category: General Hospital
+ Address : Dhaka Cantonment , Dhaka
+Phone : +880-2-8750011-19 ext:4516 Fax : +880-2-8754500
+Email: dhaka-cmh @ army.mil.bd
+Web: www.army.mil.bd
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Asst. Prof. Maj. Dr. Sk. Habibur Rahman (Retd.)
+
+Former Assistant Professor &amp; Head, Dept. of ENT, Combined Military Hospital, Dhaka Cantonment
+
+ENT (Ear, Nose &amp; Throat, Otorhinolaryngology)\n\n
+Dr. (lt. col.) a. f. m. shamsul haque
+Cardiologist in Cantonment
+Combined Military Hospital, Dhaka Cantonment. Cantonment. Dhaka.\n\n
+Dr. (major) mohammad abdul malek
+Medical in Cantonment
+Combined Military Hospital (CMH). Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka\n\n
+
+Dr. (lt. col.) abdullah al maruf
+Anaesthesiology.  in Cantonment
+Combined Military Hospital. Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka. \n\n
+
+Dr. (col.) md. nazmul ahsan
+Anaesthesiologist in Cantonment
+Combined Military Hospital (C.M.H.). Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka\n\n
+Dr. (lt. col.) md. abdur rab
+Oral and Maxillofacial Surgery in Cantonment
+Combined Military Hospital. Dhaka Cantonment \n\n
+Dr. s. m. mizanur rahman
+ General Medicine in Cantonment
+ Combined Military Hospital. Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka.\n\n
+  Dr. md. delwar hossain
+   Gastroenterologist in Cantonment
+   Combined Military Hospital. Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka. \n\n
+    Dr. (brig. gen.) md. mokhlesur rahman
+    Adviser Specialist in Medicine &amp; Senior Gastroenterologist. in Cantopnment
+     Combined Military Hospital (C.M.H.). Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka\n\n
+  Dr. (col.) md. fazlul hoque
+  Neurologist in Cantonment
+  Combined Military Hospital (CMH). Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka. \n\n
+  Dr. (col.) s. m. motahar hossain
+   General Medicine in Cantonment
+   Combined Military Hospital. Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka. \n\n
+   Dr. (col.) suraiya begum
+   Gynaecologist in Cantonment
+   Combined Military Hospital (C.M.H.). Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka.\n\n
+    Dr. (col.) md. jakaria hossain
+    Eye Specialist in Cantonment
+    Combined Military Hospital (C.M.H.). Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka.\n\n
+     Dr. a. k. m. mijanur rahman
+     General Medicine in Cantonment
+     Combined Military Hospital. Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka.\n\n
+     Dr. (col.) s. a. m. m. a. hafiz
+      General Medicine in Cantonment
+      Combined Military Hospital (CMH). Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka. \n\n
+       Dr. (major) md. abdul hannan
+       Surgical Specialist in Cantonment
+       Combined Military Hospital (C.M.H.). Dhaka Cantonment.. P.C. 1206, Cantonment, Dhaka.\n\n
+
+
+
+
+
+
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        </RelativeLayout>
+    </ScrollView>

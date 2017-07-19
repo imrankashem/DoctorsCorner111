@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"   >
+    <android.support.v7.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTintMode="add"
+        android:fadeScrollbars="true"
+        style="@style/Base.TextAppearance.AppCompat.Button">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:fadeScrollbars="true"
+            android:drawableTop="@color/cardview_dark_background"
+            android:text="
+Chevron Clinical Laboratory (PVT) Ltd.
+12/12. O. R. Nizam Road. Chittagong.
+
+Phone: 652860, 652963, 652533, 2550642-5."
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:layout_below="@id/docchi"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Mohammad Ali Sarker
+MBBS.DMRD.MRCR. MRI Fellow ( USA )
+Associate Professor , Head Radiology , Imaging Department, Holy Family Medical College , Hospital"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Mohammad Zakir Hussain
+MBBS. PhD ( Japan ) Post Doc Fellow (AIEJ)
+Consultant, Radiology ,Imaging.  "
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Ehsanus Subhan Chowdhury
+MBBS. DMRD
+Former Professor of Radiology, Chittagong Medical College.  "
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Subash Mazumder
+MBBS. MD (DU)
+Radiologist Imaging Specialist, Chittagong Medical College."
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Md. Khorshed Alam
+MBBS. M.Phil (Radiology Imaging)
+Specialist in Radiology, Imaging  Sonologist, Chittagong Medical College."
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Mohd. Golam Rabbani
+MBBS. FCPS. (Haematology)
+Haemotologist, Chittagong Medical College."
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Tipu Sultan
+MBBS. M.PHIL (Microbiology)
+Assistant Professor, Chittagong Medical College .  "
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi8"
+android:layout_below="@id/docchi7"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Nahid Sultana
+MBBS. D.BACT
+Assistant Professor, University of Science  Technology, Chittagong."
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Ehsanul Hoque (Kajal)
+MBBS. M.Phil
+Consultant Pathologist, Chittagong Medical College.  "
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Sayeeda Nasreen.
+MBBS, MCPS, MD (Path-BSMMU)
+Consultant Pathologist, Chittagong Medical College."
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Md. Anwarul Hoque Chowdhury
+MBBS. MCPS. D-CARD.MD. Cardiologist,
+Former Associate Professor Head of the department of  Cardiology, Chittagong Medical College"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi12"
+            android:layout_below="@id/docchi11"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Prof. (Dr.) Manzur Morshed
+MBBS. D-CARD.FCPS.DME
+Associate Professor, Head of the Dept. of Cardiology, Chittagong Medical College."
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi13"
+
+android:layout_below="@id/docchi12"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Mostafa Kamal
+MBBS. D-CARD. Assistant Professor, Dept. of Cardiology, Chittagong Medical College.
+
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi14"
+            android:layout_below="@id/docchi13"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Md. Ibrahim Chowdhury
+MBBS.FCPS.MD. Assistant Professor, Dept. of Cardiology, Chittagong Medical College."
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi15"
+            android:layout_below="@id/docchi14"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Md. Rezaul Karim
+MBBS.D-CARD.MAMS.(Viena) FRSH ( London ) FPGS(Medicine) USSR
+Cardiologist, Trained in Interventional Cardiology , Echocardiography ( Austria )."
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi16"
+            android:layout_below="@id/docchi15"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Nurul Islam
+MBBS. D-CARD Cardiologist,
+Chittagong General Hospital.  "
+
+
+        android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi17"
+            android:layout_below="@+id/docchi16"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. M. A. Rouf.
+MBBS.D-CARD.FCPS. Cardiologist, Assistant Professor of U.S.T.C.  "
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi18"
+            android:layout_below="@id/docchi17"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Abu Tarek Iqbal
+MBBS.D-CARD.MD.
+Cardiologist.   "
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi19"
+            android:layout_below="@id/docchi18"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Biswa Nath Das.
+MBBS. FIAGP
+Endoscopist.    "
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi20"
+            android:layout_below="@id/docchi19"
+
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=" Dr. Shahadat Hossain
+MBBS.MCPS.FCPS.
+Assistant Professor, Chittagong Medical College .  "
+
+
+
+            android:layout_centerHorizontal="true" />
+
+
+
+
+
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
+    </ScrollView>

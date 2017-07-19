@@ -1,0 +1,209 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+
+ android:text="
+institute of Child and Mother Health
+Call Us : 02-7542627
+Fax Us : 02-7542627
+E-mail Us : info@icmh.org.bd
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Paediatrics Department:\n\n
+Dr. MD. Jahangir Chowdhury
+FCPS, MD (Paediatrics)
+Associate Professor of Pediatrics
+
+e-mail: jahangir-0155@yahoo.com
+web: www.icmh.org.bd\n\n
+Dr. Wahida Khanam
+
+DCH, FCPS (Paediatrics), MPH (Epidemiology)
+Associate Professor of Pediatrics(cc)
+
+e-mail: wahida1965@yahoo.com
+web: www.icmh.org.bd\n\n
+Dr. Tariq Hassan
+FCPS (Pediatrics);
+DCH (Pediatric Gastroenterology), Uk
+Assistant Professor of Pediatrics
+
+e-mail: tariq_dmc@yahoo.com
+web: www.icmh.org.bd\n\n
+Dr. Shahidul Haque
+
+FCPS (Pediatrics)
+Assistant Professor,
+Pediatrics
+
+e-mail: mshaque.@yahoo.com
+web: www.icmh.org.bd\n\n
+Dr. MD. Delwar Hossain
+
+FCPS (Pediatrics)
+Assistant Professor of Pediatrics
+
+e-mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+Dr. Rubiya Parvin
+
+FCPS, MD (Pediatrics); MD (Neonatology)
+Assistant Professor of Pediatrics
+
+e-mail: rparvin@yahoo.com
+web: www.icmh.org.bd\n\n
+Obstetrics and Gynaecology Department\n\n
+Professor Dr. Begum Hosne Ara
+
+Professor and Head
+Department of Obstetrics and Gynaecology
+
+E-Mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+Dr. Nahid Yasmin
+
+Associate Professor
+Department of Obstetrics and Gynaecology
+
+phone: 01819214536
+e-mail: nahid_yasmin@yahoo.com\n\n
+Dr. Hashina Banu
+
+Associate Professor
+Department of Obstetrics and Gynaecology
+
+e-mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+Dr. Farida Yasmin
+
+Associate Professor
+Department of Obstetrics and Gynaecology
+
+phone: 01711633909
+e-mail: info@icmh.org.bd \n\n
+Dr. Dilruba Akter
+
+Associate Professor
+Department of Obstetrics and Gynaecology
+
+phone: 01711453653
+e-mail: info@icmh.org.bd \n\n
+Radiology &amp; Imaging Department\n\n
+Asst.Professor Dr.Aftab-E-Alam
+
+Head Department of Radiology &amp; Imaging
+Matuail, Dhaka-1362
+
+phone: 01710897559
+e-mail: info@icmh.org.bd\n\n
+Epidemiology and Biostatistics Department\n\n
+Professor Md. Abidul Haque
+
+Head Department of Epide &amp; Biosts
+Matuail, Dhaka-1362
+
+e-mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+Assistant Professor Dr. S.M Zahid Hassan Arefin
+
+Department of Epidemiology and Biostatistics
+Matuail, Dhaka-1362
+
+e-mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+Paediatric Surgery Department\n\n
+Dr. Khander Md. Raihan Hossain
+
+Associate Professor &amp; Head
+Department of Paediatric Surgery
+
+phone: 01712184667
+e-mail: drraihan63@yahoo.com\n\n
+
+Dr. Suprotim Hawlader
+
+Assistant Professor MBBS, MS(Paediatric Surgery)
+Department of Paediatric Surgery
+
+phone: 01819191834
+e-mail: drshowlader@yahoo.com\n\n
+
+Anaesthesiology Department\n\n
+Dr. Dilip Kumar Saha
+
+Asst. Professor &amp; Head
+Department of Anaesthesiology
+
+e-mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+Laboratory Medicine Department\n\n
+Dr. Anup Kumar Saha
+
+Associate Professor
+Lab Medicine, ICMH
+
+e-mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+Dr. Shahnoor Karim
+
+Assistant Professor
+ICMH, Matuail-1362
+
+e-mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+Nutrition Department\n\n
+    Shayla Nasreen
+
+Department of Nutrition
+Matuail, Dhaka-1362
+
+e-mail: info@icmh.org.bd
+web: www.icmh.org.bd\n\n
+
+
+
+
+
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        </RelativeLayout>
+    </ScrollView>

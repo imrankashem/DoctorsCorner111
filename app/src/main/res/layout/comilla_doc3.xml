@@ -1,0 +1,191 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+Comfort Diagnostic Centre  &amp; Comfort Nursing Home
+Comfort Tower, 167/B, Green Road, Dhanmondi,
+Dhaka, Bangladesh,
+Phone : 9135945, 9135947, 9135948, 01731956033, 01552468377
+E-mail : comfort@bol-online.com, website : www.comfortbd.com
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Khoorsheed Jahan Maula, Associate Professor
+Qualification : MBBS, DGO, MCPS
+Expertise : Gynecological Oncology\n\n
+
+Dr. Hasina Afroz, Assistant Professor,
+Qualification : MBBS, FCPS , MS.
+Expertise : Gynecology  &amp; Obstetrics\n\n
+
+Dr. Fahmida Naz
+Qualification : MBBS, FCPS
+Expertise : Gynecology  &amp; Obstetrics\n\n
+
+Dr. Begum Nasrin (Kiron)
+Qualification: MBBS, FCPS, MS
+Expertise : Gynecology  &amp; Obstetrics\n\n
+
+Dr. Amal Kumar Chowdhury
+Qualification : MBBS, FCPS ( Medicine ), MD( Cardiology )
+Expertise: Cardiology\n\n
+
+Dr. H. I. Lutfor Rahman Khan
+Qualification: MBBS, D-Card, MD (Card)
+Expertise: Cardiology\n\n
+
+Prof. Dr. H.I. Lutfur Rahman Khan
+Qualification : MBBS, D-CARD, MD
+Expertise : Cardiology\n\n
+
+Profesosr Dr. A Masud Chowdhury
+Qualification : MBBS, DDV, DD, MS
+Expertise : Skin  &amp; VD ( Dermatology )\n\n
+
+Professor Dr. A. A. Ashraf Ali
+Qualification:  MBBS, FCPS (Surgery), FICS, WHO-Fellow (Japan)
+Expertise : General  &amp; Laparoscopic Surgeon\n\n
+
+Dr. A. M. Farid Uddin Ahmad
+Qualification : MBBS, FCPS (Surgery), MS ( Ortho. )
+Expertise : Orthopaedic Surgeon\n\n
+
+Dr. Abdullah Al-Mamun
+Qualification : MBBS, FCPS (Psychiatry)
+Expertise : Psychiatry\n\n
+
+Dr. Abu Nasar Rizvi.
+Qualification : MBBS, MD (Neurology), WFNJT Felloeship (USA)
+Expertise : Neuromedicine\n\n
+
+Dr. Begum Sharifun Nahar
+Qualification : MBBS, BCS, FCPS (Ped), MD (DU)
+Expertise : Child - Pediatric\n\n
+
+Dr. Kazi Rafiqul Abedin, Assistant Professor
+Qualification : MBBS, MS
+Expertise : Urology\n\n
+
+Professor Dr. M.A. Salam 
+Qualification : MBBS, FCPS, FICS
+Expertise : Urology\n\n
+
+Dr. Pranashis Saha, Assistant Professor
+Qualification : MBBS, MS (Urology)
+Expertise: Urology\n\n
+
+Dr. M. M. Insan, Assoicate Professor
+Qualification : MBBS, DD ( Japan ), DD ( Thailand )
+Expertise : Skin  &amp; VD (Dermatology)\n\n
+
+Dr. M. N. Islam Bhuiyan, Associate Professor
+Qualification : MBBS ( DMC ), FMD, FCGP, MAMS ( Vienna ), C.C. Diabetology ( BIRDEM )
+Expertise : Medicine  &amp; Child Health\n\n
+
+Professor Dr. Matiur Rahman
+Qualification : MBBS (Dak), MRCP (UK), FCPS (BD), FRCP (ED)
+Expertise: Kidney ( Nephrology )
+\n\n
+Dr. Md. Feroz Amin, Assistant Professor
+Qualification: MBBS, MD ( Endocrinology )
+Expertise : Hormone  &amp; Diabetes\n\n
+
+Dr. Md. Mohiuddin Ahmad, Associate Professor
+Qualification : MBBS, FCPS ( Medicine ), MD ( Chest ) 
+Expertise: Chest, Asthma  &amp; Medicine\n\n
+
+Dr. Md. Saifullah, Assistant Professor
+Qualification : MBBS, FCPS
+Expertise : General  &amp; Laparoscopic Surgeon\n\n
+
+Dr. Md. Shafiqul Alam, Associate Professor
+Qualification: MBBS, FCPS ( Eye ), MS ( Eye ), DO, MAMS ( Vienna ), AFACA (New York)
+Expertise: Eye Surgeon - Contact Lens  &amp; Phaco\n\n
+
+Prof. Dr. Md. Siraj-Ul-Islam
+Qualification: MBBS, MS (Ortho)
+Expertise: Orthopaedic
+ \n\n
+Dr. Mohammad Saifullah, Assistant Professor
+Qualification : FCPS ( Surgery )
+Expertise : General Surgeon\n\n
+
+Dr. Momtaz Khanam
+Qualification : MBBS, MAMS ( Austria )
+Expertise : Sonology\n\n
+
+Dr. Mosharraf Hossain Shamim, Assistant Professor
+Qualification : MBBS, MS ( Thoracic Surgery )
+Expertise : Thoracic Surgeon\n\n
+
+Dr. Narayan Saha, Associate Professor
+Qualification : MBBS, FCPS
+Expertise : Child Neurology\n\n
+
+Prof. Dr. Shafquat Hussain Khundker
+Designation : Head, Department of Plastic Surgery
+Expertise : Plastic  &amp; Cosmetic Surgeon\n\n
+
+Dr. Syed Hasan Imam Al-Masum
+Qualification : MBBS, FCPS, DLO ( DU )
+Expertise : ENT - Head  &amp; Neck Surgeon\n\n
+
+Profesosr Dr. Taimur A.K. Mahmud
+Qualification : MBBS, MCPS, FCPS ( Medicine )
+Expertise : Medicine\n\n
+
+Prof. Dr. Taimur A.K. Mahmud.
+Qualification : MBBS, MCPS, FCPS (Medicine)
+Expertise : Medicine\n\n
+
+Dr. H. M. Nazmul Ahsan
+Qualification : MBBS, FCPS (Medicine)
+Expertise : Medicine \n\n
+
+Dr. J. U. Pathan (Jashim)
+Qualification : MBBS, PGT ( Medicine  &amp; Surgery )
+Expertise : Medicine  &amp; Surgery\n\n
+
+Dr. Md. Zilan Miah Sarker, Assistant Professor
+Qualification : MBBS, FCPS (Medicine),
+Expertise: Medicine\n\n
+
+Dr. Mohiuddin Humayan Kabir Chowdhury
+Qualification : MBBS, MCPS, FCPS
+Expertise : Medicine\n\n
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+ />
+
+    </RelativeLayout>
+    </ScrollView>

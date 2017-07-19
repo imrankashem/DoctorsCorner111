@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"   >
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+       <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="CSCR (Pvt.) Limited
+1675/A, O.R. Nizam Road, Chittagong
+Phone    : 031-656565."
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) Mahbub Kamal Chowdhury
+MBBS, FCPS (Medicine)
+Visiting Hour: 11:00AM–2:00PM
+Room No : 305, 3rd Floor"
+          android:layout_below="@+id/docchi1"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi3"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Prof. (Dr.) M.A. Faiz
+MBBS, FCPS (Medicine), FRCP (EDIN), PHD (U.K),
+Professor of Medicine
+Dhaka Medical College Hospital
+For visiting: 01812-448233
+Room No : 405, 4th Floor"
+            android:layout_below="@+id/docchi2"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi4"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Prof. (Dr.) Faridul Islam
+MBBS, FCPS (Medicine)
+Principal,
+BGC Trust Medical College
+Professor  Retired Head,
+Department of Medicine
+Chittagong Medical College  Hospital
+Visiting Hour: 5:00PM-11:00PM
+Room No : 409, 4th Floor"
+            android:layout_below="@+id/docchi3"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi5"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Prof. (Dr.) Md. Gofranul Hoque
+MBBS, FCPS (Medicine)
+Professor Head,
+Department of Medicine
+Chittagong Medical College  Hospital
+Visiting Hour: 6:30PM-11:00PM
+Room No : 406, 4th Floor"
+            android:layout_below="@+id/docchi4"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi6"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Md. Amir Hossain
+MBBS, FCPS (Medicine)
+Associate Professor of Medicine
+Chittagong Medical College Hospital
+Visiting Hour: 8:00PM-11:00PM
+Room No : 207, 2nd Floor
+
+"
+            android:layout_below="@+id/docchi5"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi7"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Anisul Awal
+MBBS, MCPS, FCPS (Medicine)
+Consultant Medicine
+Visiting Hour : Thursday: 9:30PM-11:30PM, Friday: 12:30PM-3:00PM
+Room No: 312, 3rd Floor
+
+"
+            android:layout_below="@+id/docchi6"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi8"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Mehrunnissa Khanom
+MBBS (Gold Medalist), MRCP (UK)
+Medicine Specialist
+Visiting Hour: 9:00AM-12:30PM
+Room No : 414, 4th Floor"
+            android:layout_below="@+id/docchi7"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi9"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) Emran Bin Yunus
+MBBS, FCPS, FRCP (EDIN),
+Internist  Nephrologist
+Professor of Nephrology.
+Chittagong Medical College  Hospital
+Visiting Hour: 5:00PM-10:00PM
+Room No: 304, 3rd Floor"
+            android:layout_below="@+id/docchi8"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi10"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. M.A. Kashem
+MBBS, MD, PHD
+Asstt. Professor of Nephrology
+Chittagong Medical College Hospital
+Visiting Hour: 7:00PM-11:00PM
+Room No : 408, 4th Floor
+
+"
+            android:layout_below="@+id/docchi9"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi11"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Abdul Quader
+MBBS, D Card, MD (Gastro)
+Asstt. Professor of Gastroenterology
+Chittagong Medical College  Hospital
+Visiting Hour: 7:00PM-11:00PM
+Room No: 411, 4th Floor
+
+"
+            android:layout_below="@+id/docchi10"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi12"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) Md. Ridwanur Rahman
+MBBS, FCPS (Internal Medicine)
+Professor of Medicine,
+Medical College  Shahid Sharawardi Hospital
+Visiting Hour: Thursday: 11:00PM
+Room No: 401, 4th Floor"
+            android:layout_below="@+id/docchi11"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi13"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Md. Hasanuzzaman
+MBBS, FCPS (Medicine), MD (Neurology)
+Associate Professor of Neuro-Medicine
+Chittagong Medical College Hospital
+Visiting Hour: 7:00PM-11:00PM
+Off Day: Thursday,Friday
+Room No: 314, 3rd Floor"
+            android:layout_below="@+id/docchi12"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi14"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text=""
+            android:layout_below="@+id/docchi13"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi15"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Prof (Dr.) Mulkutur Rahman
+MBBS, FCPS (Medicine)
+Visiting Hour: 1:00PM-3:00PM,7:00PM-11:00PM
+Room No: 413, 4th Floor"
+            android:layout_below="@+id/docchi14"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi16"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Prof. Brig Gen. (Dr.) SK. Md. Bahar Hussain
+MBBS, FCPS (Med), FRCP (Edin), FRCP (Glasg), FACP (USA), GASTRO (shanghai),
+Adviser Specialist in Medicine  Gastroentrology,
+Senior Physician,
+Chittagong Medical College Hospital
+Visiting Hour: 8:15PM-11:15PM
+Room No: 401, 4th Floor"
+            android:layout_below="@+id/docchi15"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi17"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Shamim Boksha
+MBBS, FCPS (Medicine),
+MD (Gastroentrology)
+Visiting Hour: 12:00PM-3:00PM
+Room No: 315, 3rd Floor"
+            android:layout_below="@+id/docchi16"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi18"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Md. Iftikher Hossain Khan
+MBBS, M.D (E.M)
+Visiting Room: 7:00PM-10:00PM
+Room No: 410, 4th Floor"
+            android:layout_below="@+id/docchi17"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi19"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="  Dr. Jamal Ahmed
+MBBS D. Card (D.U)
+Asstt. Professor of Cardiology
+Visiting HOur: 7:30PM-11:00PM
+Room No: 313, 3rd Floor
+
+"
+            android:layout_below="@+id/docchi18"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi20"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Mohammad Ibrahim Chowdhury
+MBBS (Dhaka), FCPS (Medicine), D- Card, MD (Cardiology),
+Associate Professor of Cardiology
+Chittagong Medical College  Hospital
+Clinical and Interventional Cardiologist
+Trained in interventional cardiology
+(Netherland, Singapore, Delhi)
+Visiting Room : 5:00PM-10:00Pm
+Off Day: Thursday,Friday
+Room No: 402, 4th Floor"
+            android:layout_below="@+id/docchi19"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi21"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Mohammad Ibrahim Chowdhury
+MBBS (Dhaka), FCPS (Medicine), D- Card, MD (Cardiology),
+Associate Professor of Cardiology
+Chittagong Medical College  Hospital
+Clinical and Interventional Cardiologist
+Trained in interventional cardiology
+(Netherland, Singapore, Delhi)
+Visiting Room : 5:00PM-10:00Pm
+Off Day: Thursday,Friday
+Room No: 402, 4th Floor"
+            android:layout_below="@+id/docchi20"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi22"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Khondker A K Azad
+MBBS, FCPS, FRCS (EDIN)
+Associate Professor of Surgery,
+Laparoscopic and Colorectal Surgeon,
+Chittagong Medical College Hospital
+Visiting Hour:7:30PM-10:00PM
+Off Day:Thursday, Friday
+Room No: 310, 3rd Floor"
+            android:layout_below="@+id/docchi21"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi23"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Sanaullah Shelly
+MBBS, FCPS (Surgery)
+Senior Consultant Surgery, Endolaparoscopic Colorectal and Bariatric Surgeon
+Visiting Hour: 7:00PM-11:00PM
+Room No: 303, 3rd Floor"
+            android:layout_below="@+id/docchi22"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi24"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) S. M. Tariq
+MBBS, DO (DU), MS (London)
+Vice-Principal,
+BGC Trust Medical College,
+Professor  Head of Opthalmology,
+Chittagong Medical College  Hospital (EX)
+Visiting Hour: 6:30PM-9:30PM
+Room No: 316, 3rd Floor
+
+"
+            android:layout_below="@+id/docchi23"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi25"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) S. M. Tariq
+MBBS, DO (DU), MS (London)
+Vice-Principal,
+BGC Trust Medical College,
+Professor Head of Opthalmology,
+Chittagong Medical College  Hospital (EX)
+Visiting Hour: 6:30PM-9:30PM
+Room No: 316, 3rd Floor
+
+"
+            android:layout_below="@+id/docchi24"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi26"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) M. Manzurul Islam
+MBBS, MS (ORTHO)
+Retired Prof. Head of ORTHO Surgery,
+Chittagong Medical College  Hospital
+Visiting Hour: 1:00PM-2:30PM,7:00PM-10:00PM
+Contact : 01710-929831
+Off Day: Thursday, Friday
+Room No: 309, 3rd Floor
+
+"
+            android:layout_below="@+id/docchi25"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi27"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Md. Samirul Islam
+MBBS, MS (ORTHO)
+Visiting Hour: 7:00PM-10:00PM
+Room No: 309, 3rd Floor
+
+"
+            android:layout_below="@+id/docchi26"
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi28"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) Nil Kantha Bhatachharja
+MBBS, FCPS
+Professor  Head of ENT
+Chittagong Medical College  Hospital
+Visiting Hour: 10:00AM-1:00PM, 6:00PM-9:00PM
+Room No: 306, 3rd Floor"
+            android:layout_below="@+id/docchi27"
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi29"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) Md Zillur Rahman
+MBBS, FCPS, MS (Neurosurgery)
+Professor Head of Neurosurgery
+Chittagong Medical College Hospital
+Visiting Hour: Thursday: 7:00PM-1:00AM,Friday: 11:00AM-1:00PM,7:00PM-1:00AM
+Room No: 402, 4th Floor"
+            android:layout_below="@+id/docchi28"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi30"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Zeenat Meraj Chowdhury
+MBBS, MCPS, Dip Derm (Bangkok), FCPS
+Associate Professor of Dermatology
+BGC Trust Medical College  Hospital.
+Visiting Hour: 7:00PM-11:00PM
+Off Day: Saturday,Friday
+Room No: 416, 4th Floor"
+            android:layout_below="@+id/docchi29"
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi31"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) Wazir Ahmed
+MBBS, DCH (DU)
+Neonatologist Paediatrician,
+Chittagong Maa-O Shishu- Hospital Medical College
+Visiting Hour: 6:00PM-11:00PM
+Room No: 302, 3rd Floor
+
+"
+            android:layout_below="@+id/docchi30"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi32"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. (Dr.) Shamsunnahar
+MBBS, MCPS, FCPS, DMED (UK)
+Retired Head of Gynae Obs.
+Chittagong Medical College  Hospital
+Visiting Hour: 1:30PM-3:00PM
+Off Day : Sunday,Monday,Thursday, Friday
+Room No :407, 4th Floor"
+            android:layout_below="@+id/docchi31"
+
+
+            android:layout_centerHorizontal="true" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi33"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Rowshan Morshed
+DGO, FCPS (Gynae  Obst)
+Assistant Professor of Obstetrics  Gynaecology
+Chittagong Medical College  Hospital
+Visiting Hour: 6:00PM-11:00PM
+Room No: 415, 4th Floor"
+            android:layout_below="@+id/docchi32"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi34"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Shamima Anwar
+MBBS, MCPS (Radiotherapy), IAEA Fellow (Sweden), Trained in Teletherapy (China), Brachytherapy (Sweden), GTC (Japan)
+Assistant Professor of Radiotherapy,
+Chittagong Medical College Hospital
+Visiting Hour: 9:00PM-11:00PM
+Off Day: Thursday,Friday
+Room No: 414, 4th Floor"
+            android:layout_below="@+id/docchi33"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi35"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Sajjad Mohammed Yusuff
+MBBS, MCPS, FCPS (Radiotherapy)
+Oncologist, Registrar,
+Chittagong Medical College  Hospital.
+Visiting Hour: 8:00PM-11:30PM
+Room No: 412, 4th Floor"
+            android:layout_below="@+id/docchi34"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi36"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. Aminuddin A Khan
+MBBS, FCPS
+Professor  Vice Principal,
+Chittagong Medical College Hospital.
+Room No: 506, 5th Floor
+
+"
+            android:layout_below="@+id/docchi35"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi37"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Shaik Ahmed
+MBBS, FCPS,
+Assistant Professor,
+Chittagong Medical College
+Visiting Hour: 6:30PM-10:00PM
+Room No: 508, 5th Floor"
+            android:layout_below="@+id/docchi36"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi38"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Md. Qumrul Ahsan
+MBBS, DMRD
+Consultant Radiologist
+Radiology Imaging
+Visiting Hour: 9:00AM–2:30PM
+Room No: 102, 1st Floor"
+            android:layout_below="@+id/docchi37"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi39"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Anisul Moula
+MBBS, DMRD
+Head of the dept.  Asstt. Professor,
+Radiology  Imaging
+Chittagong Medical College.
+Visiting Hour: 6:30PM-10PM
+Room No: 102, 1st Floor
+
+"
+            android:layout_below="@+id/docchi38"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi40"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Syed Ahmed
+MBBS, M Phil ( Pathology)
+Ex. Head, Department of Pathology
+Chittagong Medical College
+
+
+"
+            android:layout_below="@+id/docchi39"
+
+
+            android:layout_centerHorizontal="true" />
+
+
+
+
+    </RelativeLayout>
+    </ScrollView>

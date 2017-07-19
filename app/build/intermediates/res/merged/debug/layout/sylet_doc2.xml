@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Sylhet Women's Medical College and Hospital
+Mirboxtula, Sylhet, Bangladesh
+Telephone : +880 821-720222
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Administration 	Brig. Gen (Retd.) Dr. Md. Tozammel Hoque 	Director\n\n
+Administration 	Dr. Md. Abdul Munim Chowdhury 	Deputy Director\n\n
+Administration 	Dr. Md. Kamrul Islam 	Assistant Director\n\n
+Anesthesiology 	Dr. Md. Shahnewaz Choudhury, MBBS, MCPS, DA 	Professor &amp;amp; Head of Dept.\n\n
+Anesthesiology 	Dr. Nurul Amin Subon, MBBS, MCPS, DA 	Assoc. Prof.\n\n
+Anesthesiology 	Dr. Md. Akkas Miah, MBBS 	Assoc. Prof.\n\n
+Anesthesiology 	Dr. Ehsan Ali, MBBS, DA 	Asst. Prof.\n\n
+Anesthesiology 	Dr. Md. Abdul Latif, MBBS 	Asst. Reg.\n\n
+Anesthesiology 	Dr. Abdul Kabir Chowdhury, MBBS 	Medical Officer\n\n
+Anesthesiology 	Dr. Tonmoy Deb Roy, MBBS 	Medical Officer\n\n
+Anesthesiology 	Dr. Arafatul Hasan 	Medical Officer\n\n
+Cardiology 	Dr. K.Md. Akhtaruzzaman, MBBS,DCM,MCPS,MD(Cardiology)        	Head of Dept.\n\n
+Cardiology 	Dr. Ashok Kumar Kundu, MBBS, MD (Cardiology)                      	Assoc. Prof. (Consultant Cardiologist)\n\n
+Cardiology 	Dr. Md. Iqbal Ahmed, MBBS, MD (Cardiology) 	 J.Consultant\n\n
+Cardiology 	Dr. Muhibur Rahman, MBBS                                                   	Registrar\n\n
+Cardiology 	Dr. Ripon Chandra Baidhya, MBBS 	Asst. Reg.\n\n
+Cardiology 	Dr. Biprojit Dey, MBBS 	Asst. Reg.\n\n
+Cardiology 	Dr. Gulam Kabir, MBBS   \n\n                                                    	Asst. Reg.\n\n
+Cardiology 	Dr. Uzzal Kumar Paul, MBBS 	Asst. Reg.\n\n
+Cardiology 	Dr. Bappu Modak,MBBS 	IMO\n\n\n\n
+Cardiology 	Dr. Salwa Safi,MBBS 	IMO\n\n\n\n
+Cardiology 	Dr.Farzia Rezwana Lupa,MBBS 	IMO\n\n\n\n
+Dental 	Dr. Abul Bashar Md.Monirul Islam, BDS 	Dental Surgeon\n\n
+Dental 	Dr. Anma Nazia, BDS 	Dental Surgeon\n\n
+ENT 	Dr. Md. Mozammal Hoque, MBBS, FCPS 	Assoc. prof. &amp; Head of Dept.\n\n
+ENT 	Dr. Md. Ziauddin Abbasi, MBBS 	Asst. Prof.\n\n
+ENT 	Dr. Azadur Rahman, MBBS 	RS\n\n
+ENT 	Dr. Mehnaz Sultana, MBBS 	IMO\n\n\n\n
+ENT 	Dr. Shuhada Ferdous, MBBS 	IMO\n\n\n\n
+ENT 	Dr. Md. Rayhan Mia 	IMO\n\n\n\n
+Eye 	Prof. Dr.Md. Shakawhat Hossain Chy, MBBS, FCPS, DO 	Head of Dept.\n\n
+Eye 	Dr. M A Salam, MBBS, DO, FICS 	Professor\n\n
+Eye 	Dr. Ashrafuzzaman Chy, MBBS 	Reg.\n\n
+Eye 	Dr. Md. Nafiz Adnan Choudhury 	AR\n\n
+Eye 	Dr. Zakir 	MO\n\n
+Gynae &amp; Obs 	Dr. Sahana Ferdous Choudhury, MBBS, FCPS 	Professor &amp; Head of Dept.\n\n
+Gynae &amp; Obs 	Dr. Rashida Akther, MBBS, FCPS 	Professor\n\n
+Gynae &amp; Obs 	Dr Naima Akhter, MBBS, FCPS, DGO 	Assoc. Prof.\n\n
+Gynae &amp; Obs 	Dr Fahim Ara Khanam, MBBS, DGO 	J.Consultant\n\n
+Gynae &amp; Obs 	Dr. Hasina Yasmin, MBBS 	J.Consultant\n\n
+Gynae &amp; Obs 	Dr. Farzana Khaleda Alin, MBBS 	Reg.\n\n
+Gynae &amp; Obs 	Dr. Murshida Afruz, MBBS 	Reg\n\n
+Gynae &amp; Obs 	Dr. Tofsia Zaman, MBBS 	Asst. Reg\n\n
+Gynae &amp; Obs 	Dr. Nazmun Nahar Khan, MBBS 	Asst. Reg\n\n
+Gynae &amp; Obs 	Dr. Susmita Das Roy, MBBS 	Asst. Reg\n\n
+Gynae &amp; Obs 	Dr. Estare Haldar Martha, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Mahbuba Tasnim, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Mst. Sayeda Islam, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Sadia Afrin, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Simu Rani Dutta, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Shahrin Rashid, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Sultana Bilkis, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Farhana Akter, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Rumita Rani Nath, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Tanzila Ibrahim, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Sharmin Akhter, MBBS 	IMO\n\n\n\n
+Gynae &amp; Obs 	Dr. Santa Rani Dutta, MBBS 	IMO\n\n\n\n
+Medicine 	Prof. Dr. Faisal Ahmed, MBBS, FCPS 	Head of Dept.\n\n
+Medicine 	Dr. Mahjuba Umme Salam, MBBS, FCPS 	Assoc. Prof.\n\n
+Medicine 	Dr. Syed Shahidul Islam, MBBS, 	Assoc. Prof.\n\n
+Medicine 	Dr. Md.Monharul Islam Bhuiya, MBBS, DTCD 	Consultant\n\n
+Medicine 	Dr. Saidur Rahman, MBBS 	Reg.\n\n
+Medicine 	Dr. Nazrul Bakth Chowdhury, MBBS 	Reg.\n\n
+Medicine 	Dr. Shoma Sarkar, MBBS 	Reg.\n\n
+Medicine 	Dr. Ishaq Islam Chowdhury, MBBS 	Asst. Reg.\n\n
+Medicine 	Dr. Kanta Das, MBBS 	Asst. Reg.\n\n
+Medicine 	Dr. Sumon Lal Dey, MBBS 	Asst. Reg.\n\n
+Medicine 	Dr. Mohammad Hussain, MBBS 	OMO\n\n
+Medicine 	Dr. Shahin Ahmed, MBBS 	OMO\n\n
+Medicine 	Dr. Lylun Nahar Chowdhury, MBBS 	OMO\n\n
+Medicine 	Dr. Th. Nishita, MBBS 	IMO\n\n\n\n
+Medicine 	Dr. Syed Tasnub Sami, MBBS 	IMO\n\n\n\n
+Medicine 	Dr. Jannat Sultana Shumu, MBBS 	IMO\n\n\n\n
+Medicine 	Dr. Moona Farzana Razzaque, MBBS 	IMO\n\n\n\n
+Medicine 	Dr. Emdadul Haque Chowdhury, MBBS 	IMO\n\n\n\n
+Medicine 	Dr. Ferdousi Jannat Liza, MBBS 	IMO\n\n\n\n
+Medicine 	Dr. Shamsul Arefin, MBBS 	IMO\n\n\n\n
+Medicine 	Dr. Ishrat Tahsin , MBBS 	IMO\n\n\n\n
+Orthopedics 	Dr. Kazi Md. Salim, MBBS, MS 	Professor &amp; Head of Dept.\n\n
+Orthopedics 	Dr. Md. Abdul Gani Ahsan 	Assoc. Prof.\n\n
+Orthopedics 	Dr. Syed Mahmud Hasan 	Asst. Prof.\n\n
+Orthopedics 	Dr. Jaber Ahmed 	Reg. cum AR\n\n
+Orthopedics 	Dr. Khadeem Al-Deen (Khokan) 	IMO\n\n\n\n
+Orthopedics 	Dr. Jakia Mahmuda Choudhury  (Kantha) 	IMO\n\n\n\n
+Orthopedics 	Dr. Md. Tanvir Ahmed Chowdhury 	IMO\n\n\n\n
+Orthopedics 	Dr. Md. Mahfuzul Karim  Choudhury 	IMO\n\n\n\n
+Orthopedics 	Dr. Susmita Deb 	IMO\n\n\n\n
+Orthopedics 	Dr. Mohammad Mohshin 	OMO\n\n
+Paediatric 	Prof. Dr. M. A. Matin, MBBS, DCH 	Head of Dept.\n\n
+Paediatric 	Prof. Dr. M Azir Uddin Ahmad, MBBS, MD 	Professor \n\n
+Paediatric 	Dr. Rashedul hoque, MBBS, FCPS 	Assoc. Prof.\n\n
+Paediatric 	Dr. Md. Shahab Uddin, MBBS 	Asst. Prof.\n\n
+Paediatric 	Dr. Farhana Joya Chowdhury, MBBS 	Consultant\n\n
+Paediatric 	Dr. Nijam Ahmed Chowdhury, MBBS 	Reg\n\n
+Paediatric 	Dr. Tahfema Tarin, MBBS 	Asst. Reg.\n\n
+Paediatric 	Dr. Mahfuza Akter Mahi, MBBS 	Asst. Reg.\n\n
+Paediatric 	Dr. Zohra Binth Noor, MBBS 	Asst. Reg.\n\n
+Paediatric 	Dr. Nargis Bahar Chowdhury, MBBS 	Asst. Reg.\n\n
+Paediatric 	Dr. Md. Aman Ullah, MBBS 	OMO\n\n
+Paediatric 	Dr. Md. Anwar Hussain, MBBS 	OMO\n\n
+Paediatric 	Dr. Sumona Cowdhury Keya, MBBS 	IMO\n\n\n\n
+Paediatric 	Dr. Miza Fahmida Begum, MBBS 	IMO\n\n\n\n
+Paediatric 	Dr. Md. Monjurul Ahsan, MBBS 	IMO\n\n\n\n
+Paediatric 	Dr. Kulsuma Haque, MBBS 	IMO\n\n\n\n
+Paediatric 	Dr. Naima Akther Aney, MBBS 	IMO\n\n\n\n
+Paediatric 	Dr. Umma Salma Ahmed, MBBS 	IMO\n\n\n\n
+Paediatric 	Dr. Rubiyath Islam, MBBS 	IMO\n\n\n\n
+Psychiatry 	Dr. Md. Shafiqur Rahman, MBBS, M.Phil 	Assoc. Prof.\n\n
+Psychiatry 	Dr. Md. Redwanul Karim, MBBS, MSc 	Consultant\n\n
+Psychiatry 	Dr. Mohammad Misbahul Islam, MBBS 	Reg.\n\n
+Psychiatry 	Dr. Zakia Sultana, MBBS 	MO\n\n
+Skin &amp; VD 	Prof. Dr. Shirajuddin, MBBS, DDV, DD (Bangkok) 	Professor &amp; Head\n\n
+Skin &amp; VD 	Dr. Tohur Abdullah Choudhury, MBBS, DDV 	Assoc. Prof.\n\n
+Skin &amp; VD 	Dr. Parveen Afroz Chowdhury, MBBS 	J.Consultant\n\n
+Skin &amp; VD 	Dr. Himangshu Shekar Das , MBBS 	J.Consultant\n\n
+Skin &amp; VD 	Dr. Munmun Nasrin, MBBS 	OMO\n\n
+Surgery 	Prof. Dr. Jamal Ahmed Choudhury, MBBS, FCPS (Surgery) 	Professor &amp; Head of Dept.\n\n
+Surgery 	Prof. Dr. Mrigen. Kumar Das Choudhury, MBBS, FCPS,FICS (USA) 	Professor\n\n
+Surgery 	Dr. Muhammed Golam Mowla, MBBS 	Associate Professor\n\n
+Surgery 	Dr.Ferdous Md. Hussain, MBBS 	Reg.\n\n
+Surgery 	Dr. Shamsun Noor Jewel, MBBS 	Reg.\n\n
+Surgery 	Dr. Sultan Mohammad Kashem Sharif, MBBS 	Reg.\n\n
+Surgery 	Dr. Md.Isfaq Zaman Shojib, MBBS 	Asst. Reg.\n\n
+Surgery 	Dr. Tanjir Hussain, MBBS 	Asst. Reg.\n\n
+Surgery 	Dr. Rafi Ahmed Chowdhury, MBBS 	Asst. Reg.\n\n
+Surgery 	Dr. Mabruka Faizah, MBBS 	IMO\n\n\n\n
+Surgery 	Dr. Shamima Nasrin Sathi, MBBS 	IMO\n\n\n\n
+Surgery 	Dr. Fahima Shirin, MBBS 	IMO\n\n\n\n
+Surgery 	Dr. Arafat Jahan, MBBS 	IMO\n\n\n\n
+Surgery 	Dr. Benjir Jahan Pinky, MBBS 	IMO\n\n\n\n
+Surgery 	Dr. Farjana Akthar, MBBS 	IMO\n\n\n\n
+Surgery 	Dr. Sabrina Rahman, MBBS 	IMO\n\n\n\n
+Surgery 	Dr.Moyukh Chowdhury, MBBS 	IMO\n\n\n\n
+Surgery 	Dr. Rupak Chandra Kury, MBBS 	OMO\n\n
+Radiology 	Prof. Dr. Md. Mojibor Rahman, MBBS, DMRD 	Professor &amp; Head of Dept.\n\n
+Radiology 	Dr. Bikash Sikder, MBBS,M.Phil.(DU) 	Assoc.Prof.\n\n
+Radiology 	Dr. Asma Akter, MBBS 	J.Consultant\n\n
+Radiology 	Dr. Titu Chandra Acharjee, MBBS 	Asst.Reg.\n\n
+Radiology 	Dr. Sanjida Jabin Chowdhury, MBBS 	MO\n\n
+Radiology 	Dr. Suzana Akther, MBBS 	MO\n\n
+Nephrology 	Dr. Sufia Khanom Chowdhury, MBBS 	IMO\n\n\n\n
+Physical Medicine 	Dr. Chowdhury Mohammad Walid, MBBS 	Assoc.Prof\n\n
+Physical Medicine 	Dr. Rahima Akther Sharmin, MBBS 	AR\n\n
+ICU 	Dr. Miah Md. Ajmal Al Hussaini, MBBS 	Consultant &amp; Incharge
+ICU 	Dr. Olyur Rahman, MBBS 	AR\n\n
+ICU 	Dr. Abdus Samad, MBBS 	IMO\n\n\n\n
+ICU 	Dr. Md. Shahinur Rahman, MBBS 	IMO\n\n\n\n
+ICU 	Dr. Sadequr Rahman, MBBS 	IMO\n\n\n\n
+ICU 	Dr. Rifat Jahan, MBBS 	IMO\n\n\n\n
+"
+
+
+            android:layout_centerHorizontal="true" />
+
+
+    </RelativeLayout>
+    </ScrollView>

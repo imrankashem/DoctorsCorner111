@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Advanced Eye Center
+Address: 5/17 Humayun Road, College Gate, Dhaka - 1207, Bangladesh
+
+Phone  :+880-2-9123479, 01716-165353
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+ Dr. Ahsanul Haq Amin
+ MBBS, MD
+ Assistant Professor
+  Hormone , Diabetes
+   Advanced Eye Center
+    +880-1712463976\n
+"
+            android:textAlignment="center"
+
+
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp" />
+
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Md. Abdul Aziz
+ MBBS, FCPS
+ Assistant Professor
+   Hematology
+   Advanced Eye Center
+   +880 1713209137\n
+
+"
+            android:textAlignment="center"
+
+
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp" />
+
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Sayeda Sabrina Sultana
+ BDS, PGT ( BSMMU )
+  Consultant
+ Dental Maxillofacial Surgeon
+ Advanced Eye Center
+  +880 1914553088\n
+
+"
+
+
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp" />
+
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi4"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Shirin Akhter
+MBBS, FCPS ( Gyne.  Obs. )
+ Consultant
+ Gynecology ,Obstetrics
+ Advanced Eye Center
+ +880-2-9115602\n
+
+"
+            android:textColor="@color/colorPrimary"
+
+
+            android:textSize="23sp" />
+
+
+    </RelativeLayout>
+</ScrollView>

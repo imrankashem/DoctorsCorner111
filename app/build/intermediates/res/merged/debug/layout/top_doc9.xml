@@ -1,0 +1,242 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A K M Shaeen Ahmed
+Qualification :MBBS, MCPS (Medicine), FCPS (Medicine)
+Expertise :Medicine &amp; Diabetes
+Organization:BIRDEM
+Chamber:Labaid Specialized Hospital - Gulshan Branch
+Location:House # 13/A, Road # 35, Gulshan # 2, Dhaka-1212House # 13/A, Road # 35, Gulshan # 2, Dhaka-1212
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Abdul Ali
+Qualification :MBBS
+Expertise :Medicine &amp; Diabetes
+Organization:MUKTI
+Chamber:MUKTI
+Location:House #2, Road #49, Gulshan-2, Dhaka-1212
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Iqbal Ahmed
+Qualification :MBBS, CCD ( Birdem )
+Expertise :Medicine &amp; Diabetes
+Organization:Popular Hospital, Dhanmondi
+Chamber:Popular Hospital, Dhanmondi
+Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. M. A. Azad
+Qualification :MBBS, CCD ( Birdem ), CCU ( BSU )
+Expertise :Medicine &amp; Diabetes
+Organization:Ibn Sina Diabetes Center
+Chamber:Ibn Sina Diabetes Center
+Location:House # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. M. A. Sayem
+Qualification :MBBS, DLP ( Diabetology ) - BIRDEM, C.C
+Expertise :Medicine &amp; Diabetes
+Organization:Popular Hospital, Dhanmondi
+Chamber:Popular Hospital, Dhanmondi
+Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Masuda Joya
+Qualification :MBBS, CCD, DLP
+Expertise :Medicine &amp; Diabetes
+Organization:BIRDEM Hospital &amp; Ibrahim Medical College
+Chamber:Popular Diagnostic Centre Ltd. - Shyamoli Branch
+Location:House # (22/7) 29, Bir Uttam A.N.M Nuruzzaman Sorak, (Babor road) Block # B, Mohammadpur, Dhaka-1207
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Lt. Col. ( retd. ) Dr. Qazi Mansur-Ul-Alam
+Qualification :MBBS, CCD ( DAB )
+Expertise :Medicine &amp; Diabetes
+Organization:Aysha Memorial Specialised Hospital
+Chamber:Aysha Memorial Specialised Hospital
+Location:74/G/ 75, Peacock Square, New Airport Road,Mohakhali, Dhaka -1215, Bangladesh.
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+               <TextView
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Rashedul Islam
+Qualification :MBBS, BCS, CCD
+Expertise :Medicine &amp; Diabetes
+Organization:Ibrahim General Hospital &amp; DCEC - Dhanmondi
+Chamber:Ibrahim General Hospital &amp; DCEC - Dhanmondi
+Location:House# 42, Road#10/A , Dhanmondi, Dhaka
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+               <TextView
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. S. Saha ( Manosh )Dr. S. Saha ( Manosh )
+Qualification :
+Expertise :Medicine &amp; Diabetes
+Organization:BIRDEM
+Chamber:Popular Diagnostic Center Ltd. - English Road
+Location:2 English Road ( Roy Shaheb Bazar Mor ), Dhaka
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+               <TextView
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Sarkar M. Saiful Islam
+Qualification :MBBS, CCD
+Expertise :Medicine &amp; Diabetes
+Organization:Medinova
+Chamber:Medinova Medical Services Ltd.
+Location:House # 71/A, road # 5/A, Dhanmondi R/A, Dhaka.
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+               <TextView
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. Zafar A. Latif
+Qualification :MBBS, FCPS
+Expertise :Medicine &amp; Diabetes
+Organization:BIRDEM Hospital Ibrahim Medical College
+Chamber:Ibrahim General Hospital &amp; DCEC - Dhanmondi
+Location:House# 42, Road#10/A , Dhanmondi, Dhaka
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        </RelativeLayout>
+          </ScrollView>

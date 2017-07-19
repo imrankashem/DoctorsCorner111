@@ -1,0 +1,225 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rajshahi Ambulance"
+            android:id="@+id/docchi0"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:textSize="23sp"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/docchi"
+            android:layout_below="@id/docchi0"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :	 Ambulance Service, Rajshahi
+Address :Rajshahi
+Contact No.: +88-01716-129375
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_below="@id/docchi"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Fire Service Ambulance
+Address : Rajshahi
+Contact No. :772702, 774224
+Email:
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :Medical College Ambulance
+Address :	 Rajshahi
+Contact No. :776000-9, 774335
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :	Paba Medical Hospital Ambulance
+Address :Rajshahi
+Contact No. : 775709, 775606
+Email:
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :	 Police Hospital Ambulance,
+Address :	Rajshahi
+Contact No. :	774308
+Email:	Not Provided
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :  Sadar Hospital Ambulance
+Address :Rajshahi
+Contact No. : 775863
+Email:
+Web:
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :  T.B Hospital Ambulance
+Address :	Rajshahi
+Contact No.: 774558
+Email:	Not Provided
+Web:
+\n\n
+Organization :  University Medical Ambulance
+Address :	Rajshahi
+Contact No.: 750169
+Email:	Not Provided
+Web:\n\n
+Organization :  Islami Bank Hospital Ambulance Service
+Address :	Rajshahi
+Contact No.: +880721770965, +8801719978197
+Email:	Not Provided
+Web:\n\n
+
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+</ScrollView>

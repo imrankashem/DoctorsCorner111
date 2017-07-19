@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Care Hospital (BD) Ltd.
+Address  :2/1-A Iqbal Road, Mohammadpur (on Main Mirpur Road),Dhaka-1207, Bangladesh
+Phone    :+880 2 9134407, 9132548, 8124974, 8110864,
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/docchi1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+DEPARTMENT OF : GYNAE AND OBS (INFERTILITY)\n\n\n\n
+Prof. Parveen Fatima
+MBBS, FCPS (Gynae  Obs))
+Post Graduate Award in A.R.T (UK)
+Professor of Infertility, Dept. of Obs.  Gynae
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARE HOSPITAL
+Visiting hour: 6pm—9pm, Friday Closed\n\n
+
+Dr. Ratna Pal
+MBBS, MS (Gynae Obs), BCS (Health)
+Residence Surgeon, Dept. of Gynae  Obs
+Sarkari Karmochari Hospital, Dhaka
+Chamber: CARe Specialized Hospital
+Visiting hour: 2pm—4pm, Thursday  Friday Closed\n\n
+
+
+DEPARTMENT OF : GYNAE  AND OBS (ONCOLOGY)\n\n\n\n
+Prof. Atika Begum
+MBBS, FCPS (Gynae  Obs)
+Professor  Head, Dept. of Obs.  Gynae
+Shaheed Suhrawardi Medical College Hospital (Rtd)
+Chamber: CARE HOSPITAL
+Visiting hour: 7pm—9pm, Thursday  Friday Closed\n\n
+
+
+DEPARTMENT OF : GYNAE AND OBS\n\n\n\n
+Dr. Bilkis Mahmuda
+MBBS, FCPS (Gynae Obs)
+Consultant, Dept. of Gynae Obs
+SSMC Mitford Hospital
+Chamber: CARE HOSPITAL
+Visiting hour: 5pm—8pm, Friday Closed\n\n
+
+Dr. Munira Ferdousi
+MBBS, FCPS (Gynae  Obs)
+Assistant Professor, Gynae  Obs Dept
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 12 noon—3pm, Friday Closed\n\n
+
+Dr. Khodeja Begum Jhumi
+MBBS, BCS (Health),FCPS (Gynae  Obs)), MS (Gynae  Obs)
+Assistant Professor, NICRH, Mohakhali
+Chamber: CARE Specialized Hospital
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+Dr. Menoka Ferdous
+MBBS(DMC), BCS(Health), MCPS, MS (Gynae  Obs)
+Consultant, Dept. of Gynae  Obs
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARE Specialized Hospital
+Visiting hour: 6pm—9pm, Friday Closed\n\n
+
+Dr. Nahid Sultana Mili
+MBBS, MS (Gynae  Obs)
+Assistant Professor of Obs.  Gynae, BIRDEM Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+Dr. Zeba Ahmed
+MBBS, FCPS (Gynae  Obs) MCPS, DGO (Dublin)
+Consultant Gynecologist
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARE HOSPITAL
+Visiting hour: 6pm—8pm, Friday Closed\n\n
+
+Dr. Saila Parvin
+MBBS, FCPS (Gynae  Obs),MS (Gynae  Obs)
+Assistant Professor, Gynae  Obs Dept, NICRH, Mohakhali
+Chamber: CARE Specialized Hospital
+Visiting hour: 6pm—9pm, Friday Closed\n\n
+
+Dr. Jinnat Ara Islam
+MBBS, MCPS ,FCPS (Gynae  Obs)
+Assistant Professor, Dept. of Gynae Obs
+Shaheed Suhrawardi Medical College Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 5pm—9pm, Friday Closed\n\n
+
+Dr. Noor Jahan Begum
+MBBS, DGO ,FCPS (Gynae  Obs)
+Assistant Professor, Dept. of Gynae  Obs
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARE HOSPITAL
+Visiting hour: 3pm—6pm, Friday Closed\n\n
+
+Dr. Kashefa Khatun
+MBBS, MS (Gynae Obs)
+Consultant Gynecologist
+Shaheed Suhrawardi Medical College Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 4pm—7pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : PAEDIATRIC NEPHROLOGY\n\n\n\n
+Prof. M.Moazzam Hossain
+MBBS, FCPS, FRCP (Edin)
+Professor of Paediatric Nephrology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm,Friday Closed\n\n
+
+
+DEPARTMENT OF : NEONATOLOGY\n\n\n\n
+Prof. Syeda Afroza
+MBBS, FCPS, FRCP, DMEd (UK)
+Professor Head, Dept. of Paediatrics, SSMC  Mitford Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 6 pm—9pm, Friday Closed\n\n
+
+Dr. Sanjoy Kumer Dey
+MBBS, DCH, FCPS (Paed), MD (Neonatology)
+Assistant Professor, Dept of Neonatology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 5pm—7pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : GENERAL PAEDIATRICS\n\n\n\n
+Dr. Israt Jahan Lucky
+MBBS, FCPS (Paed), MD (Paed)
+Assistant Professor of Paediatrics, Enam Medical College  Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+Dr. Shafiul Hoque
+MBBS, MD (Paed)
+Assistant Professor, Dhaka Shishu Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 4pm—6pm, Friday Closed\n\n
+
+Dr. G.M.Suman
+MBBS(Dhaka), DCH (DU)
+Newborn  Child Specialist
+Co-ordinator  Consultant NICU PICU
+Chamber: CARE HOSPITAL
+Visiting hour: 6pm—9pm\n\n
+
+
+DEPARTMENT OF : PAEDIATRIC NEUROLOGY\n\n\n\n
+Dr. Kazi Ashraful Islam
+MBBS, MCPS, MD
+Assistant Professor, Paediatric Neurology, BSMMU
+Chamber: CARE HOSPITAL
+Visiting hour: 5pm—7pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : PAEDIATRIC SURGERY\n\n\n\n
+Prof. M.T.H Siddiqui Jamal
+MBBS, MS (Paediatric Surgery)
+Professor, Paediatric Surgery
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Close\n\n
+
+Dr. Ovi Chakraborty
+MBBS, MS (Paed. Surgery)
+Assistant Professor, Paediatric Surgery
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—8pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : PAEDIATRIC PLASTIC and VASCULAR ANOMALY SURGERY\n\n\n\n
+Dr. B.K. Das
+MBBS, MCPS (Surgery) MS (Paediatric Surgery)
+Professor  Head, Dept. of Paediatric Surgery
+Z.H.Sikder Women’s Medical College  Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 5pm—7pm, Friday Closed\n\n
+
+DEPARTMENT OF : PLASTIC AND RECONSTRUCTIVE SURGERY\n\n\n\n
+Prof. Sazzad Khondoker
+MS (General Surgery), FCPS (Surgery), MS (Plastic Surgery)
+Professor Head, Burn  Plastic Surgery
+Dhaka Medical College  Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : GENERAL SURGERY\n\n\n\n
+Dr. ABM Mahbubur Rahman
+MBBS, FCPS (Surgery), MRCS (England)
+Assistant Professor of Surgery, BMCH
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+Dr. Samia Mubin
+MBBS (DMC), FCPS (Surgery)
+Assistant Professor of Surgery
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 3pm—5pm, Friday Closed\n\n
+
+Dr. Nazmul Haque Masoom
+MBBS (DMC), FCPS (Surgery)
+Assistant Professor,Dept.of Surgery
+Dhaka Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+Dr. Morshed Uddin Akand
+Diabetic Foot care  Plastic Surgery
+BIRDEM Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : MEDICINE\n\n\n\n
+Prof. Md. A. Ahsan
+MBBS, DTM H (England), D.Gastro (London), MRCP (UK), FRCP (London)
+Professor of Medicine, BMCH (Ex)
+Chamber: CARe HOSPITAL
+Visiting hour: 12noon—1:30pm, 5:30pm—7pm, Sat,Sun,Tue,Wed\n\n
+
+Dr. Mohiuddin Ahmed
+MBBS, FCPS (Medicine)
+Assistant Professor of Medicine
+Enam Medical College Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—8pm, Friday Closed\n\n
+
+Dr. Mohiuddin Osmani
+MBBS, FCPS (Medicine)
+Ex. Assistant Professor of Medicine
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9 pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : HEPATOLOGY\n\n\n\n
+Dr. Mahbub H khan
+MBBS, MD (Hepatology)
+Professor  Head,Dept.of Gastro-entrology, BIRDEM
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—9pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : NEPHROLOGY\n\n\n\n
+Dr. A.K. Saha
+MBBS ,MD (Nephrology)
+Assistant Professor of Urology
+Dhaka Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+Dr. A.H.Hamid
+MBBS ,MD (Nephrology)
+Assistant Professor of Urology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe Specialized Hospital
+Visiting hour: 3pm—5pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : UROLOGY\n\n\n\n
+Prof. AKM Anwarul Islam
+MBBS, FCPS, FRCS, FICS
+Clinical Fellow in Urology (WHO)
+Professor of Urology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 8pm—9pm\n\n
+
+Dr. Mizanur Rahman
+MBBS, FCPS (Surgery), MS (Urology)
+Assistant Professor of Urology
+Dhaka Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 3pm—6pm, Friday Closed\n\n
+
+Dr. Fazal Naser
+MBBS (DMC), FCPS (Surgery), MS (Urology), MRCS (Edin),MRCPS(Glasgow)
+Assistant Prof, Dept. of Urology
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+Dr. S. K. Roy
+MBBS ,MS (Urology)
+Consultant, NIKDU
+Chamber: CARe HOSPITAL
+Visiting hour: 2pm—5pm\n\n
+
+
+DEPARTMENT OF : NEUROLOGY\n\n\n\n
+Dr. Afzal Momin
+MBBS ,MD (Neurology)
+Assistant Professor, Neurology
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 2:30pm—4:30pm, Thursday  Friday Closed\n\n
+
+Dr. Zahirul Haque Chowdhury
+MBBS ,MD (Neurology)
+Assistant Professor, Neurology, Neuroscience
+Chamber: CARe Specialized Hospital
+Visiting hour: 2pm—4m, Friday Closed\n\n
+
+
+DEPARTMENT OF : NEURO SURGERY\n\n\n\n
+Dr. Akhlaque Hossain Khan
+MBBS, MS (Neurosurgery), Research Fellow (Japan)
+Associate Professor, Dept.of Neurology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe Specialized Hospital
+Visiting hour: 2pm—5m, Friday Closed\n\n
+
+Dr. Sukrity Das
+MBBS, FCPS (Surgery)MS (Neurosurgery), FRCS (London)
+Assistant Professor of Neurosurgery
+Dhaka Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : CARDIOLOGY\n\n\n\n
+Dr. Udoy Shankar Roy
+MBBS, MD (Cardiology)
+Assistant Professor of Cardiology
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—9pm, Friday Closed
+
+Dr. Amiruzzaman Khan
+MBBS, DTM H  (London), D-Card
+Assistant Professor of Cardiology
+Chamber: CARe Specialized Hospital
+Visiting hour: 5pm—7pm, Thursday  Friday Closed\n\n\n\n
+
+Dr. Ahsan Habib
+MBBS, MD (Cardiology)
+Assistant Professor of Cardiology,
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe Hospital
+Visiting hour: 7pm—9:30pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : CHEST MEDICINE\n\n\n\n
+Dr. Shamim Ahmed
+MBBS (DMC), FCPS (Medicine), MD (Chest), FCCP (USA)
+Assistant Professor
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe Hospital
+Visiting hour: 7pm—9pm, Sat, Sun, Tue, Wed\n\n
+
+
+DEPARTMENT OF : DERMATOLOGY\n\n\n\n
+Dr. Lubna Khondoker
+MBBS, MPH, DDV(BSMMU), MCPS, FCPS(Dermatology)
+Assistant Professor of Dermatology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+Dr. Dr. Mahbub Ul Alam
+MBBS, DDV (DU)
+Ex. Senior Consultant
+Rangpur Medical College
+Chamber: CARe Specialized Hospital
+Visiting hour: 10:30am—12:30pm, Thursday  Friday Closed\n\n
+
+
+DEPARTMENT OF : OPTHALMALOGY\n\n\n\n
+Dr. Ava Hossain
+MBBS, FCPS, FICS
+Principal cum Professor
+Green Life Medical College  Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 6pm—8:30pm, Friday Closed\n\n
+
+Dr. Md. Nazmul Haque
+MBBS (Dhaka), DO, MS (Vienna), MA,MS(Vienna)
+Eye Specialist, Bangladesh Bank
+Chamber: CARe Specialized Hospital
+Visiting hour: 11am—1pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : PHYSICAL MEDICINE\n\n\n\n
+Prof. Sohely Rahman
+MBBS, FCPS (Physical Medicine)
+Professor  Head, Dept. of Physical Medicine
+Dhaka Medical College  Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : ORTHOPEDICS\n\n\n\n
+Prof. Abdus Samad Sheik
+MS (Ortho), BCTF (London)
+Ex. Director  Professor  Head, Dept. of Orthopedic Surgery, NITOR
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—8pm, Friday Closed\n\n
+
+Prof. Qazi Shahidul Alam
+MBBS (Dhaka), D. Ortho, MS (Ortho), FICS(USA)
+Professor of Orthopedic Surgery
+Chamber: CARe Hospital
+Visiting hour: 6:30pm—9pm, Friday Closed\n\n
+
+Dr. Kazi Mazharul Islam Dolon
+MBBS, MS (Ortho)
+Professor, Dept. of Orthopedics
+Sahabuddin Medical College Hospital
+Chamber: CARe Hospital
+Visiting hour: 4pm—7pm, Friday Closed\n\n
+
+Dr. Jahangir Alam
+MBBS, MS (Ortho), Fellow WHO
+Assistant Professor, NITOR
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—8pm, Friday Closed\n\n
+
+Dr. Syed Shohedul Islam
+MBBS , MS (Ortho), D. Ortho,
+Assistant Professor, NITOR
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—8pm, Friday Closed\n\n
+
+Dr.G. M Jahangir Hossain
+MBBS (Dhaka), MS (Ortho), Fellow Trauma  Sports Surgery (India)
+Consultant Orthopedics Surgery
+Chamber: CARe Specialized Hospital
+Visiting hour: 3pm—6pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : RHEUMATOLOGY\n\n\n\n
+Dr.Md. Mostofa Zaman
+MBBS, MPH, PhD (Tokyo)
+Rheumatologist
+Chamber: CARe Specialized Hospital
+Visiting hour: 4pm—7pm, Only Saturday\n\n
+
+
+DEPARTMENT OF : DENTAL  MAXILLO - FACIAL SURGERY\n\n\n\n
+Dr. Nitish Kumar Das
+BDS, BCS (Health)
+Dental Surgeon
+Chamber: CARe Specialized Hospital
+Visiting hour: 5pm—9pm, Friday Closed\n\n
+
+
+DEPARTMENT OF : ENT\n\n\n\n
+Prof. Zaheer Al Amin
+MBBS (Dhaka), DLO (England), FRCS (Ireland), FRCS(Edin)\n\n
+
+Dr. Sudhanshu Shakor Biswas
+MBBS (DMC), DLO, FCPS (ENT)\n\n
+
+Dr. Tayeb Ali
+MBBS , MCPS\n\n
+
+Dr. Farid Uddin Milky
+MBBS , DLO (DU)
+Consultant, ENT, BMCH
+Chamber: CARe HOSPITAL
+Visiting hour: 6pm—8pm, Tuesday  Friday Closed\n\n
+
+
+DEPARTMENT OF : ONCOLOGY\n\n\n\n
+
+Dr. Md. Mafizur Rahman
+MBBS (CU), MD (DU)
+Assistant Professor, Radiation Oncology
+National Institute of Cancer Research  Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Tuesday  Friday Closed\n\n
+
+
+DEPARTMENT OF : IMMUNOLOGY\n\n\n\n
+Prof. M. Sawkat Hassan
+MBBS, PhD(Sweden)
+Professor of Immunology\n\n
+
+DEPARTMENT OF : PATHOLOGY\n\n\n\n
+Prof. A.U.M. Muhsin
+MBBS, M.Phil (Path), MIAC
+Professor, Dept. of Pathology
+Dhaka Medical College  Hospital\n\n
+
+Prof. Farooque Ahmed
+MBBS, DCP (BSMMU)
+Professor  Head, Dept. of Pathology
+Shahid Suhrawardi Medical College\n\n
+
+Dr. Shahariar Zaman
+MBBS, M.Phil (Path)
+Consultant Pathology\n\n
+
+
+DEPARTMENT OF : PHYSIOTHERAPY\n\n\n\n
+Md. Rustam Ali
+Diploma in Physiotherapy\n\n
+
+Rowshon yeasdani Shuvo
+Diploma in Physiotherapy\n\n
+
+
+DEPARTMENT OF : MICROBIOLOGY\n\n\n\n
+Dr. Munir Hossain
+MBBS, D.C Micro(London)
+Consultant Microbiologist\n\n
+
+
+DEPARTMENT OF : MOLECULAR BIOLOGY\n\n\n\n
+Sohrab Alam
+MSc, PhD\n\n
+
+
+DEPARTMENT OF : RADIOLOGY and IMAGING\n\n\n\n
+Prof. Iqbal Hossain
+MBBS, DMRD, FCPS (Radiology)
+Professor, Dept. of Radiology Imaging
+Bangabandhu Sheikh Mujib Medical University\n\n
+
+Dr. Moinul Hossain
+MBBS, PhD
+Consultant, Dept. of Radiology Imaging\n\n
+
+Dr. Ziaul Haque
+MBBS, MD(Radiology)
+Assistant Professor, Dept. of Radiology  Imaging
+Bangabandhu Sheikh Mujib Medical University\n\n
+
+Dr. Md.Shahidul Islam
+MBBS, MD(Radiology  Imaging))
+Assistant Professor, Dept. of Radiology  Imaging, NITOR\n\n
+
+
+DEPARTMENT OF : ULTRASONOGRAPHY\n\n\n\n
+Dr. Nasiba Khanom
+MBBS, DMUD (USTC)\n\n
+
+Dr. Sharmin Laila
+MBBS, DMUD (SUB)\n\n
+
+Dr. Banee Adhikary
+MBBS, DMUD (SUB)\n\n
+
+Dr. Dilruba Rahman
+MBBS, C-ULTRA (BSU,JURAI,USA)\n\n
+
+Dr. Rejina Jesmin
+MBBS, MPH, DMUD\n\n
+"
+            android:textColor="@color/colorPrimary"
+
+
+            android:textSize="23sp" />
+    </RelativeLayout>
+</ScrollView>

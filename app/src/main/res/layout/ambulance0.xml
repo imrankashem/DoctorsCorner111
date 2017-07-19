@@ -1,0 +1,364 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dhaka ambulance "
+            android:id="@+id/docchi0"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:textAllCaps="true"
+            android:textSize="23sp"
+            android:gravity="center"/>
+        <TextView
+            android:id="@+id/docchi"
+            android:layout_below="@id/docchi0"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Apollo Hospitals Dhaka
+Address :	Dhaka
+Contact No. :	+8801714-090000
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_below="@id/docchi"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :	 Apanjon Ambulance Service
+Address :	Dhaka
+Contact No. :	9125420
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Al-Markazul Islami Ambulance Service
+Address :	Dhaka
+Contact No. :	 9127867, 8114980
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Alif Ambulance
+Address :	dhaka
+Contact No. :8117576 , 9131688
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Ad-Din Hospital
+Address :	Dhaka
+Contact No. :	 +880-2- 9362929
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization : Anju-Man-E-Mufidul Islam
+Address :	Dhaka
+Contact No. :	+880-2-9336611, +880-2-7411680, +880-2-7410786
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization :
+ Bangabondhu Sheikh Mujib Medical University (BSMMU) (PG Hospital)
+Address :	Dhaka
+Contact No. :+880-2-8614001-5, +880-2-8614545-9, +880-2-8612550-4
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi5"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+Organization  :Bangladesh Medical College Hospital
+Address :	dhaka
+Contact No. :  +880-2-9118202, +880-2-9120793, +880-2-8115843
+Email:
+Web:"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+
+            android:text="
+CMH (Dhaka)
+Phone: +880-2-9871469, +880-2-9870011, +880-2-8114666-75, +880-2-8822779\n\n
+Dhaka Eye Hospital
+Phone: +880-2-8014476\n\n
+Dhaka Medical College Hospital
+Phone: +880-2-8626812-19, +880-2-8626823, +880-2-9669340\n\n
+Dhaka Renal Centre &amp; Genera Hospital
+Phone: +880-2-8610928, +880-2-8621841\n\n
+Fire Brigade Ambulance Service
+Phone: +880-2-9555555, +880-2-9556666-7, +880-2-9553333-7\n\n
+Heart Hospital
+Phone: +880-2-9801874, +880-2-9803302\n\n
+Holy Family Red Crescent Hospital
+Phone: +880-2-8311721-5, +880-2-9113512\n\n
+ICDDRB (Mohakhali)
+Phone: +880-2-8811751-60\n\n
+islamia Optical Hospital
+Phone: +880-2-9119315\n\n
+Life Line Healthcare Limited
+Phone: +880-2-8155550-2, +8801199-899919\n\n
+Lab-Aid Cardiac Hospital
+(Banani - Baridhara - Uttara Rayer)
+Phone: +8801713333337, +8801715-120229, +8801715-154590\n\n
+Lab-Aid Cardiac Hospital
+(Dhanmondi-Azimpur-Shahbagh)
+Phone: +8801713333337, +8801713-025911
+\n\n
+Lab-Aid Cardiac Hospital
+(Bazaar- Lalmatia- Mohammadpur)
+Phone: +8801713333337, +8801715-120228\n\n
+Rafa Ambulance Service
+Phone: 9110663\n\n
+
+Green Ambulance Service
+Phone: 9334121, 8612412\n\n
+
+Ad-Din Hospital
+Phone: 9362929\n\n
+
+BIRDEM
+Phone: 9661551-60, 8616641-50, Ext-2301\n\n
+
+Dhaka City Corporation (Mirpur Control Room)
+Phone: 9004734\n\n
+
+Dhaka City Corporation (Nagar Bhaban Control Room)
+Phone: 9556014, 9556018, 9557186-87\n\n
+
+Dhaka Medical College Hospital
+Phone: 505025-29, 500121-5\n\n
+
+ICDDRB (Mohakhali)
+Phone: 8811751-60, 600171-8\n\n
+
+Medinova Medical Service Ltd.
+Phone: 8113721, 9120288\n\n
+
+Monowara Hospital (pvt.) Ltd. Ambulance Service
+Phone: 8318135, 8319802, 8318529\n\n
+
+National Heart Institute, Ambulance Service
+Phone: 9122560-72\n\n
+
+Red Crescent Society
+Phone: 9330188-9, 9358799\n\n
+
+Sir Salimullah Medical College &amp; Mitford Hospital Ambulance Service
+Phone: +880-2-7319002-6\n\n
+
+Shahid Suhrawardi Hospital, Ambulance Service
+Phone: 9130800\n\n
+
+Shishu Hospital, Ambulance Service
+Phone: 8116061-2, 8114571-2\n\n
+
+South Asian Hospital, Ambulance Service
+Phone: 8616565, 9665852\n\n
+
+Square Hospital
+Phone: +880-2-8144466, +880-2-8159457 (Ext-2005), +8801713377773, +8801713377775
+Air Ambulance: +8801730011734, +880-2-8859007 (Ext – 237)\n\n
+
+Medinova Medical Service Ltd
+Phone: +880-2-8113721, +880-2-9120288, +880-2-8620353-7, +880-2-86918583\n\n
+
+Monowara Hospital (pvt.) Ltd
+Phone: +880-2-8318135, +880-2-8319802, +880-2-8318529\n\n
+
+Orthopedic Hospital
+Phone: +880-2-9112150, +880-2-9114075, +880-2-7114812, +880-2-9112152\n\n
+
+Prime General Hospital
+Phone: +880-2-9562267, +880-2-9559862\n\n
+
+Red Crescent Society Ambulance Service
+Phone: +880-2-9330188-9, +880-2-9358799, +880-2-9113512, +880-2-8311721-5\n\n
+
+United Hospital
+Phone: +880-2-8836000-10, +880-2-8836434-44, +880-2-8110864, +8801914001234\n\n
+
+Labaid Hospital Ambulance service.
+Hotline: 10606
+Ph: 01713330088 and 01713091940\n\n
+
+Shefa Ambulance Services
+Phone: 9111758, 8110864\n\n
+
+Day-Night Ambulance Service
+Phone: 9123073, 8122041\n\n
+"
+            android:textAllCaps="true"
+            android:textColorHighlight="@color/cardview_dark_background"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+    </RelativeLayout>
+</ScrollView>

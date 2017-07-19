@@ -1,0 +1,383 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+ IBN SINA Medical College Hospital
+1/1, Mirpur Road, Kallyanpur, Dhaka.
+Phone No. of Customer Services:
+ 9010396,9005617,8035905,8091332,8091334-6
+Mobile No. of Customer Services
+    01703-725590
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Department of General Surgery\n\n
+
+    Prof. Dr. Md. Mohibul Aziz
+    MBBS, FRCS (Edinbora)
+    FRCS (Glasgaw) FCPS (Surgery) General,
+    Head of the Department Surgery
+    Laparoscopy &amp; Colorectal Surgeon
+    Ibn Sina Medical College Hospital\n\n
+    Prof. Dr. Mohammad Ali
+    MBBS,MCPS, FCPS
+    Professor Department of Surgery
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Md. Jahangir Hossain Bhuiyan
+    MBBS, MS
+    Associate Professor
+    Department of Surgery
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Md. Ehteshamul Haque
+    MBBS, M-Med, MCPS, FCS
+    Resident Surgeon
+    General &amp; Laparoscopy Surgeon
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Medicine\n\n
+
+    Professor Dr. Md. Abdus Sobur
+    MBBS, FCPS
+    Professor &amp; Head
+    Department of Medicine
+    Ibn Sina Medical College Hospital\n\n
+    Professor Dr. Md. Azizul Haque
+    MBBS, MCPS, MD
+    Professor
+    Department of Medicine
+    Ibn Sina Medical College
+
+Department of Gynae &amp; Obs.\n\n
+
+    Prof. Dr. Fatema Begum
+    MBBS, FCPS (Gynae &amp; Obst.)
+    Prof. &amp; Head of the dept. of Gynae &amp; Obs
+    Ibn Sina Medical College Hospital\n\n
+    Ex. Prof. &amp; Head of the dept. of SSMC &amp; Mitford Hospital\n\n, Dhaka.
+    Professor Dr. Touhida Ahsan
+    MBBS, FCPS,
+    MS (Gynae &amp; Obs)
+    Professor
+    Department of Gynae &amp; Obs
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Nazlima Nargis
+    MBBS, MCPS, FCPS
+    Associate Professor
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Anzuman Ara (Bulu)
+    MBBS (Gynae &amp; Obs)
+    MCPS,DMSU (SU)
+    Department of Gynae &amp; Obs
+    Resident Surgeon
+    Ibn Sina Medical College Hospital\n\n
+
+    Dr. Salma Lovreen
+    MBBS, DGO, MCPS, FCPS(Gynae &amp;Obs)
+    Assistant Professor
+    Ibn Sina Medical College Hospital\n\n
+
+    Dr. Khayrun Nesa
+    MBBS, FCPS(Gynae &amp;Obs)
+    Assistant Professor
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Psychiatric\n\n
+
+    Dr. Fahmida Ahmed
+    MBBS, M.Phil, FCPS  (Psychiatric)
+    Associate Professor &amp; Head
+    Department of Psychiatric
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Blood Transfusion\n\n
+
+    Dr. Rofiqul Haque
+
+MBBS, MD
+Assistant Professor &amp; Head
+Department of  Blood Transfusion
+Ibn Sina Medical College Hospital\n\n
+
+Department of Orthopedic surgery\n\n
+
+    Professor Dr. Rafiqul Islam
+    MBBS, MS (Ortho)
+    Fellow (England)
+    Professor  &amp; Head
+    Department of Orthopedic surgery
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Parvez Ahsan
+    MBBS D-Ortho, MS (Ortho)
+    Associate Professor
+    Department of Orthopedic surgery
+    Ibn Sina Medical College Hospital\n\n
+
+Department of ENT\n\n
+
+    Prof.Lt.Colonel (Retd)
+    Dr.Md.Abdullah Hel Kafi
+    MBBS,Grading Course,(AFMI)
+    MBBS,MCPS,FCPS (ENT)
+    Department of ENT
+    Professor &amp; Head Department of ENT
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Md. Arif Hossain Bhuyan
+    MBBS, FCPS (ENT)
+    Department of ENT
+    Associate Professor
+    Department of ENT
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Eye\n\n
+
+    Brig.Gen.(Rtd)Dr. Bahar M H Khan
+    MBBS, DO, MS (Eye)
+    Professor &amp; Head
+    Department of Ophthalmology
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Md. Siddiqur Rahman
+    MBBS, DO, FCPS (Eye)
+    Associate Professor
+    Department of Ophthalmology
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Skin &amp; VD\n\n
+
+    Dr. Major Md. Anower Hossain (Rtd)
+    MBBS, MCPS (Skin &amp; VD), DDV (DU)
+    Asso. Prof. &amp; Head
+    Department of Skin &amp; VD
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Mohd. Nurul Alam
+    MBBS, (DMC), FCPS(Skin &amp; VD)
+    DDV (BSMMU), MCPS(Skin &amp; VD)
+
+Assistant professor
+Depart. Of Dermatology &amp; Venereology
+Ibn Sina Medical College Hospital\n\n
+
+Department of paediatric\n\n
+
+    Dr. Md. Khoybor Ali
+    MBBS, DCH, FCPS (Paed)
+    Associate Professor &amp; Head
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Safiul Alam Quraishi
+    MBBS, FCPS (Paed)
+    Assistant Professor
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Gastroenterology\n\n
+
+    Dr. Mahabub Rahman
+    MBBS, FCPS( Medicine) MD(Gastro)
+    Associate Professor
+    Depatment of Medicine
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Anesthesiology\n\n
+
+    Professor Dr. Md. Shah Alam
+    MBBS, DA, FCPS (Anaes)
+    Professor
+    Head of the Department
+
+Ibn Sina Medical College Hospital\n\n
+
+    Dr. Md. Nurullah
+    MBBS, DA
+    Associate Professor
+    Department of Anesthesiology
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Marufa Shahnowaz
+    MBBS, DA (Anesthesia)
+    Assistant Professor
+    Ibn Sina Medical College Hospital\n\n
+
+
+Evening outdoor consultant:\n\n
+
+
+Department of Skin &amp; VD\n\n
+
+    Dr. Major Md. Anower Hossain (Rtd)
+    MBBS, MCPS (Skin &amp; VD), DDV (DU)
+    Asso. Prof. &amp; Head
+    Department of Skin &amp; VD
+    Ibn Sina Medical College
+
+Department of Paediatric\n\n
+
+    Dr. Mos. Suifa Akter
+    MBBS, DCH, MCPS MD (NICVD)
+    Department of Paediatric
+    Ibn Sina Medical College Hospital\n\n
+
+    Dr. Merina Sultana
+    MBBS, BCS (Health), MD (Paediatric)
+
+Department of Paediatric\n\n
+Consultant of MCHTI, Azimpur, Dhaka
+Department of Surgery\n\n
+
+    Dr. Md. Towhidul Islam
+    MBBS,FCPS (Surgery)
+    Department of Surgery
+    BSMMU, Dhaka
+
+Department of Eye\n\n
+
+    Dr. Mahbubur Rahman (Shahin)
+    MBBS, DO
+    Assistant Professor
+    President Abdul Hamid Medical College Hospital\n\n
+    Dr. Abdus Salam Siddique
+    MBBS, DO, FCPS (eye)
+    Consultant
+    Ibn Sina Medical College Hospital\n\n
+
+Department of ENT\n\n
+
+    Dr. Md. Sumon Hossain
+    MBBS, DLO (DU)
+    ENT &amp; Head Neck Surgeon
+    Registrar
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Diabetes &amp; Hormone\n\n
+
+    Dr. Sharmin Chowdhury
+
+MBBS, BCS (Health), Md (Endocrinology)
+Department of Diabetes &amp; Hormone
+National Institute of Neuro Science &amp; Hospital\n\n
+
+
+Department of Oncology\n\n
+
+    Dr. Md. Rezaul Sharif
+
+MBBS, MPhil (RadioTherapy)
+Senior Consultant &amp; Head of Oncology Dept.
+Delta Medical College Hospital\n\n
+
+
+Department of Orthopedic\n\n
+
+    Dr. Shahidur Rahman Khan
+    MBBS, D-Ortho
+    Consultant
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Medicine\n\n
+
+    Dr. Kalim Ullah
+    MBBS, FCPS (Medicine), D-Card
+    Dhaka National Medical College Hospital\n\n
+
+Department of Gynae &amp; Obs\n\n
+
+    Dr. Anzuman Ara (Bulu)
+    MBBS (Gynae &amp; Obs)
+    MCPS,DMSU (SU)
+    Resident Surgeon
+    Department of Gynae &amp; Obs
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Salma Lovreen
+    MBBS, DGO, MCPS, FCPS(Gynae &amp;Obs)
+    Assistant Professor
+    Ibn Sina Medical College Hospital\n\n
+    Dr. Khayrun Nesa
+    MBBS, FCPS(Gynae &amp;Obs)
+    Assistant Professor
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Cardiology\n\n
+
+    Dr. Md. Showkat Ali
+    MBBS, MD (Cardiology)
+    Consultant
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Urology\n\n
+
+    Dr. Md. Munsur Hallaz
+    MBBS, MRCS (Adin), MS (Uro), BCS (Helth)
+    Assistant Professor
+    Northern Medical College Hospital\n\n
+
+Department of Plastic Surgery\n\n
+
+    Dr. Imran Chowdhury
+    MBBS, FCPS (Plastic Surgery)
+    Consultant, NITOR, Dhaka
+    National Institute of Oncology, Mohakhali
+
+Department of Dental\n\n
+
+    Dr. Md. Mostafizur Rahman
+    BDS, FCPS, MCPS
+    Consultant &amp; Maxillofacial Surgeon
+    Ibn Sina Medical College Hospital\n\n
+
+Department of Neuro-Surgery\n\n
+
+    Dr. Samsuzzaman
+    MBBS, BCS (Health), MS (Neuro surgery)
+    National Institute of Neuro Science &amp; Hospital\n\n
+
+Department of Neuro-Medicine\n\n
+
+    Dr. Muhammad Masudur Rahman
+    MBBS, BCS (Health), MD (Neuro Medicine)
+
+National Institute of Neuro Science &amp; Hospital\n\n
+Department of Nephrology\n\n
+
+    Dr. Morium Mobassera
+    MBBS, MD (Nephro)
+    consultant
+    National Institute of Kidney Disease &amp; Urology
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+    </ScrollView>

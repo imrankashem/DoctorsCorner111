@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:layout_height="match_parent"   >
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi1"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:text="ডাঃ কাজল রেখা রায়
+সিনিয়র কনসালটেন্ট , গাইনী"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi2"
+        android:layout_below="@id/docchi1"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ বিধান চন্দ্র সেন গুপ্ত
+জুনিয়র কনসালটেন্ট , ডেন্টাল"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:id="@+id/docchi3"
+    android:layout_below="@id/docchi2"
+    android:layout_marginTop="43dp"
+    android:textSize="23sp"
+    android:textColor="@color/colorPrimary"
+    android:text="ডাঃ আবু সাইফ মোঃ লুৎফুল কবির , কোড নং-১০০৭৯৮২
+আবাসিক ফিজিঃ মেডিসিন"
+
+    android:layout_centerHorizontal="true" />
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:id="@+id/docchi4"
+    android:layout_below="@id/docchi3"
+    android:layout_marginTop="43dp"
+    android:textSize="23sp"
+    android:textColor="@color/colorPrimary"
+    android:text="ডাঃ জেবিন চৌধুরী
+আবাসিক ফিজিঃ শিশু/সহকারী অধ্যাপক"
+
+    android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi5"
+        android:layout_below="@id/docchi4"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডডাঃ মোঃ রিজোয়ান রেহান , কোড নং- ১২২৯০৮
+	আবাসিক চিকিৎসক , কার্ডিওলজী"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi6"
+        android:layout_below="@id/docchi5"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মঈন উদ্দিন মাহমুদ , কোড নং- ১২৪০৫২
+আবাসিক সার্জন (সার্জারী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi7"
+        android:layout_below="@id/docchi6"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ নার্গিস সুলতানা , কোড নং- ১১২৪১৮
+আবাসিক সার্জন (গাইনী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi8"
+        android:layout_below="@id/docchi7"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ সঞ্জয় দাশ , কোড নং- ১২৫৬৮৬
+আবাসিক সার্জন ( ইএনটি)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi9"
+        android:layout_below="@id/docchi8"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ সুব্রত দাশ , কোড নং- ৪২৮৩৪
+আবাসিক সার্জন (চক্ষু)"
+
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi10"
+        android:layout_below="@id/docchi9"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মোঃ আলী আসগর চৌঃ , কোড নং-৪৩৮৬৭
+আবাসিক সার্জন (রেডিওথেরাপী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi11"
+        android:layout_below="@id/docchi10"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মোঃ আবদুল কাইয়ুম চৌধুরী , কোড নং-১১৩৫৩০
+আবাসিক সার্জন , কার্ডিয়াক সার্জারী"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi12"
+        android:layout_below="@id/docchi11"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মোঃ খোরশেদুল আলম , কোড নং-৪৩৮৮২
+আবাসিক সার্জন , ভাসকুলার সার্জারী"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi13"
+        android:layout_below="@id/docchi12"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মোঃ আবুল হোসেন , কোড নং- ১১৪৮০৩
+আবাসিক সার্জন , অর্থোঃ ট্রমাটোলজী"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi14"
+        android:layout_below="@id/docchi13"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ স্বরুপানন্দ চক্রবর্তী , কোড নং -১১১৪৮৯
+রেজিষ্ট্রার (চক্ষু)"
+
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi15"
+        android:layout_below="@id/docchi14"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মোঃ নাফিজ আলম , কোড নং-
+রেজিষ্ট্রার ( কার্ডিওলজী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi16"
+        android:layout_below="@id/docchi15"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ শ্রীপতি ভট্টাচার্য , কোড নং- ১০০৯৪৫০
+রেজিষ্ট্রার (নেফ্রোলজী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi17"
+        android:layout_below="@id/docchi16"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মোঃ আবু হানিফ চৌধুরী , কোড নং-১১১৯৬৯
+রেজিষ্ট্রার (হেমাটোলজী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi18"
+        android:layout_below="@id/docchi17"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ এস এম জসিম উদ্দিন , কোড নং- ১২৪১৯০
+রেজিষ্ট্রার (নিউরোমেডিসিন)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi19"
+        android:layout_below="@id/docchi18"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ সাখাওয়াত আহমদ নাছির , কোড নং-১০৯৮৮৯
+রেজিষ্ট্রার ( গ্যাস্ট্রোএনাট্রোলজী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi20"
+        android:layout_below="@id/docchi19"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মোঃ শওকত আলী , কোড নং-১১৪৫২৩
+রেজিষ্ট্রার (ফিজিঃ মেডিসিন)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi21"
+        android:layout_below="@id/docchi20"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ সেলিনা নজির , কোড নং- ১১২৮২৭
+রেজিষ্ট্রার (শিশু সার্জারী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi22"
+        android:layout_below="@id/docchi21"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ মোঃ আলী আশরাফ , কোড নং- ১২১৭৮৩
+সহকারী রেজিষ্ট্রার ( শিশু সার্জারী)"
+
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi23"
+        android:layout_below="@id/docchi22"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:textColor="@color/colorPrimary"
+        android:text="ডাঃ জয়দীপ নন্দী , কোড নং-১০০৪১২৭
+সহকারী রেজিষ্ট্রার (চর্ম ও যৌন)"
+
+        android:layout_centerHorizontal="true" /><TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:id="@+id/docchi24"
+    android:layout_below="@id/docchi23"
+    android:layout_marginTop="43dp"
+    android:textSize="23sp"
+    android:textColor="@color/colorPrimary"
+    android:text="ডাঃ মোঃ তারেক আবেদীন , কোড নং ৪৪০১৯
+সহকারী রেজিষ্ট্রার (মানসিক রোগ)"
+
+    android:layout_centerHorizontal="true" /><TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:id="@+id/docchi25"
+    android:layout_below="@id/docchi24"
+    android:layout_marginTop="43dp"
+    android:textSize="23sp"
+    android:textColor="@color/colorPrimary"
+    android:text="ডাঃ সুশান্ত দাশ , কোড নং- ১২৩৪৯২
+সহকারী রেজিষ্ট্রার (বিটিসি)"
+
+    android:layout_centerHorizontal="true" /><TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:id="@+id/docchi26"
+    android:layout_below="@id/docchi25"
+    android:layout_marginTop="43dp"
+    android:textSize="23sp"
+    android:textColor="@color/colorPrimary"
+    android:text="ডাঃ শাহল রহমান খান , কাড নং-১৩৫১৭৯
+সহকারী রেজিষ্ট্রার , থোরাসিক সার্জারী"
+
+    android:layout_centerHorizontal="true" /><TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:id="@+id/docchi27"
+    android:layout_below="@id/docchi26"
+    android:layout_marginTop="43dp"
+    android:textSize="23sp"
+    android:textColor="@color/colorPrimary"
+    android:text="ডাঃ পার্থ ভট্টাচার্য , কোড নং-১২০৮৫৫
+সহকারী রেজিষ্ট্রার (এন্ড্রোক্রাইনোঃ)"
+
+    android:layout_centerHorizontal="true" />
+
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>
+</ScrollView>

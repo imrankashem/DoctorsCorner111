@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.imran.doctorscorner">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Hospitals"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Chittagongdoc">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".chittagongdoc2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".chittagongdoc3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".chittagongdoc4">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+
+    </activity>
+    <activity android:name=".chittagongdoc5">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN">
+
+            </action>
+            <category android:name="android.intent.category.DEFAULT">
+
+            </category>
+        </intent-filter>
+    </activity>
+
+    <activity android:name=".chittagongdoc6">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN">
+
+            </action>
+            <category android:name="android.intent.category.DEFAULT">
+
+            </category>
+        </intent-filter>
+    </activity>
+
+        <activity android:name=".dhakadoc">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc4">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc5">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc6">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc7">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN">
+
+            </action>
+            <category android:name="android.intent.category.DEFAULT">
+
+            </category>
+        </intent-filter>
+    </activity>
+        <activity android:name=".dhakadoc8">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc9">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc10">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity> <activity android:name=".dhakadoc11">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc12">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".dhakadoc13">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".chittagongdoc7">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>   <activity android:name=".chittagongdoc8">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>    <activity android:name=".nothingtoshow">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".syletdoc">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".syletdoc3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".syletdoc2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>  <activity android:name=".comilladoc">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".comilladoc2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".comilladoc3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+  <activity android:name=".comilladoc4">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".comilladoc5">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity> <activity android:name=".kulnadoc">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".kulnadoc1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".rajshahi_doc">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+   <activity android:name=".rajshahi_doc1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+   <activity android:name=".rajshahi_doc2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".rajshahi_doc3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".rajshahi_doc4">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".topdoc.topdoc0">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+   <activity android:name=".topdoc.topdoc1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>  <activity android:name=".topdoc.topdoc2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity> <activity android:name=".topdoc.topdoc3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+<activity android:name=".topdoc.topdoc4">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".topdoc.topdoc5">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".topdoc.topdoc6">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".topdoc.topdoc7">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".topdoc.topdoc8">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".topdoc.topdoc9">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".tophos.tophos0">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+  <activity android:name=".tophos.tophos1">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".tophos.tophos2">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".tophos.tophos3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity> <activity android:name=".tophos.tophos4">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity> <activity android:name=".tophos.tophos5">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity> <activity android:name=".tophos.tophos6">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".tophos.tophos7">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".tophos.tophos8">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+    <activity android:name=".dhakadoc14">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>   <activity android:name=".dhakadoc15">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+ <activity android:name=".dhakadoc16">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+ <activity android:name=".bloodbank.BloofBankDetails">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".bloodbank.bloodbank1">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+<activity android:name=".bloodbank.bloodbank2">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+<activity android:name=".bloodbank.bloodbank3">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+<activity android:name=".bloodbank.bloodbank4">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+<activity android:name=".bloodbank.bloodbank5">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ambulance.ambulance0">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".ambulance.ambulance1">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".ambulance.ambulance2">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".ambulance.ambulance3">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".ambulance.ambulance4">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity><activity android:name=".ambulance.ambulance5">
+            <intent-filter>
+                 <action android:name="android.intent.action.MAIN">
+
+                </action>
+                <category android:name="android.intent.category.DEFAULT">
+
+
+                </category>
+            </intent-filter>
+        </activity>
+
+
+
+
+
+
+
+
+    </application>
+
+</manifest>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Sylhet M A G Osmani Medical College
+Sylhet – 3100, Bangladesh
+Phone: [880] 821-726241-50, Ext.
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+DENTAL UNIT
+\n\n
+HEAD OF THE DEPARTMENT
+
+Dr. Md Mominul Hoque
+Contact No: [880]-821-726241-50, Ext.\n\n
+
+Assistant Professor\n\n
+Dr. Md Mominul Hoque\n\n
+Dr. Md Nurul Amin Miah\n\n
+Dr. Md Abul Kasem Mia\n\n
+Dr. Md Tofazzal Hossain\n\n
+
+DEPARTMENT OF OBS &amp; GYNEA\n\n
+
+HEAD OF THE DEPARTMENT
+
+Prof Dr. Morshed Ahmed Chowdhury
+Contact No: [880]-821-714368\n\n
+
+
+Professor\n\n
+Dr. Morshed Ahmed Chowdhury\n\n
+Professor Shamsun Nahar Begum\n\n
+Associate Professor\n\n
+Dr Dilip Kumar Bhoumic\n\n
+Dr Laila Parvin Banu\n\n
+Dr Anwara Begum\n\n
+Dr Nasrin Akter\n\n
+Dr Jahanara Begum\n\n\n\n
+Dr Zamila Khatu\n\n
+Assistant Professor\n\n
+Dr Kallol Bijoy Kar\n\n
+Dr Samar Kumar Ghosh\n\n
+Dr Nasima Akhter\n\n
+Dr Ishrat Jahan Karim\n\n
+Dr Kishoar Parvin\n\n
+
+DEPARTMENT OF SURGERY\n\n
+
+
+Dr. Dewan Ali Hassan Chowdhury
+Contact No: [880]-821-715594
+E-mail: dahassanchowdhury@gmail.com\n\n
+
+Professor\n\n
+Prof. Dr. Dewan Ali Hassan Chowdhury\n\n
+Associate Professor\n\n
+Dr SM Golam Rahman\n\n
+Assistant Professor\n\n
+Dr Abul Kalam Azad\n\n
+Dr Kazi Zane Alam\n\n
+Dr Abus Samad Azad\n\n
+DEPARTMENT OF MEDICINE\n\n
+HEAD OF THE DEPARTMENT
+
+Prof. Dr. Md. Ismail Patowary
+Contact No: [880]-821-716720
+E-mail: patwary_ismail@yahoo.com\n\n
+Professor\n\n
+Prof. Dr. Md. Ismail Patowary\n\n
+Prof Dr. A.F.M. Nazmul Islam\n\n
+Associate Professor\n\n
+Dr Shafiqul Bari\n\n
+Dr Moniruzzaman Ahmed\n\n
+Dr Shishir Ranjan Chakrabarty\n\n
+Dr Enayet Hossain\n\n
+Dr  MM Jahangir Alam\n\n
+Dr Md Hejbullah\n\n
+Dr Shadhu Uttam Kumar\n\n
+Assistant Professor\n\n
+Dr Ashfaqul Islam Chowdhury\n\n
+Dr Sk AHM Mesbahul Islam\n\n
+Dr Md Moinuddin\n\n
+DEPARTMENT OF CARDIOLOGY\n\n
+
+HEAD OF THE DEPARTMENT
+
+Dr. Muhammad Shahabuddin
+Contact No: [880]-821-726241-50, Ext.
+E-mail: shahabuddin8@gmail.com\n\n
+Associate Professor\n\n
+Dr. Muhammad Shahabuddin\n\n
+Assistant Professor\n\n
+Dr. S M Habibullah\n\n
+Dr Md Mokhlesur Rahman\n\n
+
+DEPARTMENT OF UROLOGY\n\n
+
+HEAD OF THE DEPARTMENT
+
+Contact No: [880]-2-726241-50, Ext.
+E-mail: prsingh_doct@ymail.com\n\n
+Associate Professor
+
+Assistant Professor\n\n
+Dr Md Abdul Alim\n\n
+Dr Md Shafiqul Islam\n\n
+
+
+
+
+
+
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+    </ScrollView>

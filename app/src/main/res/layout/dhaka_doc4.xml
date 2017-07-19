@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Bangabandhu Sheikh Mujib Medical University (BSMMU)
+
+Shahbag, Dhaka-1000.
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. Parveen Fatima
+MBBS, FCPS (Gynae  Obs))
+Post Graduate Award in A.R.T (UK)
+Professor of Infertility, Dept. of Obs.  Gynae
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 6pm—9pm, Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Noor Jahan Begum
+MBBS, DGO ,FCPS (Gynae  Obs)
+Assistant Professor, Dept. of Gynae  Obs
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 3pm—6pm, Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. M.Moazzam Hossain
+MBBS, FCPS, FRCP (Edin)
+Professor of Paediatric Nephrology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm,Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Sanjoy Kumer Dey
+MBBS, DCH, FCPS (Paed), MD (Neonatology)
+Assistant Professor, Dept of Neonatology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 5pm—7pm, Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. M.T.H Siddiqui Jamal
+MBBS, MS (Paediatric Surgery)
+Professor, Paediatric Surgery
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Samia Mubin
+MBBS (DMC), FCPS (Surgery)
+Assistant Professor of Surgery
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 3pm—5pm, Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Mohiuddin Osmani
+MBBS, FCPS (Medicine)
+Ex. Assistant Professor of Medicine
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9 pm, Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. A.H.Hamid
+MBBS ,MD (Nephrology)
+Assistant Professor of Urology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe Specialized Hospital
+Visiting hour: 3pm—5pm, Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. AKM Anwarul Islam
+MBBS, FCPS, FRCS, FICS
+Clinical Fellow in Urology (WHO)
+Professor of Urology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 8pm—9pm
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Akhlaque Hossain Khan
+MBBS, MS (Neurosurgery), Research Fellow (Japan)
+Associate Professor, Dept.of Neurology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe Specialized Hospital
+Visiting hour: 2pm—5m, Friday Closed
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi12"
+            android:layout_below="@id/docchi11"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Ahsan Habib
+MBBS, MD (Cardiology)
+Assistant Professor of Cardiology,
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe Hospital
+Visiting hour: 7pm—9:30pm, Friday Closed
+
+
+
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi13"
+            android:layout_below="@id/docchi12"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Shamim Ahmed
+MBBS (DMC), FCPS (Medicine), MD (Chest), FCCP (USA)
+Assistant Professor
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe Hospital
+Visiting hour: 7pm—9pm, Sat, Sun, Tue, Wed
+
+
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi14"
+            android:layout_below="@id/docchi13"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Lubna Khondoker
+MBBS, MPH, DDV(BSMMU), MCPS, FCPS(Dermatology)
+Assistant Professor of Dermatology
+Bangabandhu Sheikh Mujib Medical University
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Friday Closed
+
+
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi15"
+            android:layout_below="@id/docchi14"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. Iqbal Hossain
+MBBS, DMRD, FCPS (Radiology)
+Professor, Dept. of Radiology  Imaging
+Bangabandhu Sheikh Mujib Medical University
+
+"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi16"
+            android:layout_below="@id/docchi15"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Ziaul Haque
+MBBS, MD(Radiology)
+Assistant Professor, Dept. of Radiology  Imaging
+Bangabandhu Sheikh Mujib Medical University
+
+"
+
+
+            android:layout_centerHorizontal="true" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+    </ScrollView>

@@ -1,0 +1,138 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A.K.M. Mostofa Hossain
+Qualification :MBBS, DTCD, MD(Chest), FCP(USA)
+Expertise :Chest, Asthma &amp; Medicine Chest, Asthma &amp; Medicine
+Organization:National Institute of Chest Diseases &amp; Hospital Mohakhali, Dhaka
+Chamber:Medinova Medical Services
+Location:Hosaf Tower, 6/9 Outer Circular Road, Malibag, Dhaka-1217, Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Abdul Hamid
+Qualification :MBBS, DTCD, MRIT
+Expertise :Chest, Asthma &amp; Medicine Chest, Asthma &amp; Medicine
+Organization:City Hospital Ltd.
+Chamber:City Hospital Ltd.
+Location:1/8, Block-E, Lalmatia, Sat Masjid Road, Dhaka - 1217
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+
+            android:layout_below="@id/docchi2"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. K.C Ganguly
+Qualification :MBBS, DTCD, MD, FCPS, MCPS ( USA )
+Expertise :Chest, Asthma &amp; Medicine Chest, Asthma &amp; Medicine
+Organization:National Institute of Diseases of the Chest and Hospital (NIDCH)
+Chamber:Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Location:House # 5, Road # 2, Dhanmondi, Dhaka
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+
+            android:layout_below="@id/docchi3"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Kazi Mostafa Sarwar
+Qualification :MBBS, DTCD ( Dhaka ), DTCE ( Japan )
+Expertise :Chest, Asthma &amp; Medicine Chest, Asthma &amp; Medicine
+Organization:National Institute of Diseases of the Chest and Hospital (NIDCH)
+Chamber:Rainbow Heart Consultation Center Rainbow Heart Consultation Center
+Location:House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka - 1209
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />    <TextView
+            android:id="@+id/docchi5"
+
+            android:layout_below="@id/docchi4"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. M. A. Qasem
+Qualification :MBBS, DTCD, DTCT ( Japan )
+Expertise :Chest, Asthma &amp; Medicine Chest, Asthma &amp; Medicine
+Organization:National TB Control Project
+Chamber:Sigma Medical Services
+Location:Block - B, 22/12 Khilji Road, Mohammadpur, Dhaka - 1207, Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        </RelativeLayout>
+    </ScrollView>

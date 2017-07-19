@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Bangladesh Lions Eye Hospital
+Address:Lions Bhaban, Begum Rokeya Sarani, Agargaon, Dhaka, Bangladesh
+Phone   :+880-2-8110894, 9131990, 8157152
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Prof. Col. Dr. Md. Abdur Rouf Siddique
+Director General
+MBBS D.O. FCPS
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+Dr. Md. Mahbubar Rahman
+Associate Professor
+MBBS - 1980 DO - 1985 MPH (Oph)- 2006
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+Dr. Liakat Ali Talukder
+Associate Professor
+MBBS - 1982 DO - 1996 MPH (C.OPhth.)
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Shahidul Haque
+Associate Professor
+MBBS - 1976 DOMS - 1984 MPH - 2010
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+Dr. Zakia Wadud
+Associate Professor
+MBBS,FCPS
+
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Rezaul Karim
+Assistant Professor
+MBBS 1982 MCPS(Opth)-1996 DO Passed 1997
+
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Bibekananda Biswas
+Associate Professor
+MBBS,DO,FCPS
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Sabrina Rahmatullah
+Assistant Professor
+MBBS,FCPS
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Maliha Sharmin
+Assistant Professor
+MBBS FCPS
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Sohana Sharmin Gazi
+Sr. Medical Officer
+MBBS - 1997 DO - 2008 MCPS-2008 \n\n\n
+Dr. Abul Hossain
+Sr. Consultant
+MBBS – 1986 DO - 2001 \n\n\n
+Dr. Md. Abu Afza
+Jr. Consultant
+MBBS - 1978 DOMS - 1983   \n\n\n
+Dr. Rinku Paul
+Jr. Consultant
+MBBS - 2001 DO - 2009  \n\n\n
+Dr. Taslima Mazid
+Sr. Consultant
+MBBS,MCPS,FCPS  \n\n\n
+Dr. Rejaul Karim
+Sr. Medical Officer
+MBBS - 1970  \n\n\n
+
+Dr. A.H.M. Ehsanur Reza
+Asst. Registrar
+MBBS \n\n\n
+Dr. Shajeda Akter
+Medical Officer
+MBBS\n\n\n
+
+Dr. Md. Atiqur Rahman
+Medical Officer
+MBBS\n\n\n
+
+Dr. Kakoli Dey
+Medical Officer
+MBBS\n\n\n
+
+Dr. F.M.A.H. Maria
+Medical Officer
+MBBS\n\n\n
+
+Dr. Md. Shafayet Jamil Mithu
+Medical Officer
+MBBS\n\n\n
+
+Dr. Hanif Md. Rakibul Ha
+Medical Officer
+MBBS\n\n\n
+
+Dr. Ismail Hossain
+Medical Officer
+MBBS\n\n\n
+
+Dr. Col.(Retd) Ashraful Haque
+Senior Consultant (Medicine)
+MBBS\n\n\n
+
+Dr. Kamal Sultan
+Pathology Consultant
+MBBS, M. Phil (Path)\n\n\n
+
+Dr. A.F.M Saifur Rahman
+Anesthesiology Consultant
+MBBS\n\n\n
+
+Dr. Faria Khirun
+Dental Surgeon
+BDS\n\n\n
+
+Dr. Tapan Kumar Gosh
+Dental Surgeon
+BDS\n\n\n
+
+Dr. Md. Fardous Rahman
+Dental Surgeon
+BDS
+
+
+
+"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+    </ScrollView>

@@ -1,0 +1,305 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A K M Hamidur Rahman
+Qualification :MBBS, DMRT
+Expertise :Cancer - Oncology
+Organization:Ibn Sina Diagnostic &amp; Imaging CenterSMMU
+Chamber:Ibn Sina Diagnostic &amp; Imaging Center
+LocationHouse # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. A.B.M.F. Karim
+Qualification :MBBS, FRCR, PhD
+Expertise :Cancer - Oncology
+Organization:Oncology Club &amp; Editorial Board of Cancer Control Journal
+Chamber:Japan Bangladesh Friednship Hospital
+Location:55, Satmasjid Road ( Zigatola Bus Stand ), Dhanmondi, Dhaka - 1209, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Ehteshamul Haque
+Qualification :MBBS, BCS ( Health ), M.Phil(Radiotherapy) .
+Expertise :Cancer - Oncology
+Organization:Ahsania Mission Cancer &amp; General Hospital
+Chamber:Plot no - M-1/C, Section - 14, Mirpur, Dhaka - 1206
+Location:M-1/C, Section - 14, Mirpur, Dhaka - 1206
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Ishtiak Ahmed shamim
+Qualification :MBBS(Dhaka),Ph.D(Japan)
+Expertise :Cancer - Oncology
+Organization:Bangabandhu Sheikh Mujib Medical University (BSMMU)
+Chamber:City Hospital Ltd.
+Location:1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Lutfun Naher
+Qualification :MBBS, M Phil(Radiotherapy)
+Expertise :Cancer - Oncology
+Organization:Delta Medical College &amp; Hospital
+Chamber:Delta Medical College &amp; Hospital
+Location:26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka- 1212, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. M A Hashem
+Qualification :MBBS, FCPS
+Expertise :Cancer - Oncology
+Organization:Sir Salimullah Medical College &amp; Hospital
+Chamber:Green View Clinic
+Location:25/3, Green Road, Dhaka, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr.(Lt. Col) M S Sarwar Alam
+Qualification :MBBS, DMRT, FCPS, OJT-LiNAC(German)
+Expertise :Cancer - Oncology
+Organization:Delta Medical College &amp; Hospital
+Chamber:Delta Medical College &amp; Hospital
+Location:26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka- 1212, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Masuda Begum Dr. Masuda Begum
+Qualification :MBBS, FCPS)
+Expertise :Cancer - Oncology
+Organization:Bangabandhu Sheikh Mujib Medical University (BSMMU), Shahbagh, Dhaka
+Chamber:Central Hospital Limited
+Location:House # 5, Road # 2, Dhaka - 1205, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Md. Abul Ahsan ( Didar )
+Qualification :MBBS, MPH, MD ( Radiotheraphy )
+Expertise :Cancer - Oncology
+Organization:National Cancer Institute &amp; Hospital, Dhaka, Bangladesh
+Chamber:Japan Bangladesh Friednship Hospital
+Location:55, Satmasjid Road ( Zigatola Bus Stand ), Dhanmondi, Dhaka - 1209, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Md. Ehteshamul Haque
+Qualification :MBBS, BCS(Health), M. Phil, Cancer Specialist (Radiotherapy),
+Expertise :Cancer - Oncology
+Organization:ational Institute of Cancer Research &amp; Hospital
+Chamber:City Hospital Ltd.
+Location:1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Md. Moarraf Hossain
+Qualification :MBBS, FCPS, DMRT
+Expertise :Cancer - Oncology
+Organization:National Institute of Cancer Research and Hospital, Dhaka
+Chamber:Labaid Cardiac Hospital
+Location:House # 1, Road # 4, Dhanmondi, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi12"
+            android:layout_below="@id/docchi11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. Lt. Col. Md. Mofazzel Hossain
+Qualification :MBBS, FCPS ( Med. ), FACP ( USA ), FRCP ( Edin )
+Expertise :Cancer - Oncology
+Organization:Bangladesh Medical College &amp; Hospital - Dhanmondi, Dhaka
+Chamber:Labaid Specialized Hospital
+Location:House # 1, Road # 4, Dhanmondi, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi13"
+            android:layout_below="@id/docchi12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Md. Salim RezaDr. Md. Salim Reza
+Qualification :MBBS ( CU ) , DMRT, FCPS ( Radiotheraphy)
+Expertise :Cancer - Oncology
+Organization:Ahsania Mission Cancer Hospital
+Chamber:Conscious Health Services Ltd
+Location:House # 25A, Road # 6, Dhanmondi R/A, Dhaka-1205, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi14"
+            android:layout_below="@id/docchi13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Muhammad Tawfique
+Qualification :MBBS (DMC), MD (Ped.) MD (Ped. Haematology &amp; Oncology)
+Expertise :Cancer - Oncology
+Organization:SQUARE Hospitals Ltd.
+Chamber:SQUARE Hospitals Ltd.
+Location:18/F West Panthapath, Dhaka-1205, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        </RelativeLayout>
+    </ScrollView>

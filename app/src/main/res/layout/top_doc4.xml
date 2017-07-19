@@ -1,0 +1,302 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. AKM Mamunur Rashid
+Qualification :MBBS, DCO, MPH
+Expertise :Eye ( Ophthalmology )
+Organization:Mojibunnessa Eye Hospital Ltd
+Chamber:Mojibunnessa Eye Hospital Ltd.
+Location:House # 18, Road # 6, Dhanmondi R/A, Dhaka -1205, Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Deen Mohd. Noorul Huq
+Qualification :MBBS, FCPS
+Expertise :Eye ( Ophthalmology )
+Organization:National Institue of Ophthalmology
+Chamber:Mojibunnessa Eye Hospital Ltd.
+Location:House # 18, Road # 6, Dhanmondi R/A, Dhaka -1205, Bangladesh
+
+"
+            android:textColor="@color/colorPrimary"
+
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Halima Saidya Begum
+Qualification :MBBS, DO ( DU )
+Expertise :Eye ( Ophthalmology )
+Organization:National Institute of Opthalmology &amp; Hospital ( NIOH )
+Chamber:Fashion Eye Hospital Ltd.
+Location:Fashion tower, 98/6-A, Bara Moghbazar, Dhaka - 1217"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Hiramoni Sarma
+Qualification :MBBS, DOMS, Fellow Retinal lasers
+Expertise :Eye ( Ophthalmology )
+Organization:SQUARE Hospital Ltd, Dhaka, Bangladesh
+Chamber:SQUARE Hospitals Ltd.
+Location:18/F Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka - 1205, Bangladesh."
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Jasim Uddin
+Qualification :MBBS, DO, FICO ( UK ) , PhD ( London )
+Expertise :Eye ( Ophthalmology )
+Organization:Islami Bank Central Hospital
+Chamber:Islami Bank Central Hospital
+Location:30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Khurshid AlamDr. Khurshid Alam
+Qualification :MBBS, FCPS ( Eye), MS ( Eye)
+Expertise :Eye ( Ophthalmology )
+Organization:United Hospital Limited
+Chamber:United Hospital Limited
+Location:Plot # 15, Road # 71, Gulshan 2, Dhaka-1212 , Bangladesh"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. M. Golam Rabbi ( Palash )
+Qualification :MBBS, PGT
+Expertise :Eye ( Ophthalmology )
+Organization:Fashion Eye Hospital Ltd.
+Chamber:Fashion Eye Hospital Ltd.
+Location:30, Anjuman-e-Mofidul Islam Road, Kakraik, Dhaka - 1000"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Manash Kumar Goswami
+Qualification :MBBS, MD, DO, MS
+Expertise :Eye ( Ophthalmology )
+Organization:BIRDEM, Shahbagh, Dhaka, Bangladesh
+Chamber:Central Hospital Limited
+Location:House # 5, Road # 2, Dhaka - 1205, Bangladesh"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Md. Fakhrul Islam
+Qualification :MBBS, MCPS ( Ophthalmology ), MS ( Ophthalmology )
+Expertise :Eye ( Ophthalmology )
+Organization:Northern International Medical College &amp; Hospital
+Chamber:Northern International Medical College &amp; Hospital
+Location:House # 84, Road # 8/A ( New ), Dhanmondi, Dhaka - 1209"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Md. Muktadur Rahman
+Qualification :MBBS, DO ( DU )
+Expertise :Eye ( Ophthalmology )
+Organization:Fashion Eye Hospital Ltd.
+Chamber:Fashion Eye Hospital Ltd.
+Location:98/6-A, Bara Moghbazar, Dhaka - 1217"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Md. Mustafizur Rahman ( Ranju )
+Qualification :MBBS, MS ( Opthalmology )
+Expertise :Eye ( Ophthalmology )
+Organization:National Institute Of Opthalmology &amp; Hospital
+Chamber:Ahmed Medical Center ( Deen Eye Care &amp; Research Institue )
+Location:House # 71, Road # 15/A, Sankar Bustand , Dhanmondi, R/A, Dhaka - 1209, Bangladesh"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi12"
+            android:layout_below="@id/docchi11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Mohibul karim Dr. Mohibul karim
+Qualification :MBBS, Ph.D ( Japan ), FICA ( USA )
+Expertise :Eye ( Ophthalmology )
+Organization:Fashion Eye Hospital Ltd.
+Chamber:Fashion Eye Hospital Ltd.
+Location:98/6-A, Bara Moghbazar, Dhaka - 1217, Bangladesh "
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi13"
+            android:layout_below="@id/docchi12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Sajjad Abdul Khaleque
+Qualification :MBBS, FCPS ( Eye )
+Expertise :Eye ( Ophthalmology )
+Organization:IBCH
+Chamber:Islami Bank Central Hospital
+Location:30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi14"
+            android:layout_below="@id/docchi13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text=
+"Doctor's Name:Dr. Sarwar AlamDr. Sarwar Alam
+Qualification :MBBS, DO, FCPS
+Expertise :Eye ( Ophthalmology )
+Organization:Islamia Eye Hospital, Farmgate, Dhaka
+Chamber:Anwer Khan Modern Hospital Ltd.
+Location:House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        </RelativeLayout>
+    </ScrollView>

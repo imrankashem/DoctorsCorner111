@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp">
+
+
+    <TextView
+        android:id="@+id/docchi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="center"
+        android:text="Chittagong Diabetic Hospital
+Zakir Hossain Road, Khulshi, Chittagong
+Phone: 031-659435-7
+"
+        android:textAllCaps="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/colorPrimaryDark"
+        android:backgroundTintMode="screen"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        android:visibility="visible" />
+
+
+    <TextView
+        android:id="@+id/docchi1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/docchi"
+        android:layout_marginTop="17dp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="Dr. Masud Karim
+MBBS, DEM (Birdem)
+Jr. Consultatnt (Hormone)
+Chittagong Diabetic Hospital\n"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+    <TextView
+        android:id="@+id/docchi2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/docchi1"
+        android:layout_marginTop="17dp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="Dr. Nargis Rojela
+MBBS, DGO
+Consultant (Gynae)
+Chittagong Diabetic Hospital\n"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+    <TextView
+        android:id="@+id/docchi3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/docchi2"
+        android:layout_marginTop="17dp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="
+Dr. Md. Salimullah
+MBBS, D-Card
+Jr. Consultant (Cardiac)
+Chittagong Diabetic Hospital\n"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+    <TextView
+        android:id="@+id/docchi4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/docchi3"
+        android:layout_marginTop="17dp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="
+Dr. Ratan Kanti Saha
+MBBS, CCD, MD
+Consultant (Nephrology)
+Chittagong Diabetic Hospital\n"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+    <TextView
+        android:id="@+id/docchi5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/docchi4"
+        android:layout_marginTop="17dp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="
+Dr. Rasheda Begum
+MBBS, DCH, CCD (Birdem)
+Jr. Consultant (Child)
+Chittagong Diabetic Hospital\n"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/docchi6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/docchi5"
+        android:layout_marginTop="17dp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="Dr, Md. Abdul Mukit
+MBBS, D-Ortho
+Junior Consultant (Orthopadic)
+Chittagong Diabetic Hospital\n"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+    <TextView
+        android:id="@+id/docchi7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/docchi6"
+        android:layout_marginTop="17dp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="Dr. Md. Abdullah Chy.
+MBBS, BSC, DMU (DU), CMU, CCD
+(USA), C-ULTRA,EDC,AP(BIRDEM)
+Senior Consultant (USG)
+Chittagong Diabetic Hospital\n"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+    <TextView
+        android:id="@+id/docchi8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/docchi7"
+        android:layout_marginTop="17dp"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:text="Dr. Ashim Kumar Chy.
+MBBS, DDV (BSMMU)
+Medical Officer (Dermatology)
+Chittagong Diabetic Hospital\n"
+        android:textColor="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
+        android:textSize="24sp" />
+
+
+</RelativeLayout>
+
+</ScrollView>

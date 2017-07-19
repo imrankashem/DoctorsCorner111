@@ -1,0 +1,33 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Medicine Cabinet "
+        android:id="@id/docchi"
+        android:padding="10dp"
+        android:textSize="23sp"
+        android:gravity="center"/>
+
+
+    <ExpandableListView
+        android:id="@+id/expandableListViewmedicine"
+        android:layout_below="@id/docchi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/cardview_dark_background"
+        android:dividerHeight="5dp"
+        android:clickable="true"
+        android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+        />
+
+</RelativeLayout>

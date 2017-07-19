@@ -1,0 +1,254 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. A. F. M. Selim
+Qualification :  MBBS, MD, FCPS , Phd ( London )
+Expertise : Pediatric - Child
+Organization:  Institute of Child Health ( ICH ) , Shishu Hospital - Dhaka, Bangladesh
+Chamber: Central Hospital Limited
+Location:House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi2"
+                    android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. Abu Sayeed Mohammad Iqbal
+Qualification :  MBBS, FCPS, MD, Fellow (Singapore)
+Expertise : Pediatric - Child
+Organization:  Apollo Hospitals Dhaka
+Chamber: Apollo Hospitals Dhaka
+Location: Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi3"
+                    android:layout_below="@id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:   Dr. Begum Sharifun Nahar
+Qualification :   MBBS, BCS, FCPS (Ped), MD (DU)
+Expertise : Pediatric - Child
+Organization:  Bangabandhu Sheikh Mujib Medical University (BSMMU
+Chamber:   Comfort Diagnostic Centre &amp; Comfort Nursing Home - Green Road
+Location:    Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi4"
+                    android:layout_below="@id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:  Dr. A B M Shahidul Alam
+Qualification :     MBBS, MCPS, DCH, FCPS
+Expertise : Pediatric - Child
+Organization:  Central Hospital, Dhaka
+Chamber:   Central Hospital, Dhaka
+Location:    House # 5, Road # 2, Dhaka - 1205, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi5"
+                    android:layout_below="@id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. Syed Khairul Amin
+Qualification : MBBS, DCH ( Glasgo ), MRCP ( UK )
+Designation : Professor
+Expertise : Child - Pediatric
+Organization: Bangladesh Institute of Child Health ( NICH )
+Chamber: Labaid Specialized Hospital
+Location: House # 6, Road # 4, Dhanmondi, Dhaka - 1205
+Phone: + 880-2-9676356, 8610793-8
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi6"
+                    android:layout_below="@id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. A. F. M. Selim
+Qualification : MBBS, MD, FCPS , Phd ( London )
+Designation : Deputy Director ( Academic )
+Expertise : Child - Pediatric
+Organization: Institute of Child Health ( ICH ) , Shishu Hospital - Dhaka, Bangladesh
+Chamber: Central Hospital Limited
+Location: House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi7"
+                    android:layout_below="@id/docchi6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. Md. Zahid Hossain
+Qualification : MBBS, FCPS ( Child ) ,
+MD ( Child ), MD ( Cardiology )
+Designation : Professor
+Expertise : Pediatric Pulmonology
+Organization: Bangabandhu Sheikh Mujib Medical University (BSMMU)
+Chamber: Central Hospital Limited
+Location: House # 5, Road # 2, Dhaka - 1205, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi8"
+                    android:layout_below="@id/docchi7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. Md. Mizanur Rahman
+MBBS,FCPS
+Child Neurologist.
+Professor &amp; Head,
+Child Neurology
+BSMMU
+Chamber: Central Hospital Limited
+House # 2, Road # 5, Green Road
+Dhanmondi, Dhaka."
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi9"
+                    android:layout_below="@id/docchi8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. Md. Habibur Rahman
+Qualification : MBBS, MD, FCPS ( Child ) , WHO Fellow
+Designation : Professor
+Expertise : Child - Pediatric
+Organization: Bangabandhu Sheikh Mujib Medical University (BSMMU), Shahbagh, Dhaka
+Chamber: Central Hospital Limited
+Location: House # 2, Road # 5, Room no - 810, Green Road, Dhanmondi, Dhaka - 1205, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi10"
+                    android:layout_below="@id/docchi9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. Afiqul Islam
+Qualification : MBBS, FCPS, MD
+Designation : Professor
+Expertise : Child - Pediatric
+Organization: Bangabandhu Sheikh Mujib Medical University ( BSMMU )
+Chamber: Labaid Specialized Hospital - Gulshan Branch
+Location: House # 13/A, Road # 35, Gulshan # 2, Dhaka-1212
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+                <TextView
+            android:id="@+id/docchi11"
+                    android:layout_below="@id/docchi10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Professor Dr. L.E. Fatmi
+Qualification : MBBS, FCPS ( Pediatric )
+Designation : Professor
+Expertise : Child - Pediatric
+Organization: Dhaka Medical College &amp; Hospital
+Chamber: Monowara Hospital (pvt) Ltd
+Location: 54, Siddeshwari Road, Dhaka- 1217
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+        </RelativeLayout>
+    </ScrollView>

@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Apollo Hospitals Limited
+Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229
++880-2-8401661, 8845242"
+          android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Abdul Mannan Sarker
+MBBS, DEM (DU), MD (Endocrinology)
+Consultant
+Diabetes  Endocrine
+Apollo Hospitals Dhaka"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Abdullah Al Mamun
+MBBS, FCPS (Medicine), MACP ( USA ), FACP
+Consultant
+Internal Medicine
+Apollo Hospitals Dhaka"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Abu Sayeed Mohammad Iqbal
+MBBS, FCPS, MD, Fellow (Singapore), Neonatal Training in Singapore Australia
+Coordinator  Senior Consultant
+Child - Pediatric
+Apollo Hospitals Dhaka"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Alim Akther Bhuiyan
+MBBS, DTMH (UK), MD (USA), Post Doctoral Fellowship in Epilepsy and
+Clinical Neuro-physiology (USA), US Board Certified in Neurology
+Coordinator  Consultant
+Neuromedicine
+Apollo Hospitals Dhaka"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Professor Dr. Anisur Rahman
+MBBS (DMC), M.Sc (Canada), FCPS (Surgery), FRCS (Glasgow, UK)
+Consultant
+General  Laparoscopic Surgeon
+Apollo Hospitals Dhaka
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi7"
+        android:layout_below="@id/docchi6"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:text="
+Professor Dr. Anisur Rahman
+MBBS (DMC), M.Sc (Canada), FCPS (Surgery), FRCS (Glasgow, UK)
+Coordinator  Senior Consultant
+General  Laparoscopic Surgeon
+Apollo Hospitals Dhaka
+"
+        android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi8"
+            android:layout_below="@id/docchi7"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Arun Dodhu Patole
+MBBS, MS, DORL (Mumbai), Fellow A.I.N.OT (Italy)
+Consultant
+ENT - Ear, Nose  Throat
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi9"
+        android:layout_below="@id/docchi8"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:text="
+Dr. Azfar Uddin Shaikh
+MBBS. MS (DMC), MS (Urology), FSUA (Singapore)
+Consultant
+Urology
+Apollo Hospitals Dhaka
+"
+        android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. bdullah Al Mamun
+MBBS, FCPS (Medicine), MACP ( USA ), FACP
+Senior Consultant
+Rheumatology
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Golam Mohiuddin Chowdhury
+BDS, Post Graduate Course (OMS), FCPS (OMS)
+Consultant
+Dental  Maxillofacial Surgeon
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi12"
+            android:layout_below="@id/docchi11"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Gulshan Ara
+MBBS, MCPS, MS (Obs./Gynae.), FCPS, Trained in Advanced Laparoscopic Surgery (India)
+Consultant
+Gynecology  Obstetrics
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi13"
+            android:layout_below="@id/docchi12"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Kazi Hasinur Rahman
+BDS, MS (Phrosthodontics)
+Consultant
+Dental  Maxillofacial Surgeon
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi14"
+            android:layout_below="@id/docchi13"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Professor Dr. Kazi Mesbahuddin lqbal
+MBBS, DA, FFARCS (Ireland), FRCA (U
+Coordinator  Senior Consultant
+Anesthesiology
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi15"
+            android:layout_below="@id/docchi14"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Krishna Mohan Sahu
+MBBS, MD (Med.), DNB (Nephrology), DM (Nephrology), Fellowship (Nephrology) Canada
+Consultant
+Kidney ( Nephrology )
+Apollo Hospitals Dhaka
+
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi16"
+            android:layout_below="@id/docchi15"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Lutful Aziz
+MBBS, PhD (Japan), FCPS
+Consultant
+Anesthesiology
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi17"
+            android:layout_below="@id/docchi16"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+Dr. M. Ali
+MBBS, MS (Ortho.), Fellow (Sports Medicine), Fellow (Joint Replacement)
+Consultant
+Orthopaedic
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi18"
+        android:layout_below="@id/docchi17"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:text="
+Dr. M. Quamrul Hassan
+MBBS, FCPS (Paediatrics)
+Senior Consultant
+Child - Pediatric
+Apollo Hospitals Dhaka
+
+
+"
+        android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi19"
+            android:layout_below="@id/docchi18"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. M. Quamrul Islam Talukder
+MBBS, FCPS, MD (USA), FCVS (USA), Advanced Fellowship in Cardiovascular Surgery (Mayo Clinic, USA)
+Consultant
+Cardiovascular Thoracic Surgeon
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi20"
+            android:layout_below="@id/docchi19"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+Dr. Mahmood Hasan
+MBBS, FCPS (Psychiatry)
+Consultant
+Psychiatry
+Apollo Hospitals Dhaka
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi21"
+            android:layout_below="@id/docchi20"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Professor Dr. Mathew J. Chandy
+MBBS, MS (Gen. Surgery), M.Ch. (Neurosurgery), MNAMS, FICS, FRSM, FAMS
+Coordinator  Senior Consultant
+Neurosurgeon
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi22"
+            android:layout_below="@id/docchi21"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Azharul Islam
+MBBS, FCPS ( Anaesthesia)
+Senior Consultant
+Anesthesiology
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi23"
+            android:layout_below="@id/docchi22"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Hafizur Rahman Ansary
+MBBS, DMRT
+Consultant
+Radiology
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi24"
+            android:layout_below="@id/docchi23"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Moarraf Hossen
+MBBS, DMRT, FCPS (Radiotherapy), Fellowship Training (India)
+Consultant
+Radiology
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi25"
+            android:layout_below="@id/docchi24"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Professor Dr. Md. Moniruzzaman
+MBBS, GC (Pathology), MCPS (Clinical Pathology), FCPS (Haematology)
+Consultant
+Hematology
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi26"
+            android:layout_below="@id/docchi25"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Md. Muzibur Rahman Bhuiyan
+MBBS, FCPS (Medicine), MD (Gastroenterology)
+Senior Consultant
+Gastroenterology
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi27"
+            android:layout_below="@id/docchi26"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+            Dr. Md. O.F.G. Kibria
+MBBS, MS (Ortho.)
+Consultant
+Orthopaedic
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi28"
+            android:layout_below="@id/docchi27"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+Dr. Md. Sadiqul Islam
+MBBS, FCPS (Medicine) Post Graduate Training in Rheumatology (England)
+Consultant
+Rheumatology
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi29"
+            android:layout_below="@id/docchi28"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Sadiqul Islam
+MBBS, FCPS (Medicine), Post Graduate Training in Rheumatology (England)
+Consultant
+Internal Medicine
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi30"
+            android:layout_below="@id/docchi29"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Professor Dr. Md. Shah Alam
+MBBS, FCPS
+Consultant
+Psychiatry
+Apollo Hospitals Dhaka
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi31"
+            android:layout_below="@id/docchi30"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Professor Dr. Md. Shahabuddin Talukder
+MBBS, D.Card (DU), FCPS (Medicine)
+Coordinator  Consultant
+Cardiology
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi32"
+            android:layout_below="@id/docchi31"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Professor Dr. Md. Shahid Karim
+MBBS, FCPS, FICS (USA)
+Coordinator  Senior Consultant
+Pediatric Surgeon
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi33"
+            android:layout_below="@id/docchi32"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Waheeduzzaman
+MBBS, FCPS (Surgery)
+Senior Consultant
+Neurosurgeon
+Apollo Hospitals Dhaka
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi34"
+            android:layout_below="@id/docchi33"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Md. Zulfiqur Haider
+MBBS, MS (Cardiothoracic Vascular Surgery)
+Consultant
+Cardiovascular Thoracic Surgeon
+Apollo Hospitals Dhaka
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi35"
+            android:layout_below="@id/docchi34"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Mohammed Fazlul Kabir
+MBBS, NM Fellow (IAEA, USA)
+Consultant
+Nuclear Medicine
+Apollo Hospitals Dhaka
+
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi36"
+            android:layout_below="@id/docchi35"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Professor Dr. Mohammed Istiaque Hossain
+MBBS (DMC), DCH (Scotland), MRCP (UK), SBE (KSA), FRCP (Edin)
+Senior Consultant
+Child - Pediatric
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi37"
+            android:layout_below="@id/docchi36"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Mohammed Mohiuddin Araf
+MBBS (India), MD (AIIMS, India)
+Head, Physical Medicine  Rehabilitation
+Physical Medicine
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi38"
+            android:layout_below="@id/docchi37"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Monowara Begum
+MBBS, FCPS (BCPS), MS (Obs./Gynae.), Trained in Advanced Laparoscopic Surgery (India)
+Coordinator Senior Consultant
+Gynecology Obstetrics
+Apollo Hospitals Dhaka
+
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi39"
+            android:layout_below="@id/docchi38"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Mrinal Kumar Sarker
+MBBS, DGO, FCPS, Fellow Reproductive Medicine  Assisted Reproductive Techniques (KKIV, Singapore)
+Coordinator Senior Consultant
+Gynecology Obstetrics
+Apollo Hospitals Dhaka
+
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi40"
+            android:layout_below="@id/docchi39"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Nandkumar Katakdhond
+MBBS, MS (Ortho.), SICOT Diploma Visiting Fellow Harvard Shoulder Service, Massachusetts General Hospital, Boston, USA
+Coordinator      Consultant
+Orthopaedic
+Apollo Hospitals Dhaka
+
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi41"
+            android:layout_below="@id/docchi40"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Shams Munwar
+MBBS, MRCP (UK), FRCP (London), D.Card (London)
+Consultant
+Cardiology
+Apollo Hospitals Dhaka
+
+
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi42"
+            android:layout_below="@id/docchi41"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Sharad Dayadhan Sonawane
+MBBS, MD (Medicine)
+Consultant
+Internal Medicine
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi43"
+            android:layout_below="@id/docchi42"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Dr. Vinod Thampi
+MBBS, MD, DM (Neuro.), MDHA
+Consultant
+Neuromedicine
+Apollo Hospitals Dhaka
+
+
+"
+            android:layout_centerHorizontal="true" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+    </ScrollView>

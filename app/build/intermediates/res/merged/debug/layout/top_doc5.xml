@@ -1,0 +1,116 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A H M Rowshon
+Qualification :MBBS, FCPS (Med.), MD(Gastro), Commonwealth Fellow-gastro (UK)
+Expertise :Liver &amp; Gastroenterology
+Organization:Shaheed Suhrawardy Medical College &amp; Hospital
+Chamber:Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A.K.M. Shamsul kabir
+Qualification :MBBS (DMCH), FCPS (Medicine), MD (Hepatology)
+Expertise :Liver &amp; Gastroenterology
+Organization:Holy Family Red Crescent Medical College Hospital
+Chamber:Labaid Specialized Hospital - Gulshan Branch
+Location:House# 13/A, Road # 35, Gulshan # 2, Dhaka-1212
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. M. T. Rahman
+Qualification :MBBS, FCPS, Trained in France &amp; Japan
+Expertise :Liver &amp; Gastroenterology
+Organization:Popular Diagnostic Center Ltd.
+Chamber:Popular Diagnostic Center Ltd.
+Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. Md. Masihur Rahman
+Qualification :MBBS, PhD, ACT(Japan)
+Expertise :Liver &amp; Gastroenterology
+Organization:	Northern International Medical College &amp; Hospital
+Chamber:Doctors Diagnostic Center Ltd.
+Location:Road # 7, Dhanmondi, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Brig. General Md. Mokhlesur Rahman
+Qualification :MBBS, FCPS, Fellow ( Gastro )
+Expertise :Liver &amp; Gastroenterology
+Organization:	Combined Military Hospital ( CMH ), Dhaka
+Chamber:Ibn Sina Diagnostic &amp; Imaging Center
+Location:House # 48, Road # 9/A, Satmasjid Road, Dhanmondi, Dhaka - 1209, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        </RelativeLayout>
+    </ScrollView>

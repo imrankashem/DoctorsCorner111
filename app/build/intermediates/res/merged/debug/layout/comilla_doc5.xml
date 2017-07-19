@@ -1,0 +1,261 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Moon Specialized Hospital Ltd
+Address: Shahid Khawaja Nizamuddin Rd, Comilla 3500, Bangladesh
+Phone: +880 816-5471
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Nephrology (Kidney) Department\n\n
+
+Professor Dr. Delip Kumar Ray
+MBBS, FCPS (Medicine), MD (Nephrology), Senior Fellowship in Nephrology (Singapore)
+For Appointment
++88 01714473231 \n\n
+Dr. Bablu Kumar Pal​
+MBBS, BCS (Health), MD (BSMMU, Dhaka)
+For Appointment
++88 01722316208​\n\n
+
+Orthopaedics Department\n\n
+
+Professor Dr. Syed Anwaruzzaman
+MBBS, MS (Ortho), Member of AO Trauma Switzerland
+Professor (Comilla Medical College  Hospital)
+Orthopaedics &amp; Trauma
+​​For Appointment: 08:00 AM to 09:00 AM
++88 01796215368\n\n
+
+Dr. Md Ashraf ul Matin (Sagor)
+MBBS, MS (Ortho Surgery), D-Ortho, BCS (Health)
+Comilla Medical College &amp;Hospital
+Orthopaedics, Trauma &amp; Spine Surgeon
+​For Appointment
++88 01673236771\n\n
+
+Dr. Liton Kumar Ray
+MBBS, MS (Orthopaedics)
+Assistant Professer (Comilla Medical College  Hospital)
+Orthopaedics &amp; Trauma
+​For ​Appointment
++88 01760422511\n\n
+Neurology Department\n\n
+
+Dr. Abdullah Al Hasan
+MBBS, BCS (Health), FCPS (Internal Medicine), MD (Neuro Medicine)
+Comilla Medical College &amp; Hospital​
+Neuro Medicine
+​For Appointment
++88 01842365430\n\n
+RESPIRATORY DEPARTMENT\n\n
+
+Dr. Golam Sarowar
+MBBS, MD (Chest), WHO Fellow (France)
+Assistant Professor (Respiratory Medicine)
+Respirologist
+​​For Appointment:
++88 01719911865\n\n
+Dermatology  Department\n\n
+
+Professor Dr. Mohammad Abdul Mannan
+MBBS, DDV (DU)
+​Professor (Comilla Medical College &amp; Hospital​)
+​Dermatologist (Skin Specialist)
+​For Appointment: 08.00 AM to 09.00 AM
+ 88 01777951677\n\n
+Dr. Mohd Nuzrul Islam Shaheen
+MBBS, DDV (PG Hospital), DSF (National University Hospital, Singapore)
+​Assistant Professor (Mainamoti Medical College Hospital​)
+Dermatologist (Skin Specialist)
+​For Appointment
++88 01773617147\n\n
+
+Ophthalmology Department\n\n
+
+Dr. Mohammad Nazmus Sadat Pilu
+MBBS, DO, FCPS (Eye)
+Assistant Professor (Comilla Medical College &amp; Hospital)
+Ophthalmologist
+​For Appointment
++88 01705648902\n\n
+Gastroenterology Department\n\n
+
+Dr. Mohammad Izazul Hoque
+
+
+MBBS, BCS (Health), FCPS (Medicine), MD (Hepatology)
+Associate Professor &amp; Head Department of Hepatology (Comilla Medical College &amp; Hospital)
+Hepatologist, Liver Disease &amp; Medicine Specialist
+​​For ​Appointment
++88 01816368773
++88 01815004681 (Only Friday)\n\n
+
+Dr. Mohammad Jakir Hossain
+MBBS (Dhaka), BCS (Health), MD (Gastroenterology) (Gastro-Liver Diseases) From BSMMU (PG Hospital)
+Assistant Professor (Department of Gastroenterology), Comilla Medical College &amp; Hospital.
+Gastroenterologist &amp; Hepatologist
+For ​Appointment
++88 01717648307\n\n
+
+Dr. Mohd Jamal Salah Uddin Arzu
+
+MBBS, MS (Paediatric Surgeon)
+Assistant Professor
+Paediatric Surgeon
+​​For Appointment
++88 01721610862
+​Consulting Room Number: 215 @ 2nd Floor
+Everyday, Morning 00.00 AM to Afternoon 00.00 PM\n\n
+
+Dr. Naznin Akter
+​MBBS, BCS (Health) FCPS (Paed)
+Comilla Medical College &amp; Hospital
+Paediatrics
+​​​For Appointment
++88 01717479878
+​Consulting Room Number:​ 219 @ 2nd floor
+Everyday, Afternoon 03.00 AM to Night 08.00 PM\n\n
+
+Dr. Mohd Jashim Uddin
+
+
+​MD, Ph.D (Paed) (Moscow) Child Specialist
+​​Assistant Professor (Mainamoti Medical College  Hospital​)
+Paediatrics
+​For ​Appointment
++88 01721727343
+​Consulting Room Number: 605 @ 6th floor
+Everyday, Morning 09.00 AM to Afternoon 02.00 PM
+Everyday, Evening 05.00 PM to Night 8.00 PM\n\n
+
+Dr. Mia Monjur Ahmed
+
+MBBS, BCS (Health), DCH (BSMMU, PG Hospital)
+Child Specialist
+Paediatrics
+​​​For Appointment
++88 01711444370
+​Consulting Room Number: 209 @ 2nd floor
+Everyday, Afternoon 3.00 PM to Night 08.00 PM\n\n
+Burn  Plastic Department\n\n
+
+Dr. Kazi Imran Ahmed
+MBBS, BCS, FCPS (Plastic Surgery), MRCS (London)
+Comilla Medical College &amp; Hospital
+Cosmetic Surgeons
+​For ​Appointment
++88 01776365430
+​Consulting Room Number: 612 @ ​​5th floor
+Everyday, Afternoon 03.00 PM to Evening 6.00 PM\n\n
+OBSTETRICS &amp; GYNAECOLOGY DEPARTMENT\n\n
+
+Dr. Nasrin Akter Popy
+
+MBBS, BCS (Health), FCPS (Gynae)
+Transvaginal Ultrasound, Laparoscopy &amp; Hysteroscopy Specialist
+Obstetrics and Gynaecology
+​​​For ​Appointment
++88 01709855911
+​Consulting Room Number: 207, 1st Floor
+Morning 07.00 AM to Morning 08.00 A
+​Afternoon 03.00 PM to Night 08.00 PM\n\n
+
+Dr. Lipi Pal
+
+MBBS (DMC), BCS (Health), MCPS, FCPS
+Comilla Medical College &amp; Hospital
+Obstetrics and Gynaecology
+​​For ​Appointment
++88 01719160084
+
++88 01949807778
+​Consulting Room Number: 607, ​​5th floor
+Everyday, Afternoon 04.00 PM to Night 07.00 PM
+FRIDAY Morning 10.00 AM to Afternoon 01.00 PM\n\n
+
+Dr. Mohsina Abedin Koli
+
+MBBS, BCS (Health), FCPS (Ob/Gyn)
+Obstetrics and Gynaecology
+​​For Appointment
++88 01747203719
+​Consulting Room Number: 603, 5th Floor
+Everyday, Afternoon 03.00 PM to Night 08.00 PM\n\n
+
+Dr. Nazma Mojumder Lira
+
+MBBS, MCPS, FCPS (OB/GYN)
+General Hospital (Comilla Sadar Dakshin)
+Obstetrics and Gynaecology
+​​​For ​Appointment
++88 01621069681
+​Consulting Room Number: 218, 1st floor
+Everyday, Afternoon 04.00 PM to Night 7.00 PM\n\n
+GENERAL SURGERY​ Department\n\n
+
+Dr. kazi Israt Jahan
+
+MBBS, BCS (Health), FCPS
+General Hospital (Comilla Sadar Dakshin)
+Surgeon
+General &amp; Laparoscopic, Special interest in Breast and piles Surgery
+​​For ​Appointment
++88 01778077590
+​Consulting Room Number: 6th Floor
+Everyday, Afternoon 04.00 PM to Night 07.00 PM\n\n
+
+Dr. Mohd Aminul Islam
+
+MBBS, BCS (Health), FCPS (Surgery)
+Comilla Medical Collage &amp; Hospital
+General and Laparoscopic Surgeon
+​​​For ​Appointment
++88 01712520747
+​Consulting Room Number: 5th Floor, 608
+Everyday, Afternoon 03.00 PM to Night 07.00 PM\n\n
+
+
+
+
+
+
+
+
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+          />
+
+    </RelativeLayout>
+    </ScrollView>

@@ -1,0 +1,162 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A. K. M . Azad
+Qualification :MBBS, MPH, Diploma in Orthpaedic Surgery, FRHS ( London )
+Expertise :Orthopaedic Surgeon
+Organization:Liver, Gastric, General Hospital &amp; Research Institute
+Chamber:Liver, Gastric, General Hospital &amp; Research Institute
+Location:House No # 100/1, Road No # 11/A, Satmosjid Road1209,
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold"
+            android:layout_alignBaseline="@+id/docchi8"
+            android:layout_alignBottom="@+id/docchi8"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A. M. Farid Uddin Ahmad
+Qualification :MBBS, FCPS ( Surgery ), MS ( Ortho. )
+Expertise :Orthopaedic Surgeon
+Organization:National Institute of Traumatology, Orthopaedics and Rehabilitation ( NITOR - Pongu Hospital)
+Chamber:Comfort Diagnostic Centre &amp; Comfort Nursing Home - Green Road
+Location:Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. A.F. Masood
+Qualification :MBBS, FRCS ( Eng. ), FICS
+Expertise :Orthopaedic Surgeon
+Organization:Bangladesh Institue of Child Health, Dhaka Shishu Hospital ( From Rtd. )
+Chamber:Ibn Sina Diagnostic &amp; Imaging Center
+Location:House # 47, Road # 9/A, SAtmasjid Road, Dhanmondi, Dhaka - 1209, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi4"
+            android:layout_below="@id/docchi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Professor Dr. A.K.M. Ishaque
+Qualification :D-Ortho, MS ( Ortho ), FPOA
+Expertise :Orthopaedic Surgeon
+Organization:Former Director &amp; Prof. BSMMU
+Chamber:Monowara Hospital (Pvt) Ltd.
+Location:54, Siddeshwari Road, Dhaka - 1217
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A.N.M. Harunur Rashid ( Uzzal )
+Qualification :MBBS, MS ( Ortho )
+Expertise :Orthopaedic Surgeon
+Organization:Sir Salimullah Medical College &amp; Mitford Hospital
+Chamber:Popular Diagnostic Centre Ltd - Dhanmondi Branch
+Location:House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. A.T.M Khaliquzzaman
+Qualification :MBBS ( DMC ), D - Orth, FAO ( Swiss ), MOAA ( Swiss )
+Expertise :Orthopaedic Surgeon
+Organization:Samorita Hospital Ltd.
+Chamber:Samorita Hospital Ltd.
+Location:89/1 Panthapath, Dhaka - 1215, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:background="#fff"
+            android:elevation="16dp"
+            android:gravity="center"
+            android:text="
+Doctor's Name:Dr. Abu Zafor Chowdhury (Biru)
+Qualification :MBBS, MS(Ortho)
+Expertise :Orthopaedic Surgeon
+Organization:Bangabandhu Sheikh Mujib Medical University (BSMMU)
+Chamber:City Hospital Ltd.
+Location:1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
+
+
+        </RelativeLayout>
+    </ScrollView>

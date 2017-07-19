@@ -1,0 +1,202 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Islami Bank Hospital Khulna
+Address
+	: 	Plot No-31, Main Road-3, Block-D, Section-11 Mirpur, Dhaka-1000
+Telephone
+	: 	02-9027962-3
+E-Mail
+	: 	ibhmirpur@gmail.com
+Consultant Appointment
+	: 	01783610678
+Fax
+	:
+"
+
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+Dr. Sheikh Sayidul Haque
+FCPS(Surgery), FRCS(Glasgow)
+Laparoscopic  &amp;amp; Colorectal Surgeon
+Higher Training
+King College Hospital(London)
+Sir Gongaram Hospital(Delhi)
+Associate Professor Surgery
+Khulna Medical College Hospital\n
+Time Schedule  : 7 to 9 pm
+Contact Number: +88041810742
+e-mail: ibh_khulna@yahoo.com\n\n
+Dr. Syed Mozammel Hossain
+MBBS, FCPS(Surgery)
+Special in Breast Surgery
+Laparoscopic  &amp;amp; General Surgeon,
+Research Coordinator,
+International Breast Cancer
+Research Foundation, USA
+Assistant Professor of Surgery
+Khulna Medical Collage Hospital\n
+Work sedulous    : 7 to 9 pm
+Contact Number :+ 88041810742
+e-mail: ibh_khulna@yahoo.com\n\n
+Dr. Md. Mahbubul Haque
+Medicine  &amp; Cardiology
+MCPS(Medicine), MD(Card)
+Assistant prof. of medicine Depart.
+Khulna Medical Collage  &amp; Hospital
+\n
+Room No               : 206
+Time Schedule     : 3  &amp; 10 pm
+Contact Number  : 88041810742
+e-mail : ibh_khulna@yahoo.com\n\n
+Dr. Md. Sirajul Islam
+Medicine
+MBBS, FCPS(Medicine)
+Assistant prof. of medicine Department
+Khulna Medical Collage  &amp; Hospital\n
+Room No                : 210
+Time Schedule      : 10 to 12 pm
+Contact Number   : 88041810742
+e-mail   : ibh_khulna@yahoo.com\n\n
+Dr. Sk. Amir Hossain
+Medicine
+MBBS, FCPS(Medicine), DTCD
+Assistant prof. of medicine Department
+Khulna Medical Collage  &amp; Hospital\n
+Room No               : 211
+Time Schedule     : 3 to 4 pm
+Contact Number : 88041810742
+e-mail : ibh_khulna@yahoo.com\n\n
+
+Md. Mahbubul Haque
+Surgeon Of Cardiology  &amp; Medicine
+MBBS, MCPS(Medicine), MD(Card)
+Assistant Professor Of Cardiology Department
+Shahid Sheikh Abu Naser Specialized Hospital, Khulna\n
+Room No               : 206
+Time Schedule       : 3  &amp; 10 pm
+Contact Number   : +88041810742
+e-mail : ibh_khulna@yahoo.com\n\n
+S. M. Abdul Wahab
+Cardiology
+MBBS, MD(Card)
+Assistant Professor of Cardiology Department
+Khulna Medical Collage  &amp; Hospital\n
+Room No                 : 305/6
+Time Schedule      : 1.30 to 2.30 pm
+Contact Number   : +88041810742
+e-mail : ibh_khulna@yahoo.com\n\n
+Dr. Zannatul Ferdous Jesmin
+Consultant of Gynae
+MBBS, DGO, FCPS
+Assistant Professor (Gynae)\n
+Room No               : 205
+Time Schedule     : 2.30 to 3.30 pm
+Contact Number : +88041810742
+e-mail   : ibh_khulna@yahoo.com\n
+Dr. Nasreen Kabir
+Consultant of Gynae
+MBBS, DGO, FCPS
+Assistant Professor (Gynae)\n
+Room No               : 213
+Time Schedule     : 4 to 6 pm
+Contact Number : +88041810742
+e-mail   : ibh_khulna@yahoo.com\n\n
+Dr. Anjuman ara
+Consultant of Gynae
+MBBS, MS(Gynae  &amp; Obs.)
+Assistant Professor (Gynae)\n
+Room No              : 214
+Time Schedule    : 3 to 5 pm
+Contact Number : +88041810742
+e-mail   : ibh_khulna@yahoo.com\n\n
+Dr. Mahfuza Ferdous
+Consultant of Gynae
+MBBS, DGO(Gynae  &amp; Obs.)\n
+Room No               :
+Time Schedule     : 10 to 1 pm  &amp; 7 to 9pm
+Contact Number : +88041810742
+e-mail     : ibh_khulna@yahoo.com\n\n
+Dr. A. K. M. Mamunur Rashid
+MBBS, DCH, MD(Paed), MACP
+Grad. Cert. P. Rheum(UWA, Australia)
+Specially Trained in Pediatric  &amp; Adolescent Rheumatology
+CHILD SPECIALIST  &amp; PEDIATRIC RHEUMATOLOGIST
+Associate Professor Department of Pediatrics
+Khulna Medical Collage Hospital\n
+Room No                : 208
+Time Schedule     : 5 to 6.30 pm
+Contact Number : +88041810742
+e-mail   : ibh_khulna@yahoo.com\n\n
+Dr. Forrukh Ahammad
+MBBS, MCPS, MD(Child
+Consultant of Child
+Khulna Medical Collage  &amp; Hospital\n
+Room No:
+Time Schedule   : 4 to 8 pm
+Contact Number: +88041810742
+e-mail : ibh_khulna@yahoo.com\n\n
+Dr. Ehsanul Kabir
+MBBS, DCH
+Consultant of Child
+Child Specialist from Malaysia\n
+Room No              : 208
+Time Schedule    : 9 to 2  &amp; 5 to 9 pm
+Contact Number : 88041810742
+e-mail : ibh_khulna@yahoo.com\n\n
+
+Dr. G. M. Abu Zafar
+Eye Specialist  &amp;  Surgeon
+MBBS(DMC), FCPS(Eye)
+Senior Consultant(Eye)\n
+Room No  : 207
+Time Schedule : 11 to 1pm  4 to 8 pm
+Contact Number : 88041810742
+e-mail : ibh_khulna@yahoo.com\n\n
+
+Dr. Md. Emranul Islam Abir
+Eye Specialist  &amp;  Surgeon
+MBBS, BCS, FCPS\n
+Room No            : 304
+Time Schedule     : 5 to 8 pm(Sat to Thu)
+Contact Number : 88041810742
+e-mail   : ibh_khulna@yahoo.com
+
+
+"
+
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+/>
+
+    </RelativeLayout>
+    </ScrollView>

@@ -1,0 +1,32 @@
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.imran.doctorscorner.Chittagong"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Top Ranked Hospitals"
+
+        android:padding="10dp"
+        android:textSize="23sp"
+        android:gravity="center"/>
+
+    <ListView
+        android:id="@+id/listtophos"
+        android:background="#fff"
+        android:elevation="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@color/cardview_dark_background"
+        android:dividerHeight="5dp"
+        android:clickable="true"
+
+        >
+
+    </ListView>
+</LinearLayout>

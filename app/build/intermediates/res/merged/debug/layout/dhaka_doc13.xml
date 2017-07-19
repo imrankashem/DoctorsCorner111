@@ -1,0 +1,421 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+UNITED HOSPITAL LIMITED
+PLOT 15, ROAD 71, GULSHAN, DHAKA-1212 BANGLADESH
+TEL: +88 02 8836444, +88 02 8836000
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="43dp"
+            android:gravity="center"
+            android:text="
+
+RESPIRATORDY MEDICINE\n\n
+
+PROF. DR. A. K. M. MUSTAFA HUSSAIN
+MBBS, DTCD, MD (CHEST)
+CONSULTANT\n\n
+
+
+DR. ADNAN YUSUF CHOWDHURY
+MBBS, MCPS, MD (Chest Diseases)
+Consultant\n\n
+
+
+PROF. DR. IQBAL HASAN MAHMUD
+MBBS, DTCD
+Consultant\n\n
+
+
+PLASTIC SURGERY\n\n
+
+DR. MD. ABDUL MABIN
+MBBS, (DMC), DSS (Univ of Vienna), Fellow in Specialiozed Surgery (Plastic &amp;amp; Reconstructive)
+Consultant\n\n
+
+
+ONCOLOGY\n\n
+
+DR. A F M KAMAL UDDIN
+MBBS, DTCD, MD (Radiotherapy)
+Consultant\n\n
+
+
+DR. ALIYA SHAHNAZ
+MBBS, FCPS ( Radiotherapy)
+Consultant\n\n
+ 
+
+DR. ASHIM KUMAR SENGUPTA
+MBBS, M.Phil
+Associate Consultant\n\n
+
+
+DR. SAUMEN BASU
+MBBS, MD (Radiation Oncology), DNB (Radiation Oncology)
+Consultant\n\n
+
+
+DR. MD. EHTESHAMUL HOQUE
+MBBS, BCS (Health), M.Phil (Radiotherapy)
+Consultant\n\n
+
+
+DR. FERDOUS SHAHRIAR SAYED
+MBBS, MD
+Consultant\n\n
+
+
+ORTHOPAEDICS\n\n
+
+DR. A H M REZAUL HAQUE
+MBBS, MS (Ortho)
+Consultant\n\n
+
+
+DR. AMINUL HASSAN
+MBBS, D.Orth, MS (Orth), FACS
+Consultant &amp; Chief Orthopaedic Surgeon\n\n
+
+
+LAB MEDICINE\n\n
+
+PROF. DR. A. F. S. A. WASEY
+MBBS, DMM (Malaysia), FCPS (Microbiology) Advanced Training in Immunology
+Consultant\n\n
+
+
+DR. ANISA KHANAM
+MBBS, MD (Pathology)
+Associate Consultant\n\n
+
+
+GENERAL SURGERY\n\n
+
+DR. ABU SAYEED M.M. RAHMAN
+MBBS, FRCS (Edin), FRCS (Glasg)
+Consultant\n\n
+
+
+PROF. DR. BRIG. GEN. (RETD.) M. JAHANGIR HUSSAIN
+MBBS, FCPS (Surgery)
+Consultant\n\n
+
+
+INTERNAL MEDICINE\n\n
+
+DR. AFSANA BEGUM
+MBBS, FCPS (Med)
+Associate Consultant\n\n
+
+DR. MOHAMMAD JAHANGIR TALUKDER
+MBBS, MRCP (UK.)
+Associate Consultant\n\n
+
+
+DR. MD. IQBAL HOSSAIN
+MBBS, MRCP (Ireland)
+Consultant\n\n
+
+
+PROF. DR. KANIZ MOULA
+MBBS, FCPS (Medicine)
+Consultant\n\n
+
+
+DR. MAJ GEN (RETD.) M.A. MOYEED SIDDIQUI
+MBBS, MCPS, FCPS (BD),FCPS (PAK)
+Consultant\n\n
+
+
+DR. PRADIP R SAHA  
+MBBS, FCPS  
+Consultant\n\n
+
+
+CARDIOLOGY\n\n
+
+PROF. DR. AFZALUR RAHMAN
+MBBS, MD (Cardiology), PhD (Cardiology)
+Consultant\n\n
+ 
+
+DR. FATEMA BEGUM
+MBBS, FCPS (Med), MD (Card)
+Consultant\n\n
+
+
+DR. KAISAR NASRULLAH KHAN
+MBBS, FCPS (Med), MD (Card)
+Consultant\n\n
+
+
+DR. MOMENUZZAMAN
+MBBS, D-Card. MD (Card)
+Chief Consultant\n\n
+
+
+GENERAL &amp; LAPAROSCOPIC SURGERY\ 
+
+PROF. DR. ANISUR RAHMAN
+MBBS (DMC), MSc (Canada), FCPS (Surgery), FRCS (Glasgow, UK)
+Consultant\n\n
+
+
+PAEDIATRICS\n\n
+
+DR. ASHRAF A. SHEIKH
+MBBS, DCH (Glasgow), MRCP (London) UK MRCP (Ireland)
+Consultant\n\n
+
+
+DR. MD. MOSHIUR RAHMAN
+MBBS, FCPS, DCH (Dublin), MRCP (Dublin)
+Consultant\n\n
+
+
+RADIOLOGY AND IMAGING\n\n
+
+DR. JAN MOHAMMAD
+MBBS, M.Phil, MD
+Consultant\n\n
+
+
+CRITICAL CARE\n\n
+
+DR. MOHD. MANIRUZZAMAN
+MBBS(DMC), MD (Anaesthesia)
+Consultant\n\n
+
+
+GASTROENTEROLOGY &amp; HEPATOLOGY\n\n
+
+PROF. DR. BRIG GEN (RETD) MD. BAHAR HUSSAIN
+MBBS, FCPS (Medicine)
+Consultant\n\n
+
+
+DR. FOWAZ HUSSAIN (SHUVO)
+MBBS, MD (Hepatology)
+Consultant\n\n
+
+
+DR. MOHAMMED MAHBUB ALAM
+MBBS, MD, PhD (KI, Sweden), MFCR (USA)
+Consultant\n\n
+
+
+OBSTETRICS &amp; GYNAECOLOGY\n\n
+
+PROF. DR. FARHANA DEWAN
+MBBS, FCPS
+Consultant\n\n
+
+
+DR. HASINA AFROZ
+MBBS, MS (Obs.&amp; Gynae.), MCPS, FCPS
+Consultant\n\n
+
+
+DR. NASEEM MAHMUD
+MBBS, DTM, Ph.D,
+Consultant\n\n
+
+
+
+OPHTHALMOLOGY\n\n
+
+DR. FARIDUL HASAN
+MBBS, DO (DU) MS (Ophthalmology)
+Consultant\n\n
+
+
+
+NEUROSURGERY\n\n
+
+PROF. DR. BRIG GEN (RETD.) H M SHAFIQUL ALAM
+MBBS,FCPS
+Consultant\n\n
+
+DR. M AL AMIN SALEK
+MBBS, MCPS (Surgery), FCPS (Surgery), MRCS (eng), FCPS
+Consultant\n\n
+
+
+CARDIAC SURGERY\n\n
+
+DR. JAHANGIR KABIR
+MBBS, MS (CTS)
+Chief Cardiac Surgeon &amp; Director – Cardiac Centre\n\n
+
+
+DR. NIZAM UDDIN AHMED
+MBBS, MS (CTS)
+Associate Consultant\n\n
+
+
+NEUROLOGY\n\n
+
+DR. KANUJ KUMAR BARMAN
+MBBS, Msc, MPit, MD(Neurology), ASEPA Fellow in Epileptology (SCTIMST, India), FCPS (Surgery), AMBO fellow (NCVCRI, Osaka, Japan)
+Consultant\n\n
+
+
+PROF. DR. MD. MAHBUBUR RAHMAN
+MBBS, FPCS(Medicine), MD(Neurology), Advanced Training in Neurology (Canada)
+Consultant\n\n
+
+
+DERMATOLOGY\n\n
+
+PROF. DR. KAZI A. KARIM
+MBBS, DDV (Vienna), MSSVD (London)
+Consultant\n\n
+
+
+DR. MORAL NAZRUL ISLAM
+MBBS, DD (Singapore), DHRS, FDCS, FICD (USA)
+Consultant\n\n
+
+
+DR. BRIG. GEN M. NURUL AMIN
+MBBS, DDV, MD, FCPS
+Consultant\n\n
+
+
+DENTISTRY\n\n
+
+DR. LUTFUN NAHAR
+BDS, MSc (Singapore)
+Specialist\n\n
+
+
+DR. MD. NAZRUL ISLAM
+BDS, MSc (Singapore)
+Specialist\n\n
+
+
+NUCLEAR MEDICINE\n\n
+
+DR. M A WAHAB
+MBBS, DNM (DU), FNM (UK)\n\n
+
+
+
+UROLOGY\n\n
+
+PROF. DR. M. ABDUS SALAM
+MBBS, FCPS (Oncological Urology)
+Consultant\n\n
+
+
+DR. M. ZAHID HASAN
+MBBS, MS (Urology)
+Consultant\n\n
+
+
+NEPHROLOGY\n\n
+
+PROF. DR. M. MUJIBUL HAQUE MOLLAH
+MBBS, MRCP (UK),Fellow Nephrology (UK)
+Consultant\n\n
+
+
+FAMILY MEDICINE\n\n
+
+DR. MAHBOOB RAHMAN KHAN
+MBBS, MD (USA)
+Family Physician\n\n
+
+
+ANESTHESIOLOGY\n\n
+
+DR. MUNSHI KALAMUR RAHMAN
+MBBS, MD
+Consultant\n\n
+
+
+PROF. DR. BRIG GEN (RTD) MD NAZMUL AHSAN
+MBBS, FCPS
+Consultant\n\n
+
+
+PSYCHIATRY\n\n
+
+PROF. DR. COL MD NURUL AZIM (RETD)
+MBBS, MD, FCPS
+Consultant\n\n
+
+
+NEONATOLOGY\n\n
+
+DR. NARGIS ARA BEGUM
+MBBS, FCPS (Paed), MD (neonatology),Fellow New Born Medicine (Singapore)
+Consultant\n\n
+
+
+DIABETES &amp; ENDOCRINOLOGY\n\n
+
+DR. NAZMUL ISLAM
+MBBS, Diploma in Internal Medicine (UK), MRCP, US Board Certified in Medicine, Diabetes &amp; Endocrine
+Consultant\n\n
+
+
+NEPHROLOGY\n\n
+
+PROF. DR. NURUL ISLAM
+MBBS, MRCP (UK)
+Consultant\n\n
+
+
+OBSTETRICS &amp; GYNAECOLOGY\n\n
+
+DR. NUSRAT ZAMAN 
+MBBS, FCPS 
+Consultant \n\n
+
+
+DIABETES &amp; ENDOCRINOLOGY \n\n
+
+DR. PRASHANTA PRASUN DEY
+MBBS, MD
+Consultant\n\n\n\n
+CONTACT ADDRESS 
+PLOT 15, ROAD 71, GULSHAN, DHAKA-1212 BANGLADESH 
+TEL: +88 02 8836444, +88 02 8836000 
+FAX: +88 02 8836446 
+EMAIL: INFO@UHLBD.COM\n\n
+"
+            android:textColor="@color/colorPrimary"
+            android:textSize="23sp"
+
+ />
+
+    </RelativeLayout>
+    </ScrollView>

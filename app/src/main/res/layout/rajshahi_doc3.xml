@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Amana Hospital Limited
+Address: Jhoutala More, Laxmipur, Rajpara
+Rajshahi, Bangladesh
+Tel. : 0721-772686
+Cell: 01845-988815
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+ Gynecologist &amp; obstetrics Specialist in Amana Hospital Rajshahi\n\n
+Prof.Dr.Hasina Akhtar 
+MBBS,FCPS (Gyne &amp; Obs)\n\n
+
+Dr. Shipra Chudhory 
+MBBS, FCPS (Gyne &amp; Obs)\n\n
+
+Dr.Saleha Jesmin (Shilpi) 
+MBBS,FCPS(Gyne &amp; Obs)\n\n
+
+Dr.Salma Ar-Jumand Banu 
+MBBS,DGO,FCPS (Gyne)\n\n
+
+
+Dr.Howa Begum Siddiqa 
+MBBS,DGO,FCPS\n\n
+
+Dr.Tahsina Shamim Tasu
+MBBS,DGO (Gyne &amp; Obs)\n\n
+
+Dr.Khandoker Sahely Nasrin Lina 
+MBBS,MS (Gyne &amp; Obs)\n\n
+
+Dr.Nasrin Begum (Doty) 
+MBBS,DGO (Obs &amp; Gyne)\n\n
+
+Dr.Shahina Akhtar Bably 
+MBBS,DGO, PHD (Felo)\n\n
+
+Dr.Wahida khatun 
+MBBS,BCS,MS(Gyne&amp;Obs)\n\n
+
+Dr.Sultana Najnin (Rita)
+MBBS,DGO(Gyne &amp; Obs)\n\n
+
+Dr.Fatema Siddiqua 
+MBBS,DGO,FCPS (Gyne &amp; Obs)\n\n
+
+Dr. Abeda Khatun (sheema) 
+MBBS DGO (Gyne &amp; Obs)\n\n
+
+Asst.Pro.Dr. Nazmun Naher (Tara) 
+MBBS, (Gyne &amp; Obs)\n\n
+
+Dr. Samima Hasan (Shamoly)
+MBBS, DGO\n\n
+
+Dr. Monira Najnin
+MBBS,BCS (Helth), FCPS (Gyne &amp; Obs)\n\n
+
+
+Medicine Specialist in Amana Hospital Rajshahi\n\n
+
+Dr.Md.Azizul Hoque
+MBBS,MD (Internal medicine)\n\n
+
+Dr.Md.Azizul Hoque Azad
+MBBS,MD (Internal medicine)\n\n
+
+Dr. Prabir Mohan Basak
+MBBS,FCPS (Medicine)\n\n
+
+Dr.Md Nure Alam Siddiqui 
+MBBS, MD (Internal medicine)\n\n
+
+Dr. Mahbubur Rahman Khan (Badsha)
+MBBS, FPCS (Medicine)
+\n\n
+
+
+Dr. Syed Mahbub Alam
+MBBS,MD(Medicine)\n\n
+
+Dr.Md. Nurul Islam
+MBBS,MD(Medicine)\n\n
+
+Dr.Md.Shohidul Islam 
+MBBS,MD (Medicine)\n\n
+
+Dr.Md.Towfiqul Islam 
+MBBS,FCPS (Medicine)\n\n
+
+Dr. Mohammad Motiur Rahman 
+MBBS, FCPS (Medicine)\n\n
+
+Dr.Md.Nurul Islam Chowdhury
+MBBS,MD(Nephrology)\n\n
+
+Dr.Md.Munjur Alahi 
+MBBS,MD (Neuro-medicine)\n\n
+
+Dr.M.Ahmed Ali 
+MBBS,MD (Neuro-medicine), DU\n\n
+
+Dr.Md.Parvez Amin 
+MBBS,Md (Neuro Medicine)\n\n
+
+Dr.M.A.Khalek 
+MBBS,MD (Medicine) D-Cad(Cardiology)\n\n
+
+Dr.Md. Abu Taleb 
+MBBS,Register (Cardiology)\n\n
+
+Dr. Md. Sirajul Islam
+MBBS, MD (Cardiology)\n\n
+
+Dr. Md. Khalequzzaman Sarker
+MBBS, BCS, MD (Gastroenterology) BSMMU (Dhaka)\n\n
+
+Dr.Moh. Harun-R-Roshid
+MBBS,MS,MCPS (Medicine)\n\n
+
+Dr. Mainul Ahsan (Shamim)
+MBBS, PGT, CCD\n\n
+
+Child Specialist in Amana Hospital Rajshahi\n\n
+
+Dr. Kaji Shamim Parveg
+MBBS. MD( Child Kidney, MSMMU)\n\n
+
+Prof. Dr.Sanaul Hoque 
+MBBS,FCPS (Child)\n\n
+
+Dr.Md.Asgar Hossain
+MBBS,FCPS(Pedi)\n\n
+
+Dr. Fuzlul Kader 
+MBBS, MD, (Ped)\n\n
+
+Pro.Dr.Md. Hasanuzzaman Hasu
+MBBS, DCH, (Ped)\n\n
+
+Dr. Sayada Yeasmin
+MBBS, MD (ped)\n\n
+"
+
+
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    </ScrollView>

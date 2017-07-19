@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+Bangladesh Medical College
+Dhanmondi Campus
+Road # 14/A, Dhanmondi, Dhaka-1209, Bangladesh
+Phone: 9120792-93, 9118202, 9124619, 8115843, 8116699
+"
+            android:textStyle="bold"
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="
+
+
+Dr. K. M. Abul Kashem
+Qualification : MBBS, FCPS
+Designation : Consultant
+Expertise : Medicine
+Organization: Bangladesh Medical College
+Chamber: Rainbow Heart Ltd.
+Visiting Hours:
+Location: 68 Shat Masjid Road, Dhanmondi, Dhaka
+Phone: +880-2- 9115602( Chamber ) \n\n
+Dr. Mohammad Hyder Ali
+Qualification : MBBS, FCPS
+Designation : Associate Professor Bangladesh Medical College  Hospital
+Expertise : Medicine
+Organization: Bangladesh Medical College  Hospital, Dhaka, Bangladesh
+Chamber: City Hospital Ltd.
+Visiting Hours:
+Location: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh
+Phone: +880-2-8143312, 8143437, 8143166, 8143167, 9124436, Mobile - 01715024100\n\n
+
+
+
+Professor Dr. Md. Fazlul Kadir
+Qualification : MBBS, FCPS
+Designation : Professor
+Expertise : Medicine
+Organization: Bangladesh Medical college  hospital
+Chamber: Medinova
+Visiting Hours:
+Location: House # 71/A, road # 5/A, Dhanmondi R/A, Dhaka.
+Phone: +880-2-8620353-6, 8624907-10\n\n
+
+Professor Dr. Lutful Kabir
+Qualification : MBBS, FRCP ( UK )
+Designation : Professor, Department of Medicine
+Expertise : Medicine
+Organization: Bangladesh Medical College Hospital
+Chamber: Ibn Sina Diagnostic  Imaging Center
+Visiting Hours:
+Location: House # 48, Road # 9/A, Satmasjid Road, Dhanmondi, Dhaka - 1209, Bangladesh
+Phone: +880-2-9126625-6, 9128835-7, Cell: +880 1717351631 ( Chamber)\n\n
+
+Dr. Md. Dabir Hossain
+Qualification : MBBS, FCPS
+Designation : Assistant Professor
+Expertise : Medicine
+Organization: Bangladesh Medical college  hospital
+Chamber: Medinova Medical Services Ltd.
+Visiting Hours:
+Location: House # 54/1, Road # 4/A, Dhanmondi R/A, Dhaka - 1209
+Phone: +880-2-8620353-6, 8115843\n\n
+
+
+
+"
+
+
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+    </ScrollView>

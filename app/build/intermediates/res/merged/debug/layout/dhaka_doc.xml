@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+      >
+
+
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi1"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:text="Shahid Suhrawardy Hospital
+Ser-e-Banglanagar, Collegegate, Shamoli, Dhaka
+9122560-78."
+        android:textStyle="bold"
+
+
+        android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi2"
+            android:layout_below="@id/docchi1"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Prof. Atika Begum
+MBBS, FCPS (Gynae  Obs)
+Professor Head, Dept. of Obs. Gynae
+Shaheed Suhrawardi Medical College  Hospital (Rtd)
+Chamber: CARe HOSPITAL
+Visiting hour: 7pm—9pm, Thursday  Friday Closed"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi3"
+            android:layout_below="@id/docchi2"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Munira Ferdousi
+MBBS, FCPS (Gynae Obs)
+Assistant Professor, Gynae Obs Dept
+Shaheed Suhrawardi Medical College Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 12 noon—3pm, Friday Closed"
+
+
+
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi4"
+        android:layout_below="@id/docchi3"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:text="Dr. Menoka Ferdous
+MBBS(DMC), BCS(Health), MCPS, MS (Gynae  Obs)
+Consultant, Dept. of Gynae  Obs
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—9pm, Friday Closed"
+
+
+
+        android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi5"
+            android:layout_below="@id/docchi4"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Zeba Ahmed
+MBBS, FCPS (Gynae  Obs) MCPS, DGO (Dublin)
+Consultant Gynecologist
+Shaheed Suhrawardi Medical College Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 6pm—8pm, Friday Closed"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi6"
+            android:layout_below="@id/docchi5"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Zeba Ahmed
+MBBS, FCPS (Gynae  Obs) MCPS, DGO (Dublin)
+Consultant Gynecologist
+Shaheed Suhrawardi Medical College Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 6pm—8pm, Friday Closed"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi7"
+            android:layout_below="@id/docchi6"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Jinnat Ara Islam
+MBBS, MCPS ,FCPS (Gynae  Obs)
+Assistant Professor, Dept. of Gynae Obs
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARe HOSPITAL
+Visiting hour: 5pm—9pm, Friday Closed"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/docchi8"
+        android:layout_below="@id/docchi7"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="43dp"
+        android:textSize="23sp"
+        android:text="Dr. Kashefa Khatun
+MBBS, MS (Gynae  Obs)
+Consultant Gynecologist
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 4pm—7pm, Friday Closed"
+
+
+
+        android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi9"
+            android:layout_below="@id/docchi8"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Fazal Naser
+MBBS (DMC), FCPS (Surgery), MS (Urology), MRCS (Edin),MRCPS(Glasgow)
+Assistant Prof, Dept. of Urology
+Shaheed Suhrawardi Medical College Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 7pm—9pm, Friday Closed"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi10"
+            android:layout_below="@id/docchi9"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Afzal Momin
+MBBS ,MD (Neurology)
+Assistant Professor, Neurology
+Shaheed Suhrawardi Medical College Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 2:30pm—4:30pm, Thursday  Friday Closed"
+
+
+
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/docchi11"
+            android:layout_below="@id/docchi10"
+            android:textColor="@color/colorPrimary"
+            android:layout_marginTop="43dp"
+            android:textSize="23sp"
+            android:text="Dr. Udoy Shankar Roy
+MBBS, MD (Cardiology)
+Assistant Professor of Cardiology
+Shaheed Suhrawardi Medical College  Hospital
+Chamber: CARe Specialized Hospital
+Visiting hour: 6pm—9pm, Friday Closed"
+
+
+
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+
+    </ScrollView>
