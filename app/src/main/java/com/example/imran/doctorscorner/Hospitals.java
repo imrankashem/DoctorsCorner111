@@ -67,7 +67,6 @@ private  Toolbar toolbar;
 
 
 
-
         //for the drawer layout
         mdrawerlayput = (DrawerLayout) findViewById(R.id.DrawerLayout);
 
