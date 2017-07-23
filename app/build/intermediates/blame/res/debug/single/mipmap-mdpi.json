@@ -28,12 +28,12 @@
         "source": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\src\\main\\res\\mipmap-mdpi\\firstaid.png"
     },
     {
-        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\blood.png",
         "source": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\src\\main\\res\\mipmap-mdpi\\blood.png"
+    },
+    {
+        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\hospitals.png",

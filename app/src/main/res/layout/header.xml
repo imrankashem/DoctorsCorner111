@@ -16,7 +16,7 @@
         android:layout_marginStart="51dp"
         android:layout_marginTop="40dp"
         android:padding="20dp"
-        android:text="Select Your City"
+        android:text="Pocket Doc"
         android:textColor="#ffffff"
         android:textSize="20dp"
         android:textStyle="bold|italic" />

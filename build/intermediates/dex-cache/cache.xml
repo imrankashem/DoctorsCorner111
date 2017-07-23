@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="25f84516c2c65de77abf4457f2061e46b9f274d4">
+        sha1="26ad57702928dfc5ab5b0a2d13ea8bdef1b1088d">
         <dex dex="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_45464b3f6ee57b2b8be685f6a7a6cc24d28a0aa4\classes.dex" />
     </item>
     <item
@@ -16,17 +16,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_588faa22902fc6b763496fdd43e5474a21a5d34f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\imran\.android\build-cache\04e82ff13575e24e1fa8e2de0da84cbc9ad5a2e1\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10661ad2dd78ab830ba116dd4e51a5750e8c9c92\classes.dex" />
     </item>
 
 </items>

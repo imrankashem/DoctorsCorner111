@@ -678,9 +678,10 @@
             </intent-filter>
         </activity>
 
-        <service
-            android:name="com.android.tools.fd.runtime.InstantRunService"
-            android:exported="true" />
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.example.imran.doctorscorner.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

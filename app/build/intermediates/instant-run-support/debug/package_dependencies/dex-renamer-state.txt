@@ -1,4 +1,4 @@
-#Wed Jul 19 06:53:27 PDT 2017
+#Sun Jul 23 07:03:17 PDT 2017
 file.2=C\:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_35a9c77269e2ba85b90004ad60bf53a03f07c2e1\\classes.dex
 base.2=C\:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_35a9c77269e2ba85b90004ad60bf53a03f07c2e1
 file.1=C\:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_266701a276893966b11314eff3d2fb1a013bfd88\\classes.dex

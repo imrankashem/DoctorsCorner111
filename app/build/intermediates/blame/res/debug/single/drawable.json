@@ -8,10 +8,6 @@
         "source": "C:\\Users\\imran\\.android\\build-cache\\d15463f9cda38bc6ac8665075c0ea7515bfa59cd\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\specialist11.jpg",
-        "source": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\src\\main\\res\\drawable\\specialist11.jpg"
-    },
-    {
         "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\imran\\.android\\build-cache\\d15463f9cda38bc6ac8665075c0ea7515bfa59cd\\output\\res\\drawable\\notification_bg.xml"
     },
@@ -74,10 +70,6 @@
     {
         "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\imran\\.android\\build-cache\\d15463f9cda38bc6ac8665075c0ea7515bfa59cd\\output\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\specialist2.jpg",
-        "source": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\src\\main\\res\\drawable\\specialist2.jpg"
     },
     {
         "merged": "C:\\Users\\imran\\AndroidStudioProjects\\DoctorsCorner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
