@@ -6,23 +6,38 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1500821408303"
+    timestamp="1500824274346"
     token="-6930739073708779408"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="870" />
+        duration="1020" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="116" />
     <task
         name="verifier"
-        duration="0" />
+        duration="47" />
 
+    <artifact
+        location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
     <artifact
         location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
@@ -73,19 +88,23 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1500821176926"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1500824274346"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1500821408303"
-        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\imran\AndroidStudioProjects\DoctorsCorner\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />

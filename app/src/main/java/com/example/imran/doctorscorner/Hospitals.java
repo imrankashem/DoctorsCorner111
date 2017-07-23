@@ -59,10 +59,11 @@ private  Toolbar toolbar;
             return;
         }
         // use mtoogle in select section
-        Chittagong chi=new Chittagong();
-        FragmentTransaction fragmentTransaction=getSupportFragmentManager().beginTransaction();
-        fragmentTransaction.replace(R.id.fragmentcontainer,chi);
-        fragmentTransaction.commit();
+        ExtraFrag extraFrag=new ExtraFrag();
+
+        FragmentTransaction fragmentTransaction44=getSupportFragmentManager().beginTransaction();
+        fragmentTransaction44.replace(R.id.fragmentcontainer,extraFrag);
+        fragmentTransaction44.commit();
 
 
 
