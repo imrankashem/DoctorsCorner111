@@ -2,6 +2,7 @@ package com.example.imran.doctorscorner;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
+import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
@@ -52,6 +53,20 @@ private  Toolbar toolbar;
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hospitals);
+        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        fab.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent Email = new Intent(Intent.ACTION_SEND);
+                Email.setType("text/email");
+                Email.putExtra(Intent.EXTRA_EMAIL,
+                        new String[]{"imransr6@gmail.com"});  //developer 's email
+                Email.putExtra(Intent.EXTRA_SUBJECT,
+                        "Add your Subject"); // Email 's Subject
+                Email.putExtra(Intent.EXTRA_TEXT, "Dear Developer Name," + "");  //Email 's Greeting text
+                startActivity(Intent.createChooser(Email, "Send Feedback:"));
+            }
+        });
 
       toolbar=(Toolbar) findViewById(R.id.nev_action);
         setSupportActionBar(toolbar);
