@@ -21,7 +21,8 @@ public class Chittagonghos {
             "Chevron Clinical Laboratory (PVT) Ltd.",
             "CSCR (Pvt.) Limited",
             "Chittagong metropoliton hospital"
-,            "CHATTAGRAM INTERNATIONAL DENTAL COLLEGE & HOSPITAL"
+,
+            "Chittagong International Dental College & Hospital "
 
 
 

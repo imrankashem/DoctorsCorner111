@@ -7,13 +7,44 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <TextView
+        android:id="@+id/docchi"
 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp"
+        android:background="#fff"
+        android:elevation="16dp"
+        android:gravity="center"
+        android:text="
+Chittagong Medical College Hospital
+ CMC, চমেক ,57, K.B. FAZLUL KADER ROAD,
+P.S- PANCHLAISH, P.O- CHAWKBAZAR.
+CHITTAGONG, BANGLADESH.
+
+TELEPHONE: +88-031-619400 (P.A TO PRINCIPAL)
+IT DIVISION: +88-01819637685 (FOR WEBSITE RELATED ISSUES)
+HOSPITAL: +88-031-212155
+EMAIL: info@cmc.edu.bd, rashedhasan_cmc@yahoo.com
+
+"
+        android:textColor="@color/colorPrimary"
+
+        android:textSize="23sp"
+
+
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@id/docchi"
         android:gravity="center"
         android:id="@+id/docchi1"
+        android:textStyle="bold"
+        android:background="#fff"
+        android:elevation="16dp"
         android:textColor="@color/colorPrimary"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
@@ -24,8 +55,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
         android:gravity="center"
         android:id="@+id/docchi2"
+        android:background="#fff"
+        android:elevation="16dp"
         android:layout_below="@id/docchi1"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
@@ -39,6 +73,9 @@
     android:layout_height="wrap_content"
     android:gravity="center"
     android:id="@+id/docchi3"
+        android:textStyle="bold"
+        android:background="#fff"
+        android:elevation="16dp"
     android:layout_below="@id/docchi2"
     android:layout_marginTop="43dp"
     android:textSize="23sp"
@@ -51,6 +88,9 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:gravity="center"
+        android:background="#fff"
+        android:textStyle="bold"
+        android:elevation="16dp"
     android:id="@+id/docchi4"
     android:layout_below="@id/docchi3"
     android:layout_marginTop="43dp"
@@ -62,8 +102,11 @@
     android:layout_centerHorizontal="true" />
     <TextView
         android:layout_width="wrap_content"
+        android:textStyle="bold"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:background="#fff"
+        android:elevation="16dp"
         android:id="@+id/docchi5"
         android:layout_below="@id/docchi4"
         android:layout_marginTop="43dp"
@@ -74,10 +117,13 @@
 
         android:layout_centerHorizontal="true" />
     <TextView
+        android:textStyle="bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:id="@+id/docchi6"
+        android:background="#fff"
+        android:elevation="16dp"
         android:layout_below="@id/docchi5"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
@@ -91,7 +137,10 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:id="@+id/docchi7"
+        android:background="#fff"
+        android:elevation="16dp"
         android:layout_below="@id/docchi6"
+        android:textStyle="bold"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
         android:textColor="@color/colorPrimary"
@@ -104,6 +153,9 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:id="@+id/docchi8"
+        android:background="#fff"
+        android:elevation="16dp"
+        android:textStyle="bold"
         android:layout_below="@id/docchi7"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
@@ -117,7 +169,10 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:id="@+id/docchi9"
+        android:background="#fff"
+        android:elevation="16dp"
         android:layout_below="@id/docchi8"
+        android:textStyle="bold"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
         android:textColor="@color/colorPrimary"
@@ -129,7 +184,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
         android:gravity="center"
+        android:background="#fff"
+        android:elevation="16dp"
         android:id="@+id/docchi10"
         android:layout_below="@id/docchi9"
         android:layout_marginTop="43dp"
@@ -145,6 +203,9 @@
         android:gravity="center"
         android:id="@+id/docchi11"
         android:layout_below="@id/docchi10"
+        android:textStyle="bold"
+        android:background="#fff"
+        android:elevation="16dp"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
         android:textColor="@color/colorPrimary"
@@ -156,6 +217,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:background="#fff"
+        android:textStyle="bold"
+        android:elevation="16dp"
         android:id="@+id/docchi12"
         android:layout_below="@id/docchi11"
         android:layout_marginTop="43dp"
@@ -168,6 +232,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="#fff"
+        android:textStyle="bold"
+        android:elevation="16dp"
         android:gravity="center"
         android:id="@+id/docchi13"
         android:layout_below="@id/docchi12"
@@ -183,7 +250,10 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:id="@+id/docchi14"
+        android:textStyle="bold"
         android:layout_below="@id/docchi13"
+        android:background="#fff"
+        android:elevation="16dp"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
         android:textColor="@color/colorPrimary"
@@ -199,6 +269,9 @@
         android:id="@+id/docchi15"
         android:layout_below="@id/docchi14"
         android:layout_marginTop="43dp"
+        android:background="#fff"
+        android:elevation="16dp"
+        android:textStyle="bold"
         android:textSize="23sp"
         android:textColor="@color/colorPrimary"
         android:text="ডাঃ মোঃ নাফিজ আলম , কোড নং-
@@ -212,6 +285,9 @@
         android:id="@+id/docchi16"
         android:layout_below="@id/docchi15"
         android:layout_marginTop="43dp"
+        android:background="#fff"
+        android:textStyle="bold"
+        android:elevation="16dp"
         android:textSize="23sp"
         android:textColor="@color/colorPrimary"
         android:text="ডাঃ শ্রীপতি ভট্টাচার্য , কোড নং- ১০০৯৪৫০
@@ -222,6 +298,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:textStyle="bold"
         android:id="@+id/docchi17"
         android:layout_below="@id/docchi16"
         android:layout_marginTop="43dp"
@@ -236,6 +313,9 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:id="@+id/docchi18"
+        android:textStyle="bold"
+        android:background="#fff"
+        android:elevation="16dp"
         android:layout_below="@id/docchi17"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
@@ -248,9 +328,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:textStyle="bold"
         android:id="@+id/docchi19"
         android:layout_below="@id/docchi18"
         android:layout_marginTop="43dp"
+        android:background="#fff"
+        android:elevation="16dp"
         android:textSize="23sp"
         android:textColor="@color/colorPrimary"
         android:text="ডাঃ সাখাওয়াত আহমদ নাছির , কোড নং-১০৯৮৮৯
@@ -261,6 +344,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:background="#fff"
+        android:elevation="16dp"
+        android:textStyle="bold"
         android:id="@+id/docchi20"
         android:layout_below="@id/docchi19"
         android:layout_marginTop="43dp"
@@ -273,11 +359,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
         android:gravity="center"
         android:id="@+id/docchi21"
         android:layout_below="@id/docchi20"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
+        android:background="#fff"
+        android:elevation="16dp"
         android:textColor="@color/colorPrimary"
         android:text="ডাঃ সেলিনা নজির , কোড নং- ১১২৮২৭
 রেজিষ্ট্রার (শিশু সার্জারী)"
@@ -287,10 +376,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
+        android:textStyle="bold"
         android:id="@+id/docchi22"
         android:layout_below="@id/docchi21"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
+        android:background="#fff"
+        android:elevation="16dp"
         android:textColor="@color/colorPrimary"
         android:text="ডাঃ মোঃ আলী আশরাফ , কোড নং- ১২১৭৮৩
 সহকারী রেজিষ্ট্রার ( শিশু সার্জারী)"
@@ -301,9 +393,12 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:id="@+id/docchi23"
+        android:background="#fff"
+        android:elevation="16dp"
         android:layout_below="@id/docchi22"
         android:layout_marginTop="43dp"
         android:textSize="23sp"
+        android:textStyle="bold"
         android:textColor="@color/colorPrimary"
         android:text="ডাঃ জয়দীপ নন্দী , কোড নং-১০০৪১২৭
 সহকারী রেজিষ্ট্রার (চর্ম ও যৌন)"
@@ -311,8 +406,11 @@
         android:layout_centerHorizontal="true" /><TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
+    android:background="#fff"
+    android:elevation="16dp"
     android:gravity="center"
     android:id="@+id/docchi24"
+    android:textStyle="bold"
     android:layout_below="@id/docchi23"
     android:layout_marginTop="43dp"
     android:textSize="23sp"
@@ -324,9 +422,12 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:gravity="center"
+    android:background="#fff"
+    android:elevation="16dp"
     android:id="@+id/docchi25"
     android:layout_below="@id/docchi24"
     android:layout_marginTop="43dp"
+    android:textStyle="bold"
     android:textSize="23sp"
     android:textColor="@color/colorPrimary"
     android:text="ডাঃ সুশান্ত দাশ , কোড নং- ১২৩৪৯২
@@ -337,6 +438,9 @@
     android:layout_height="wrap_content"
     android:gravity="center"
     android:id="@+id/docchi26"
+    android:background="#fff"
+    android:textStyle="bold"
+    android:elevation="16dp"
     android:layout_below="@id/docchi25"
     android:layout_marginTop="43dp"
     android:textSize="23sp"
@@ -348,13 +452,158 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:gravity="center"
+    android:background="#fff"
+    android:elevation="16dp"
+    android:textStyle="bold"
     android:id="@+id/docchi27"
     android:layout_below="@id/docchi26"
     android:layout_marginTop="43dp"
     android:textSize="23sp"
     android:textColor="@color/colorPrimary"
-    android:text="ডাঃ পার্থ ভট্টাচার্য , কোড নং-১২০৮৫৫
+        android:text="ডাঃ পার্থ ভট্টাচার্য , কোড নং-১২০৮৫৫
 সহকারী রেজিষ্ট্রার (এন্ড্রোক্রাইনোঃ)"
+
+    android:layout_centerHorizontal="true" />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:background="#fff"
+    android:elevation="16dp"
+    android:textStyle="bold"
+    android:id="@+id/docchi28"
+    android:layout_below="@id/docchi27"
+    android:layout_marginTop="43dp"
+    android:textSize="23sp"
+    android:textColor="@color/colorPrimary"
+    android:text="ড
+ ডাঃ ফারহানা আখতার , কোড নং- ১১৪৮০১
+ সহকারী রেজিষ্ট্রার , বার্ন ও প্লাস্টি সার্জা\n\n
+ ডাঃ সাহানাজ আাকতার , কোড নং-
+ সহকারী রেজিষ্ট্রার , বার্ন ও প্লাস্টি সার্জা\n\n
+ ডাঃ মোঃ রিজওয়ানুল হক , কোড নং-৪৫৭৭৮
+ সহকারী রেজিষ্ট্রার ( ডেন্টাল)\n\n
+ সহকারী রেজিষ্ট্রার , কার্ডিয়াক সার্জারী\n
+ডাঃ মোঃ মারুফ হাসান আলম , কোড নং-১২১৩৯১\n
+ডাঃ মোঃ মামুনুর রশীদ , কোড নং-১১২১৫১\n
+ডাঃ রওশন আকতার জাহান , কোড নং- ৪১২২২\n
+
+সহকারী রেজিষ্ট্রার , ভাসকুলার সার্জারী\n
+ডাঃ নূর মোহাম্মদ , কোড নং- ১২০৬৪৩\n
+ডাঃ মোঃ গোলাম হাবীব , কোড নং-৪১৫৩৯\n
+ডাঃ কাজল কান্তি দাশ , কোড নং- ৪৪০২২\n
+সহকারী রেজিষ্ট্রার , কার্ডিয়াক এনেসঃ\n
+ডাঃ দেবাশীষ তালুকদার , কোড নং- ১২১০৪২\n
+ডাঃ লিটন দাশ , কোড নং- ১২০৬৬৫\n
+ডাঃ শুভাশীষ তালুকদার , কোড নং- ১০০৬৭০১\n\n
+সহকারী রেজিঃ (হ্যান্ড এন্ড মাইঃসার্জারী)\n
+ডাঃ মোঃ ফরহাদ আলী , কোড নং- ৪১৯০৫\n\n
+
+সহকারী রেজিষ্ট্রার , এ্যানেসথেসিয়া\n
+ডাঃ জি এ এম সালাউদ্দিন , ােড নং- ১৩৪৭৮৩\n
+
+সহকারী রেজিষ্ট্রার , নেফ্রোলজী \n
+ডাঃ মোঃ রফিক উদ্দিন \n
+সিনিয়র ক্লিনিক্যাল প্যাথলজিষ্ট\n
+ডাঃ বিধান চন্দ্র সেন গুপ্ত , কোড নং-৩৯৪৮৯\n\n
+ ক্লিনিক্যাল প্যাথলজিষ্ট\n
+ ডাঃ আবু হেনা মোঃ সাইফুল করিম , কোডনং-১১৪৭২৯\n
+ ডাঃ মাহমুদা বেগম , কোড নং-১১২৪৬৭\n
+ ডাঃ মাহমুদা বেগম , কোড নং-১১২৪৬৭\n
+ ডাঃ মে াঃ মঈনুল হাসান , কোড নং- ১২৫৭০১\n
+ ডাঃ মুনমুন সেন , কোড নং-১২৭৩২৬\n
+ ডাঃ জাকিয়া মমতাজ প্রিয়তোষ দাশ , কোড নং-৪২৭৫১\n\n
+ রেডিওলজিষ্ট\n
+ ডাঃ শেলী আকতার , কোড নং-১০৯৯৩৭\n
+ রেডিওথোরাপিষ্ট\n
+ ডাঃ অনজন কুমার দে , কোড নং- ১২৪৪৬৩\n
+ ডাঃ মোঃ আবদুল আউয়াল , কোড নং- ৪০৪৬১\n
+ ডাঃ সজীব চৌধুরী , কোড নং- ১২২৫৬০\n
+ এ্যানেসথেসিওলজিষ্ট , পুরাঃ-৬ + নতুন-৪\n
+ ডাঃ আবু ফাতেহ মুহাঃ তারেক ভূঁইয়া , কোড নং-১২৪০৫৬\n
+ ডাঃ তানজিম রেজা , কোড নং- ১২৪৭১০\n
+ ডাঃ আবদুল্লাহ সাকী , কোড নং- ১২৩২৮৫\n
+ ডাঃ আবদুল্লাহ সাকী , কোড নং- ১২৩২৮৫\n
+ ডাঃ মোঃ আবদুল Í াহ আল মামুন , কোড নং- ১১১৯২০\n
+ ডাঃ মোহাম্মদ মুশফিকুর রহমান , কোড নং- ১০১৪০৭৯\n
+ ডাঃ নুর ই জাহান , কোড নরং- ১২২০২৪\n
+ ডাঃ সাহাবউদ্দিন সিদ্দিকী , কোড নং- ১২২১২২\n
+ ডাঃ মোঃ রেজাউল হক টিপু , কোড নং- \n
+ ডেন্টাল সার্জন \n
+ ডাঃ মাকসুদা নাসরিন , কোড নং- ১১৩১৬৩\n
+ ডাঃ অদ্বিতী দে , কোড নং- ১২৪৮৮৯\n
+ ডাঃ রত œ া রানী দাশ , কোড নং- ১১৪৯২৩\n
+ জেনাঃ ইএমও\n
+ ডাঃ কাজী সাইফুল আলম , কোড নং- \n
+ ডাঃ মোঃ ফরিদ উদ্দিন আহমেদ , কোড নং-১০৯৬৫৫\n
+ ডাঃ এ এন এম ফখরুজ্জাহান , কোড নং- ৩৯১৫৯\n
+ ডাঃ মোঃ শামসুল আলম , কোড নং- ১১৪৭৪৩\n
+ ডাঃ মোঃ সাইফুল ইসলাম , কোড নং-১২১৫২৪\n
+ ডাঃ রাজিব পালিত , কোড নং- ৪৩৮৮১\n
+ ডাঃ মোঃ সাজ্জাদ হোসেন , কোড নং-৪৩৮৩১\n
+ মেডিকেল অফিসার , মেডিসিন বহিঃ\n
+ ডাঃ মোঃ তারেক শামস , কোড নং- ১১৩৬১৮\n
+ ডাঃ সুমন দাশ কোড নং- ১১২৭৭৫\n
+ ডাঃ মোঃ তৌহিদুর রহমান , কোড নং- ১১১২৩৬\n
+ ডাঃ মোঃ রাজিবুল ইসলাম , কোড নং- ১২১৭২২\n
+ ডাঃ অনীক চন্দ , কোড নং- ১১৩৯৮৭\n
+ মেডিকেল অফিসার , সার্জারী বহিঃ\n
+ ডাঃ সুধাংশু ব্যানার্জী , কোড নং- ১২০১৭৮\n
+ ডাঃ হ্যাপী চক্রবর্তী , কোড নং- ১২০৫৫২\n
+ ডাঃ সায়েরা বানু শিউলী , কোড নং- ১১৪১৭৪\n
+ ডাঃ মোঃ রমজান আলী , কোড নং-১২০৪৩৬\n
+ মেডিকেল অফিসার , গাইনী বহিঃ\n
+ ডাঃ সুমিষ্ট বড়ুয়া , কোড নং- ১১৩৪৩৩\n
+ শাহীন আরা , কোড নং- ১০১২৫৮৪\n
+ ডাঃ শাহনাজ আকতার , কোড নং-১১৪০১৩\n
+ মেডিকেল অফিসার , শিশুরোগ বহিঃ\n
+ ডাঃ ধীমান দাশ , কোড নং-\n
+ মেডিকেল অফিসার , মানসিক বহিঃ\n
+ ডাঃ মিসবাহুস সালেহীন , কোড নং- \n
+ মেডিকেল অফিসার , চর্ম ওযৌনঃবহিঃ\n
+ ডাঃ ওয়াফা সারোয়ার , কোড নং-১২১৭২৫\n
+ ডাঃ মোঃ রাজিব রহমান চৌধুরী , কোড নং-১২২৩৬৮\n
+ ডাঃ সঞ্জয় প্রসাদ দাশ , কোড নং- ৪৪০১১\n
+ ডাঃ ইশরাত জাহান , কোড নং- ১০৫৯০০\n
+ মেডিকেল অফিসার , ইএনটি বহিঃ\n
+ ডাঃ রুপম ভট্টাচায্য , কোড নং-৪৩৯৫৪\n
+ ডাঃ রীমন দাশ , কোড নং- ১২৩২০১\n
+ ডাঃ আলমগীর মোঃ সোয়েব , কোড নং- ১২২৯৪১\n
+ মেডিকেল অফিসার , চক্ষু বহিঃ\n
+ ডাঃ মোঃ সাইফুল আলম কোড নং- ৪৩৭৭০\n
+ ডাঃ লিপিকা নন্দী , কোড নং- ১২০২৪৯\n
+ মেডিকেল অফিসার , হেমাটোলজী\n
+ ডাঃ মোঃ তারেকুল ইসলাম , কোড নং- ১২০৪৫৭\n
+ ডাঃ মোঃ নজরুল ইসলাম , কোড নং- ১১৩৪৫৪\n
+ ডাঃ অলক দেব , কোড নং- ১১৪৬৩০\n
+ মেডিকেল অফিসার , বহিঃর্র্বিভাগ\n
+ ওয়ার্ড নং-১৪\n
+ ডাঃ ইমরুল কায়সার , কোড নং-১২৪০৪৮\n
+ গাইনী ইউনিট-৪\n
+ ডাঃ বদরুন নেছা , কোড নং- ১০২৮৩২০\n
+ মেডিকেল অফিসার , ক্যাজুয়ালটি \n
+ ডাঃ উম্মে সালমা , কোড নং- ১২০৬০৯\n
+ ডাঃ মোঃ নুরুল আমিন ভুঁইয়া , কোড নং-১২৪০২৮\n
+ সহকারী সার্জন/ এম , ও , রেডিওলজী\n
+ ডাঃ হাসান ইমাম , কোড নং- ৪৩৯৬০\n
+ ডাঃ অপর্না বড় – য়া , কোড নং- ১২১০২৭\n
+ এম ও ,, কার্ডিয়াক সার্জারী\n
+ ডাঃ তাহমিনা আকতার , কোড নং- ১১৫৩১৮\n
+ সহকারী সার্জন( এম ও) , স্পাইন সার্জারী\n
+ ডাঃ সুবর্না রহমান , কোড নং- ১২৪৫১৭\n
+ সহঃ সার্জন(এম ও) , অর্থোপেডিক ট্রমাটোঃ\n
+ ডায়ালাইসিস মেডিকেল অফিসার \n
+
+
+
+
+
+
+
+
+
+
+"
 
     android:layout_centerHorizontal="true" />
 
